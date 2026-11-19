@@ -52,5 +52,8 @@
     "c6cf6b4bb409",
     "584694a35648"
   ],
-  "status": "draft"
+  "status": "pending_review",
+  "rendered": 3,
+  "photo_used": false,
+  "approved": false
 }

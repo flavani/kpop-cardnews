@@ -44,5 +44,8 @@
     "ca5cfab21744",
     "5eb34ae1552f"
   ],
-  "status": "draft"
+  "status": "pending_review",
+  "rendered": 2,
+  "photo_used": false,
+  "approved": false
 }
