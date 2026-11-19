@@ -41,7 +41,10 @@
   "candidate_ids": [
     "83cd2b3b5bbb"
   ],
-  "status": "draft",
+  "status": "pending_review",
   "photo": "https://img.mydaily.co.kr/photos/2026/11/18/2026111818213899614_l.jpg",
-  "credit": "Photo: FIN.K.L official SNS"
+  "credit": "Photo: FIN.K.L official SNS",
+  "rendered": 2,
+  "photo_used": true,
+  "approved": false
 }
