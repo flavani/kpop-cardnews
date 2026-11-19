@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-19T11:20:00Z",
+  "last_run": "2026-11-19T12:05:00Z",
   "processed": {
     "811a88d7d126": {
       "at": "2026-11-19T09:10:00Z",
@@ -516,6 +516,114 @@
     "5cd0ecdcfed9": {
       "at": "2026-11-19T11:20:00Z",
       "result": "skip:excluded"
+    },
+    "c2f098292a06": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:excluded"
+    },
+    "8633eba5bacf": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:excluded"
+    },
+    "6622a1a9a58a": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:excluded"
+    },
+    "418ae244f86d": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:excluded"
+    },
+    "532a9146f784": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:excluded"
+    },
+    "e525946c49f3": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:excluded"
+    },
+    "4fd7e53b952d": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:excluded"
+    },
+    "f0fc299ec78b": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:excluded"
+    },
+    "d352104d170e": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:excluded"
+    },
+    "0010c75e6fb1": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:excluded"
+    },
+    "a3763734d65b": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:excluded"
+    },
+    "8f77aeac30ce": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:excluded"
+    },
+    "5bfe5df0c37a": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:excluded"
+    },
+    "87c758d3abba": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:excluded"
+    },
+    "acedea3df16c": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:not-kpop"
+    },
+    "691d7d56b2d7": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:not-kpop"
+    },
+    "5ed0786ee268": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:not-kpop"
+    },
+    "34690020b704": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:not-kpop"
+    },
+    "623ebae66849": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:not-kpop"
+    },
+    "ee84e9493c36": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:not-kpop"
+    },
+    "6b2913ac9768": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:not-kpop"
+    },
+    "a76523641b70": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:not-kpop"
+    },
+    "5794496d6071": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:not-kpop"
+    },
+    "fe2beb1225b7": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:not-kpop"
+    },
+    "c5e64d9bacee": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:not-kpop"
+    },
+    "b9b402b893e1": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "skip:not-kpop"
+    },
+    "5e3d1da02b02": {
+      "at": "2026-11-19T12:05:00Z",
+      "result": "20261119-2104-wego6-six-hearts"
     }
   }
 }
