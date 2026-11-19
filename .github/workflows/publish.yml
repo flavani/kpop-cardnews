@@ -28,4 +28,5 @@ jobs:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
         run: python scripts/publish.py
       - if: always()
-        run: bash scripts/commit_push.sh "발행: 인스타그램 게시"
+        run: |
+          bash scripts/commit_push.sh "발행: 인스타그램 게시"

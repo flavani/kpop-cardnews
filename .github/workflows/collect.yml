@@ -24,4 +24,5 @@ jobs:
           cache: pip
       - run: pip install requests feedparser
       - run: python scripts/collect.py
-      - run: bash scripts/commit_push.sh "수집: 뉴스 후보 갱신"
+      - run: |
+          bash scripts/commit_push.sh "수집: 뉴스 후보 갱신"
