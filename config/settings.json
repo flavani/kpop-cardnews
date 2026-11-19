@@ -1,5 +1,5 @@
 {
-  "mode": "review",
+  "mode": "auto",
   "handle": "@kpop.quokka",
   "max_posts_per_run": 6,
   "candidate_window_hours": 36,

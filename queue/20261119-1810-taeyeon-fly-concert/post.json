@@ -52,9 +52,9 @@
     "c6cf6b4bb409",
     "584694a35648"
   ],
-  "status": "pending_review",
+  "status": "approved",
   "photo_used": true,
-  "approved": false,
+  "approved": true,
   "issue": 19,
   "rendered": 4
 }

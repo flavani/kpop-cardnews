@@ -44,11 +44,11 @@
   "candidate_ids": [
     "d990afcebff3"
   ],
-  "status": "pending_review",
+  "status": "approved",
   "photo": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1280/21/2026/11/2026111817293948568_1.jpg",
   "credit": "Photo: HYBE JAPAN",
   "photo_used": false,
-  "approved": false,
+  "approved": true,
   "issue": 21,
   "rendered": 3
 }
