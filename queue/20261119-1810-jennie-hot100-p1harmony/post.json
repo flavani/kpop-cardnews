@@ -7,9 +7,9 @@
   "headline": "JENNIE's 'Dracula' holds No. 3 on Billboard Hot 100",
   "highlight": "JENNIE",
   "sub": "P1Harmony's 'BLOW UP' debuts at No. 4 on the Billboard 200",
-  "photo": "https://i.ytimg.com/vi/0UPDBODtxzw/maxresdefault.jpg",
-  "focus": "50% 35%",
-  "credit": "Photo: Tame Impala",
+  "photo": "https://isp.edailystatic.com/data/isp/image/2026/08/27/isp20260827000072.1280x.0.jpg",
+  "focus": "50% 30%",
+  "credit": "Photo: OA Entertainment",
   "info": {
     "title": "This week on Billboard",
     "rows": [
@@ -42,9 +42,5 @@
   "candidate_ids": [
     "ad576223b4e0"
   ],
-  "status": "pending_review",
-  "rendered": 2,
-  "photo_used": true,
-  "approved": false,
-  "issue": 9
+  "status": "draft"
 }

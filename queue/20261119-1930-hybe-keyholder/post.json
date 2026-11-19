@@ -7,7 +7,7 @@
   "headline": "HYBE to acquire KeyHolder, co-owner of Nogizaka46's agency",
   "highlight": "HYBE",
   "sub": "HYBE JAPAN to take up to 50.1% for about ₩105.7 billion",
-  "focus": "50% 40%",
+  "focus": "50% 50%",
   "info": {
     "title": "Deal details",
     "rows": [
@@ -44,9 +44,7 @@
   "candidate_ids": [
     "d990afcebff3"
   ],
-  "status": "pending_review",
-  "rendered": 2,
-  "photo_used": false,
-  "approved": false,
-  "issue": 14
+  "status": "draft",
+  "photo": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1280/21/2026/11/2026111817293948568_1.jpg",
+  "credit": "Photo: HYBE JAPAN"
 }

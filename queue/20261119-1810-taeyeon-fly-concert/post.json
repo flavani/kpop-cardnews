@@ -7,9 +7,9 @@
   "headline": "TAEYEON to hold solo concert 'F.L.Y.' at KSPO DOME in January",
   "highlight": "TAEYEON",
   "sub": "First solo concert in about 1 year 10 months, then 5 Asian cities",
-  "photo": null,
-  "focus": "50% 40%",
-  "credit": null,
+  "photo": "https://img.etoday.co.kr/pto_db/2026/11/20261118140456_2419626_1200_1698.jpg",
+  "focus": "50% 30%",
+  "credit": "Photo: SM Entertainment",
   "info": {
     "title": "Concert details",
     "rows": [
@@ -52,9 +52,5 @@
     "c6cf6b4bb409",
     "584694a35648"
   ],
-  "status": "pending_review",
-  "rendered": 3,
-  "photo_used": false,
-  "approved": false,
-  "issue": 12
+  "status": "draft"
 }
