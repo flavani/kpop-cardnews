@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-19T13:04:42Z",
+  "last_run": "2026-11-19T14:05:14Z",
   "processed": {
     "811a88d7d126": {
       "at": "2026-11-19T09:10:00Z",
@@ -628,6 +628,26 @@
     "f8aaec53f161": {
       "at": "2026-11-19T13:04:42Z",
       "result": "20261119-2205-straykids-this-that-bb200-rebound"
+    },
+    "7d28b1be77a9": {
+      "at": "2026-11-19T14:05:14Z",
+      "result": "20261119-2305-nayeon-baby-angel-mv-teaser2"
+    },
+    "b996735993c7": {
+      "at": "2026-11-19T14:05:14Z",
+      "result": "20261119-2305-nayeon-baby-angel-mv-teaser2"
+    },
+    "8193f7f66594": {
+      "at": "2026-11-19T14:05:14Z",
+      "result": "20261119-2305-nayeon-baby-angel-mv-teaser2"
+    },
+    "02f2a711b154": {
+      "at": "2026-11-19T14:05:14Z",
+      "result": "20261119-2305-joohoney-jeongyeon-just-friends"
+    },
+    "249596da9464": {
+      "at": "2026-11-19T14:05:14Z",
+      "result": "skip:excluded"
     }
   }
 }
