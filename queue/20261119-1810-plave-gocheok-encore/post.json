@@ -1,0 +1,50 @@
+{
+  "id": "20261119-1810-plave-gocheok-encore",
+  "created_at": "2026-11-19T09:10:00Z",
+  "news_key": "plave-keep-it-manic-encore-gocheok",
+  "group": "PLAVE",
+  "category": "CONCERT",
+  "headline": "플레이브, 내년 1월 고척돔서 월드투어 앙코르",
+  "highlight": "플레이브",
+  "sub": "'KEEP IT MANIC' 앙코르 공연 사흘간 개최",
+  "photo": null,
+  "focus": "50% 40%",
+  "credit": null,
+  "info": {
+    "title": "공연 한눈에 보기",
+    "rows": [
+      [
+        "공연",
+        "'KEEP IT MANIC' 앙코르"
+      ],
+      [
+        "일시",
+        "2027년 1월 22~24일"
+      ],
+      [
+        "장소",
+        "서울 고척스카이돔"
+      ],
+      [
+        "선예매",
+        "12월 1일 오후 8시"
+      ],
+      [
+        "일반",
+        "12월 4일 오후 8시"
+      ]
+    ]
+  },
+  "source": "출처: 연합뉴스, 톱스타뉴스, 스포츠경향",
+  "caption": "버추얼 아이돌 플레이브가 내년 1월 서울 고척스카이돔에서 월드투어 앙코르 콘서트를 열어요.\n\n'2026 PLAVE World Tour [KEEP IT MANIC] Encore'는 1월 22일부터 24일까지 사흘간 열려요. 팬클럽 선예매는 12월 1일 오후 8시, 일반 예매는 12월 4일 오후 8시 NOL 티켓에서 진행돼요.\n\n📌 출처: 연합뉴스, 톱스타뉴스, 스포츠경향\n#PLAVE #플레이브 #KEEPITMANIC #앙코르콘서트 #고척돔 #케이팝 #kpop",
+  "sources": [
+    "https://www.yna.co.kr/view/AKR20261119129400005",
+    "https://global.topstarnews.net/en/articleView.html?idxno=16280746",
+    "https://sports.khan.co.kr/en/article/202611191523007/"
+  ],
+  "sensitivity": "normal",
+  "candidate_ids": [
+    "d7373e707c94"
+  ],
+  "status": "draft"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "20261119-1810-bts-arirang-asia-tour",
+  "created_at": "2026-11-19T09:10:00Z",
+  "news_key": "bts-arirang-tour-asia-australia-leg-start",
+  "group": "BTS",
+  "category": "TOUR",
+  "headline": "방탄소년단, 가오슝서 아시아·호주 투어 돌입",
+  "highlight": "방탄소년단",
+  "sub": "9개 도시 26회 공연… 'ARIRANG' 월드투어 이어간다",
+  "photo": null,
+  "focus": "50% 40%",
+  "credit": null,
+  "info": {
+    "title": "투어 한눈에 보기",
+    "rows": [
+      [
+        "시작",
+        "11월 19일 대만 가오슝"
+      ],
+      [
+        "규모",
+        "9개 도시·26회 공연"
+      ],
+      [
+        "아시아",
+        "7개 도시·21회"
+      ],
+      [
+        "호주",
+        "내년 2월 멜버른·시드니 5회"
+      ]
+    ]
+  },
+  "points": {
+    "title": "이번 투어 포인트",
+    "items": [
+      "가오슝 국립경기장서 3회 공연",
+      "방콕·쿠알라룸푸르·싱가포르 등 방문",
+      "싱가포르 국립경기장 4회 공연",
+      "자카르타·홍콩·불라칸도 포함"
+    ]
+  },
+  "source": "출처: 빅히트 뮤직, 연합뉴스, Korea Times",
+  "caption": "방탄소년단이 19일 대만 가오슝을 시작으로 아시아·호주 투어에 돌입해요.\n\n'BTS WORLD TOUR ARIRANG'의 아시아·호주 일정으로, 아시아 7개 도시 21회와 호주 2개 도시 5회 등 모두 9개 도시에서 26회 공연을 펼쳐요. 가오슝을 시작으로 방콕, 쿠알라룸푸르, 싱가포르, 자카르타, 홍콩, 불라칸을 거쳐 내년 2월 멜버른과 시드니에서 팬들을 만나요.\n\n📌 출처: 빅히트 뮤직, 연합뉴스, Korea Times\n#BTS #방탄소년단 #ARIRANG #월드투어 #BTS_WORLD_TOUR #케이팝 #kpop",
+  "sources": [
+    "https://www.yna.co.kr/view/AKR20261119045200005",
+    "https://www.koreatimes.co.kr/entertainment/k-pop/20261119/bts-brings-purple-wave-to-kaohsiung-as-asia-tour-kicks-off",
+    "https://www.koreajoongangdaily.com/entertainment/bts-to-kick-off-asian-leg-of-arirang-world-tour-as-kaohsiung-turns-purple/12980830"
+  ],
+  "sensitivity": "normal",
+  "candidate_ids": [
+    "811a88d7d126"
+  ],
+  "status": "draft"
+}
