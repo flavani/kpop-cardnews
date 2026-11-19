@@ -2,7 +2,7 @@
 
 For each queue/<id>/post.json without rendered cuts:
   - download the photo (if any) to queue/<id>/photo.jpg
-  - render 1-3 cuts with templates/night_gradient.py to queue/<id>/1.jpg ...
+  - render 1-3 content cuts + the common outro cut with templates/night_gradient.py to queue/<id>/1.jpg ...
   - set status: pending_review (mode=review) or approved (mode=auto)
 """
 import io

@@ -1,4 +1,4 @@
-"""Night Gradient card-news template (1080x1350, 1-3 cuts).
+"""Night Gradient card-news template (1080x1350, 1-3 content cuts + common outro cut).
 
 post = {
   "handle": "@kpop.daily",
@@ -99,6 +99,42 @@ h2{font-size:72px;font-weight:900;line-height:1.2;letter-spacing:-.03em;margin-b
   display:flex;justify-content:space-between;gap:24px;font-size:26px;font-weight:500;color:var(--ink-3)}
 """
 
+PROFILE = (Path(__file__).parent / "assets" / "profile.png").resolve()
+
+# Common closing cut appended to every post: follow / comment / save-share prompts.
+OUTRO_TEXT = {
+    "tagline": "K-pop news, straight from Korean sources",
+    "actions": [
+        ("follow", "Follow", "for daily K-pop news"),
+        ("comment", "Comment", "and tell us what you think"),
+        ("save", "Save & share", "with a fellow fan"),
+    ],
+}
+
+ICONS = {   # 24x24 stroke icons
+    "follow": "<circle cx='9' cy='8' r='4'/><path d='M2 21v-1a7 7 0 0 1 14 0v1'/><path d='M19 8v6M16 11h6'/>",
+    "comment": "<path d='M21 12a8 8 0 0 1-11.6 7.1L4 20.5l1.4-5A8 8 0 1 1 21 12z'/>",
+    "save": "<path d='M6 3h12v18l-6-4.5L6 21z'/>",
+}
+
+OUTRO = """
+.glow{position:absolute;left:50%;top:400px;width:900px;height:900px;transform:translate(-50%,-50%);
+  background:radial-gradient(closest-side,rgba(255,46,136,.30),rgba(255,46,136,0));pointer-events:none}
+.body{position:absolute;left:var(--pad-x);right:var(--pad-x);top:150px;bottom:var(--pad-bottom);
+  display:flex;flex-direction:column;align-items:center;justify-content:center;padding-bottom:20px}
+.avatar{width:320px;height:320px;border-radius:50%;
+  box-shadow:0 0 0 8px var(--accent),0 24px 60px rgba(0,0,0,.45)}
+.name{margin-top:48px;font-size:64px;font-weight:900;letter-spacing:-.03em}
+.tag{margin-top:14px;font-size:34px;font-weight:500;color:var(--ink-2);letter-spacing:-.01em}
+.acts{list-style:none;width:100%;margin-top:64px;border-top:2px solid var(--rule)}
+.acts li{display:flex;align-items:center;gap:36px;padding:34px 8px;border-bottom:2px solid var(--rule)}
+.ic{flex:none;width:88px;height:88px;border-radius:50%;background:var(--accent);
+  display:flex;align-items:center;justify-content:center}
+.ic svg{width:44px;height:44px;fill:none;stroke:#fff;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+.acts b{display:block;font-size:46px;font-weight:800;letter-spacing:-.02em;line-height:1.2}
+.acts .t span{display:block;margin-top:6px;font-size:32px;font-weight:500;color:var(--ink-2);line-height:1.3}
+"""
+
 # Shrink the headline until it fits 3 lines (long titles), then the sub clamps to 2.
 FIT_JS = """
 <script>
@@ -140,10 +176,10 @@ def _doc(css, body):
 
 def build(post):
     cuts = ["cover"] + [k for k in ("info", "points") if post.get(k)]
-    n = len(cuts)
+    n = len(cuts) + 1                      # + common outro cut
     pages = []
     for i, kind in enumerate(cuts, 1):
-        last = i == n
+        last = i == len(cuts)              # last content cut carries the source line
         if kind == "cover":
             sub = f"<p class='sub'>{e(post['sub'])}</p>" if post.get("sub") else ""
             credit = f"<span class='credit'>{e(post['credit'])}</span>" if post.get("credit") and post.get("photo") else ""
@@ -166,7 +202,19 @@ def build(post):
                 f"<main class='body'><h2>{e(d['title'])}</h2>{content}</main>"
                 f"<footer class='foot'><span>{foot_l}</span></footer>")
         pages.append(_doc(INNER, body))
+    pages.append(_doc(OUTRO, _outro(post, n)))
     return pages
+
+
+def _outro(post, n):
+    acts = "".join(
+        f"<li><span class='ic'><svg viewBox='0 0 24 24'>{ICONS[k]}</svg></span>"
+        f"<div class='t'><b>{e(title)}</b><span>{e(desc)}</span></div></li>"
+        for k, title, desc in OUTRO_TEXT["actions"])
+    return (f"<div class='brand-bg'></div><div class='glow'></div>{_head(post, n, n)}"
+            f"<main class='body'><img class='avatar' src='{PROFILE.as_uri()}' alt=''>"
+            f"<p class='name'>{e(post['handle'])}</p><p class='tag'>{e(OUTRO_TEXT['tagline'])}</p>"
+            f"<ul class='acts'>{acts}</ul></main>")
 
 
 def render(post, out_dir, name, page=None):
