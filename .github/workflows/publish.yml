@@ -1,4 +1,5 @@
 name: 4. 인스타그램 발행
+# schedule re-registered 2026-11-19
 
 on:
   schedule:
