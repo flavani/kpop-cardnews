@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-19T16:05:30Z",
+  "last_run": "2026-11-19T17:09:38Z",
   "processed": {
     "811a88d7d126": {
       "at": "2026-11-19T09:10:00Z",
@@ -652,6 +652,22 @@
     "49a9c4884972": {
       "at": "2026-11-19T15:04:15Z",
       "result": "skip:excluded"
+    },
+    "c3297ea9381e": {
+      "at": "2026-11-19T17:09:38Z",
+      "result": "20261120-0209-bigbang-surprise-digital-single"
+    },
+    "85a81e195b26": {
+      "at": "2026-11-19T17:09:38Z",
+      "result": "skip:not-kpop"
+    },
+    "02d34135c348": {
+      "at": "2026-11-19T17:09:38Z",
+      "result": "skip:excluded"
+    },
+    "95244a0a42b5": {
+      "at": "2026-11-19T17:09:38Z",
+      "result": "skip:not-kpop"
     }
   }
 }
