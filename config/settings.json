@@ -1,6 +1,6 @@
 {
   "mode": "review",
-  "handle": "@kpop.daily",
+  "handle": "@kpop.quokka",
   "max_posts_per_run": 6,
   "candidate_window_hours": 36,
   "ai_label": true,
