@@ -41,11 +41,14 @@
   "candidate_ids": [
     "83cd2b3b5bbb"
   ],
-  "status": "approved",
+  "status": "published",
   "photo": "https://img.mydaily.co.kr/photos/2026/11/18/2026111818213899614_l.jpg",
   "credit": "Photo: FIN.K.L official SNS",
   "photo_used": true,
   "approved": true,
   "issue": 20,
-  "rendered": 3
+  "rendered": 3,
+  "media_id": "18101784608108058",
+  "permalink": "https://www.instagram.com/p/Df7KwM5l1OF/",
+  "published_at": "2026-11-19T13:17:16Z"
 }
