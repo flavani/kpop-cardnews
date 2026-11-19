@@ -47,5 +47,6 @@
   "status": "pending_review",
   "photo_used": true,
   "approved": false,
-  "issue": 8
+  "issue": 8,
+  "rendered": 3
 }
