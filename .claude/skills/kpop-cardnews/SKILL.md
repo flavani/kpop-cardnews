@@ -9,7 +9,7 @@ description: 매시간 실행되는 K-pop 카드뉴스 편집 작업. data/candi
 이 작업은 사람 없이 돈다. 질문하지 말고 아래 기준으로 판단해서 끝까지 진행한다.
 
 ## 0. 하지 말 것
-- `scripts/`, `.github/`, `config/`, `templates/`, 이미 있는 `queue/*`, `posted/*`는 **절대 수정하지 않는다.** 너는 새 `queue/<id>/post.json`과 `data/ledger.json`만 쓴다.
+- `scripts/`, `.github/`, `config/`, `templates/`, 이미 있는 `queue/*`, `posted/*`는 **절대 수정하지 않는다.** 너는 새 `queue/<id>/post.json`, `data/ledger.json`, `data/collect_request.json`만 쓴다.
 - 이미지는 만들지 않는다(렌더링은 GitHub Actions가 한다).
 - 기사 문장을 옮겨 적지 않는다. 사실(날짜, 수치, 이름, 공식 발언)만 뽑아서 새로 쓴다.
 
@@ -17,6 +17,20 @@ description: 매시간 실행되는 K-pop 카드뉴스 편집 작업. data/candi
 ```bash
 git pull -q --rebase origin main
 ```
+
+**먼저 최신 수집을 요청하고 끝날 때까지 기다린다.** 이 작업 환경에선 뉴스 사이트에 직접 접속할 수 없어서 수집은 GitHub Actions가 한다. 요청하지 않으면 한 시간 전 후보만 보게 된다.
+```bash
+REQ=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+echo "{\"requested\": \"$REQ\"}" > data/collect_request.json
+git add data/collect_request.json && git commit -q -m "Claude: 수집 요청"
+for i in 1 2 3 4 5; do git pull -q --rebase origin main && git push -q origin HEAD:main && break; sleep 5; done
+# 수집 완료 대기: source_status.json의 checked가 REQ 이후로 바뀔 때까지 (20초 간격, 최대 4분)
+for i in $(seq 1 12); do
+  sleep 20; git pull -q --rebase origin main
+  python3 -c "import json,sys; s=json.load(open('data/source_status.json')); sys.exit(0 if max(v['checked'] for v in s.values())>='$REQ' else 1)" && { echo "수집 완료"; break; }
+done
+```
+4분 안에 끝나지 않으면 기다리지 말고 있는 후보로 진행하고, 마지막 보고에 "수집 대기 시간 초과"라고 적는다.
 읽을 것:
 - `config/settings.json` — `max_posts_per_run`, `candidate_window_hours`
 - `data/ledger.json` — 이미 처리한 후보 id (`processed`). 없으면 `{"processed": {}}`로 시작
