@@ -1,0 +1,39 @@
+name: 5. 인스타그램 토큰 갱신
+
+# 장기 토큰은 60일마다 만료돼요. 매달 1일·15일에 갱신해서 Secrets에 다시 저장해요.
+# GH_PAT(Secrets 쓰기 권한이 있는 토큰)이 없으면 갱신 대신 알림 이슈를 열어요.
+on:
+  schedule:
+    - cron: "17 3 1,15 * *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Refresh and store
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          if [ -z "${IG_ACCESS_TOKEN}" ]; then echo "no token yet"; exit 0; fi
+          resp=$(curl -sS "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${IG_ACCESS_TOKEN}")
+          new=$(echo "$resp" | python3 -c "import sys,json;print(json.load(sys.stdin).get('access_token',''))")
+          if [ -z "$new" ]; then
+            gh issue create -R "$REPO" --title "⚠️ 인스타그램 토큰 갱신 실패" --body "갱신 응답: \`$(echo "$resp" | head -c 300)\`  토큰을 새로 발급해 Secrets의 IG_ACCESS_TOKEN을 바꿔 주세요."
+            exit 1
+          fi
+          echo "::add-mask::$new"
+          if [ -n "${GH_PAT}" ]; then
+            GH_TOKEN="$GH_PAT" gh secret set IG_ACCESS_TOKEN -R "$REPO" --body "$new"
+            echo "token refreshed and saved"
+          else
+            gh issue create -R "$REPO" --title "🔑 인스타그램 토큰을 갱신했지만 저장하지 못했어요" --body "GH_PAT이 없어 자동 저장을 못 했어요. README의 '토큰 자동 갱신' 항목을 참고해 GH_PAT을 등록해 주세요."
+          fi

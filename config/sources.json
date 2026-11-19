@@ -1,0 +1,16 @@
+{
+  "_note": "수집 소스 목록. type: rss | youtube. youtube는 channel_id만 넣으면 됩니다. 수집 결과는 data/source_status.json에서 확인하세요.",
+  "sources": [
+    {"name": "연합뉴스 연예", "type": "rss", "url": "https://www.yna.co.kr/rss/entertainment.xml", "lang": "ko"},
+    {"name": "Soompi", "type": "rss", "url": "https://www.soompi.com/feed", "lang": "en"},
+    {"name": "allkpop", "type": "rss", "url": "https://www.allkpop.com/rss", "lang": "en"},
+    {"name": "Koreaboo", "type": "rss", "url": "https://www.koreaboo.com/feed/", "lang": "en"},
+
+    {"name": "HYBE LABELS", "type": "youtube", "channel_id": "UC3IZKseVpdzPSBaWxBxundA"},
+    {"name": "SMTOWN", "type": "youtube", "channel_id": "UCEf_Bc-KVd7onSeifS3py9g"},
+    {"name": "JYP Entertainment", "type": "youtube", "channel_id": "UCaO6TYtlC8U5ttz62hTrZgg"},
+    {"name": "1theK", "type": "youtube", "channel_id": "UCweOkPb1wVVH0Q0Tlj4a5Pw"},
+    {"name": "Mnet K-POP", "type": "youtube", "channel_id": "UCbD8EppRX3ZwJSou-TVo90A"},
+    {"name": "KBS Kpop", "type": "youtube", "channel_id": "UCeLPm9yH_a_QH8n6445G-Ow"}
+  ]
+}

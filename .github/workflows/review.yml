@@ -1,0 +1,30 @@
+name: 3. 검수 처리 (발행 / 보류)
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: render
+  cancel-in-progress: false
+
+jobs:
+  review:
+    if: ${{ !github.event.issue.pull_request && contains(github.event.issue.labels.*.name, '검수대기') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests -q
+      - env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/review.py handle
+          bash scripts/commit_push.sh "검수: #${{ github.event.issue.number }} 처리"

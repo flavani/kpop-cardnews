@@ -1,0 +1,60 @@
+name: 2. 카드 렌더링 · 검수 요청
+
+on:
+  push:
+    branches: [main]
+    paths: ["queue/**/post.json"]
+  schedule:
+    - cron: "7,37 * * * *"   # 놓친 게시물이 있으면 보충
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: render
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Anything to render?
+        id: check
+        run: |
+          n=$(python3 -c "import json,glob;print(sum(1 for f in glob.glob('queue/*/post.json') if not json.load(open(f)).get('rendered')))")
+          echo "todo=$n" >> "$GITHUB_OUTPUT"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install
+        if: steps.check.outputs.todo != '0'
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+      - name: Fonts (Pretendard, SIL OFL)
+        if: steps.check.outputs.todo != '0'
+        run: |
+          mkdir -p templates/fonts /tmp/pd
+          curl -sSL -o /tmp/pd/p.zip https://github.com/orioncactus/pretendard/releases/download/v1.3.9/Pretendard-1.3.9.zip
+          unzip -oq /tmp/pd/p.zip "public/static/Pretendard-*.otf" -d /tmp/pd
+          cp /tmp/pd/public/static/*.otf templates/fonts/
+      - name: Render
+        if: steps.check.outputs.todo != '0'
+        run: |
+          python scripts/render.py
+          rm -rf templates/fonts
+          bash scripts/commit_push.sh "렌더링: 카드 이미지 생성"
+      - name: Open review issues
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git pull -q --rebase origin main
+          pip install requests -q
+          [ "$(ls queue | grep -v .gitkeep | wc -l)" = "0" ] && exit 0
+          python scripts/review.py open
+          bash scripts/commit_push.sh "검수: 이슈 번호 기록"

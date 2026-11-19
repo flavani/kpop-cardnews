@@ -1,0 +1,31 @@
+name: 4. 인스타그램 발행
+
+on:
+  schedule:
+    - cron: "3,23,43 * * * *"   # 20분마다 대기열에서 1건씩
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests -q
+      - env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python scripts/publish.py
+      - if: always()
+        run: bash scripts/commit_push.sh "발행: 인스타그램 게시"
