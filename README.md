@@ -33,6 +33,7 @@ Claude 구독 외에 다른 유료 서비스는 쓰지 않아요(GitHub 공개 �
   - `handle`: 카드 왼쪽 위에 들어가는 계정명
   - `max_posts_per_run`: Claude가 한 번에 만드는 최대 게시물 수
   - `ai_label`: 인스타그램 'AI 정보' 라벨 표시 여부
+  - `max_post_age_hours`: 이 시간보다 오래된 게시물은 발행하지 않고 버려요(기본 36시간)
 - `config/sources.json`: 수집 소스 목록. 소스별 상태는 `data/source_status.json`에서 볼 수 있어요.
 - `.claude/skills/kpop-cardnews/SKILL.md`: Claude 편집 기준(무엇을 다루고, 어떻게 쓰는지).
 

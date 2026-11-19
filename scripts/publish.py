@@ -40,6 +40,18 @@ class IG:
         raise RuntimeError(f"container {container_id} not ready")
 
 
+def drop_stale(max_hours):
+    """News older than max_hours is no longer news: move it to rejected/ instead of posting."""
+    from common import REJECTED, parse_iso
+    for d, post in list(queue_posts()):
+        if post.get("created_at") and (now_utc() - parse_iso(post["created_at"])).total_seconds() > max_hours * 3600:
+            post["status"] = "stale"
+            save_json(d / "post.json", post)
+            REJECTED.mkdir(exist_ok=True)
+            shutil.move(str(d), str(REJECTED / d.name))
+            print(f"dropped stale post {d.name}")
+
+
 def pick():
     for d, post in queue_posts():
         if post.get("approved") and post.get("rendered") and post.get("status") == "approved":
@@ -69,6 +81,7 @@ def publish(ig, uid, d, post, ai_label):
 
 def main():
     cfg = settings()
+    drop_stale(cfg.get("max_post_age_hours", 36))
     d, post = pick()
     if not d:
         print("no approved post waiting")
