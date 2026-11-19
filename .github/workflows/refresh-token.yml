@@ -24,6 +24,7 @@ jobs:
         run: |
           set -euo pipefail
           if [ -z "${IG_ACCESS_TOKEN}" ]; then echo "no token yet"; exit 0; fi
+          case "$IG_ACCESS_TOKEN" in EAA*) echo "system user token never expires; nothing to refresh"; exit 0;; esac
           resp=$(curl -sS "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${IG_ACCESS_TOKEN}")
           new=$(echo "$resp" | python3 -c "import sys,json;print(json.load(sys.stdin).get('access_token',''))")
           if [ -z "$new" ]; then

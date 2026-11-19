@@ -19,7 +19,10 @@ MAX_ATTEMPTS = 3
 class IG:
     def __init__(self, token, version=""):
         self.token = token
-        self.base = "https://graph.instagram.com" + (f"/{version}" if version else "")
+        # Instagram-login tokens ("IG...") use graph.instagram.com;
+        # Facebook/system-user tokens ("EAA...", never expire) use graph.facebook.com.
+        host = "graph.facebook.com" if token.startswith("EAA") else "graph.instagram.com"
+        self.base = f"https://{host}" + (f"/{version}" if version else "")
 
     def call(self, method, path, **params):
         params["access_token"] = self.token
@@ -82,16 +85,19 @@ def publish(ig, uid, d, post, ai_label):
 def main():
     cfg = settings()
     drop_stale(cfg.get("max_post_age_hours", 36))
-    d, post = pick()
-    if not d:
-        print("no approved post waiting")
-        return
     token = os.environ.get("IG_ACCESS_TOKEN")
+    d, post = pick()
     if not token:
-        print(f"[dry-run] IG_ACCESS_TOKEN not set; would publish {d.name}")
+        print(f"[dry-run] IG_ACCESS_TOKEN not set; would publish {d.name if d else 'nothing'}")
         return
     ig = IG(token, cfg.get("graph_version", ""))
-    uid = os.environ.get("IG_USER_ID") or ig.call("GET", "me", fields="user_id")["user_id"]
+    uid = os.environ.get("IG_USER_ID") or cfg.get("ig_user_id") \
+        or ig.call("GET", "me", fields="user_id")["user_id"]
+    if not d:
+        # Still verify the connection so a broken token shows up as a failed run.
+        acct = ig.call("GET", uid, fields="username")
+        print(f"connected as @{acct.get('username')}; no approved post waiting")
+        return
 
     try:
         lim = ig.call("GET", f"{uid}/content_publishing_limit", fields="quota_usage,config")
