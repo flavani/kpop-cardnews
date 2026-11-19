@@ -4,35 +4,35 @@
   "news_key": "jennie-dracula-hot100-3rd-p1harmony-blowup-bb200-4th",
   "group": "JENNIE",
   "category": "CHART",
-  "headline": "제니 '드라큘라', 빌보드 핫100 2주 연속 3위",
-  "highlight": "제니",
-  "sub": "피원하모니 'BLOW UP'은 빌보드 200 4위 진입",
-  "photo": null,
-  "focus": "50% 40%",
-  "credit": null,
+  "headline": "JENNIE's 'Dracula' holds No. 3 on Billboard Hot 100",
+  "highlight": "JENNIE",
+  "sub": "P1Harmony's 'BLOW UP' debuts at No. 4 on the Billboard 200",
+  "photo": "https://i.ytimg.com/vi/0UPDBODtxzw/maxresdefault.jpg",
+  "focus": "50% 35%",
+  "credit": "Photo: Tame Impala",
   "info": {
-    "title": "이번 주 빌보드 성적",
+    "title": "This week on Billboard",
     "rows": [
       [
-        "제니",
-        "'Dracula' 핫100 3위"
+        "JENNIE",
+        "'Dracula' No. 3, Hot 100"
       ],
       [
-        "기록",
-        "2주 연속·최고 순위 타이"
+        "Record",
+        "2nd straight week, ties peak"
       ],
       [
-        "피원하모니",
-        "'BLOW UP' 200 4위"
+        "P1Harmony",
+        "'BLOW UP' No. 4, Billboard 200"
       ],
       [
-        "의미",
-        "팀 자체 최고 순위 타이"
+        "Record",
+        "Ties the group's best rank"
       ]
     ]
   },
-  "source": "출처: 미국 빌보드, 연합뉴스",
-  "caption": "블랙핑크 제니가 참여한 'Dracula'가 미국 빌보드 핫100에서 2주 연속 3위를 지켰어요.\n\n테임 임팔라와 함께한 이 곡은 숏폼 인기에 힘입어 다시 차트를 올라 최고 순위 3위를 이어갔어요. 피원하모니의 새 앨범 'BLOW UP'은 빌보드 200에 4위로 진입하며 팀 자체 최고 순위와 타이를 이뤘어요.\n\n📌 출처: 미국 빌보드, 연합뉴스\n#제니 #JENNIE #블랙핑크 #피원하모니 #P1Harmony #빌보드 #케이팝 #kpop",
+  "source": "Source: Billboard, Yonhap News",
+  "caption": "'Dracula' by Tame Impala and BLACKPINK's JENNIE held at No. 3 on the Billboard Hot 100 for a second straight week.\n\nBoosted by short-form video buzz, the remix climbed back up the chart and stayed at its peak position. P1Harmony's new album 'BLOW UP' entered the Billboard 200 at No. 4, tying the group's best-ever ranking.\n\n📌 Source: Billboard, Yonhap News (via Korean media)\n#JENNIE #제니 #BLACKPINK #Dracula #P1Harmony #Billboard #kpop #kpopnews",
   "sources": [
     "https://www.yna.co.kr/view/AKR20261118050600005",
     "https://korean-vibe.com/article/1065573457151019",
@@ -42,9 +42,5 @@
   "candidate_ids": [
     "ad576223b4e0"
   ],
-  "status": "pending_review",
-  "photo_used": false,
-  "approved": false,
-  "issue": 3,
-  "rendered": 2
+  "status": "draft"
 }

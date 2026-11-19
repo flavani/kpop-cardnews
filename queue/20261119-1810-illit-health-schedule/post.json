@@ -4,35 +4,35 @@
   "news_key": "illit-health-schedule-reduced-official",
   "group": "ILLIT",
   "category": "OFFICIAL",
-  "headline": "아일릿 측 \"멤버 회복 최우선\"… 활동 일부 축소",
-  "highlight": "아일릿",
-  "sub": "MAMA 참여 방식도 당일 컨디션 따라 조정",
-  "photo": null,
-  "focus": "50% 40%",
-  "credit": null,
+  "headline": "ILLIT's agency scales back schedule to put members' recovery first",
+  "highlight": "ILLIT",
+  "sub": "Members' role at 2026 MAMA AWARDS to depend on their condition",
+  "photo": "https://i.ytimg.com/vi/V2V9-9VhYJo/maxresdefault.jpg",
+  "focus": "50% 35%",
+  "credit": "Photo: HYBE LABELS",
   "info": {
-    "title": "소속사 공식 입장",
+    "title": "Official statement",
     "rows": [
       [
-        "사유",
-        "윤아·민주·원희 고열·몸살"
+        "Reason",
+        "Yunah, Minju, Wonhee: fever, aches"
       ],
       [
-        "부상",
-        "원희·이로하 발목 치료 중"
+        "Injury",
+        "Wonhee, Iroha: ankle treatment"
       ],
       [
-        "조정",
-        "다음 주 음악방송 등 축소"
+        "Change",
+        "Next week's music shows cut back"
       ],
       [
         "MAMA",
-        "참여 범위 당일 조정"
+        "Participation set on the day"
       ]
     ]
   },
-  "source": "출처: 빌리프랩 공식 입장",
-  "caption": "아일릿 소속사 빌리프랩이 멤버들의 건강 문제로 일부 활동을 줄인다고 밝혔어요.\n\n빌리프랩은 윤아, 민주, 원희가 고열과 몸살 증상으로 병원 진료를 받았고 휴식 권고를 받았다고 전했어요. 원희와 이로하는 발목 부상 치료를 이어가고 있어요. 다음 주 예정된 음악방송 등 일정을 축소하고, 20일 '2026 MAMA AWARDS'는 주최 측과 협의해 진행하되 당일 컨디션에 따라 참여 범위를 조정할 예정이에요.\n\n📌 출처: 빌리프랩 공식 입장\n#ILLIT #아일릿 #빌리프랩 #공식입장 #케이팝 #kpop",
+  "source": "Source: Official statement from BELIFT LAB",
+  "caption": "ILLIT's agency BELIFT LAB says the group will scale back some activities due to members' health.\n\nAccording to BELIFT LAB, Yunah, Minju and Wonhee saw a doctor for high fever and body aches and were advised to rest. Wonhee and Iroha are also still being treated for ankle injuries. Music show appearances and other schedules next week will be reduced. The group will attend the 2026 MAMA AWARDS on Nov 20 after consulting with the organizers, but how much they take part will depend on their condition that day.\n\n📌 Source: Official statement from BELIFT LAB (via Korean media)\n#ILLIT #아일릿 #BELIFTLAB #MAMAAWARDS #kpop #kpopnews",
   "sources": [
     "https://www.yna.co.kr/view/AKR20261119062900005",
     "https://www.soompi.com/article/1888529wpp/illit-to-adjust-schedule-mama-awards-appearance-after-3-members-fall-ill",
@@ -44,9 +44,5 @@
     "ca5cfab21744",
     "5eb34ae1552f"
   ],
-  "status": "pending_review",
-  "photo_used": false,
-  "approved": false,
-  "issue": 2,
-  "rendered": 2
+  "status": "draft"
 }

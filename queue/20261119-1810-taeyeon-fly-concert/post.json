@@ -4,44 +4,44 @@
   "news_key": "taeyeon-fly-concert-tour-announce",
   "group": "TAEYEON",
   "category": "CONCERT",
-  "headline": "태연, 내년 1월 KSPO돔서 단독 콘서트 'F.L.Y.'",
-  "highlight": "태연",
-  "sub": "약 1년 10개월 만의 단독 공연… 아시아 5개 도시로",
+  "headline": "TAEYEON to hold solo concert 'F.L.Y.' at KSPO DOME in January",
+  "highlight": "TAEYEON",
+  "sub": "First solo concert in about 1 year 10 months, then 5 Asian cities",
   "photo": null,
   "focus": "50% 40%",
   "credit": null,
   "info": {
-    "title": "공연 한눈에 보기",
+    "title": "Concert details",
     "rows": [
       [
-        "공연",
+        "Show",
         "TAEYEON CONCERT 'F.L.Y.'"
       ],
       [
-        "서울",
-        "2027년 1월 15~17일"
+        "Seoul",
+        "Jan 15–17, 2027"
       ],
       [
-        "장소",
-        "서울 KSPO DOME"
+        "Venue",
+        "KSPO DOME, Seoul"
       ],
       [
-        "예매",
-        "12월 1일 오후 8시 선예매"
+        "Presale",
+        "Dec 1, 8 PM KST"
       ]
     ]
   },
   "points": {
-    "title": "아시아 일정",
+    "title": "Asia dates",
     "items": [
-      "마카오 1월 30~31일",
-      "방콕 2월 27일",
-      "홍콩 3월 27~29일",
-      "타이베이 4월 3일·도쿄 4월 17~18일"
+      "Macau: Jan 30–31",
+      "Bangkok: Feb 27",
+      "Hong Kong: Mar 27–29",
+      "Taipei: Apr 3 · Tokyo: Apr 17–18"
     ]
   },
-  "source": "출처: SM엔터테인먼트 발표, Soompi, 코리아중앙데일리",
-  "caption": "소녀시대 태연이 내년 1월 서울 KSPO DOME에서 단독 콘서트 'F.L.Y.'를 열어요.\n\n서울 공연은 1월 15일부터 17일까지 사흘간 열리고, 지난해 3월 'The TENSE' 이후 약 1년 10개월 만의 단독 공연이에요. 서울에 이어 마카오, 방콕, 홍콩, 타이베이, 도쿄에서도 공연해요. 팬클럽 선예매는 12월 1일 오후 8시, 일반 예매는 12월 3일 시작돼요.\n\n📌 출처: SM엔터테인먼트, Soompi, 코리아중앙데일리\n#태연 #TAEYEON #소녀시대 #FLY #콘서트 #케이팝 #kpop",
+  "source": "Source: SM Entertainment, Soompi, Korea JoongAng Daily",
+  "caption": "Girls' Generation's TAEYEON will hold her solo concert 'F.L.Y.' at KSPO DOME in Seoul this January.\n\nThe Seoul shows run Jan 15–17, her first solo concert in about 1 year and 10 months since 'The TENSE' last March. After Seoul, she heads to Macau, Bangkok, Hong Kong, Taipei and Tokyo. The fan club presale opens Dec 1 at 8 PM KST, and general sales start Dec 3.\n\n📌 Source: SM Entertainment, Soompi, Korea JoongAng Daily\n#TAEYEON #태연 #GirlsGeneration #SNSD #FLY #TAEYEONCONCERT #kpop #kpopnews",
   "sources": [
     "https://www.soompi.com/article/1888389wpp/taeyeon-announces-stops-for-concert-tour-f-l-y",
     "https://www.koreajoongangdaily.com/entertainment/girls-generations-taeyeon-to-kick-off-asia-tour-with-seoul-concerts-in-january/12979157",
@@ -52,9 +52,5 @@
     "c6cf6b4bb409",
     "584694a35648"
   ],
-  "status": "pending_review",
-  "photo_used": false,
-  "approved": false,
-  "issue": 6,
-  "rendered": 3
+  "status": "draft"
 }

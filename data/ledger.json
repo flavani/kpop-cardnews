@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-19T09:10:00Z",
+  "last_run": "2026-11-19T10:30:00Z",
   "processed": {
     "811a88d7d126": {
       "at": "2026-11-19T09:10:00Z",
@@ -412,6 +412,62 @@
     "087184203106": {
       "at": "2026-11-19T09:10:00Z",
       "result": "skip:not-kpop"
+    },
+    "83cd2b3b5bbb": {
+      "at": "2026-11-19T10:30:00Z",
+      "result": "20261119-1930-finkl-reunion-sns"
+    },
+    "15df8b231335": {
+      "at": "2026-11-19T10:30:00Z",
+      "result": "20261119-1930-team-boynextdoor-riaj"
+    },
+    "7e6b0bc27a4b": {
+      "at": "2026-11-19T10:30:00Z",
+      "result": "20261119-1930-nctwish-circle-october"
+    },
+    "0fd97a60499d": {
+      "at": "2026-11-19T10:30:00Z",
+      "result": "20261119-1930-sion-jichangwook-japan-show"
+    },
+    "d990afcebff3": {
+      "at": "2026-11-19T10:30:00Z",
+      "result": "20261119-1930-hybe-keyholder"
+    },
+    "44086c135c1d": {
+      "at": "2026-11-19T10:30:00Z",
+      "result": "skip:not-kpop"
+    },
+    "e65aee8f2897": {
+      "at": "2026-11-19T10:30:00Z",
+      "result": "skip:not-kpop"
+    },
+    "560752be4fe2": {
+      "at": "2026-11-19T10:30:00Z",
+      "result": "skip:not-kpop"
+    },
+    "38cbb6618832": {
+      "at": "2026-11-19T10:30:00Z",
+      "result": "skip:not-kpop"
+    },
+    "3d83a1b42e0e": {
+      "at": "2026-11-19T10:30:00Z",
+      "result": "skip:not-kpop"
+    },
+    "f0c7ecf32c98": {
+      "at": "2026-11-19T10:30:00Z",
+      "result": "skip:not-kpop"
+    },
+    "d280ed53cf17": {
+      "at": "2026-11-19T10:30:00Z",
+      "result": "skip:not-kpop"
+    },
+    "8153d74baeaa": {
+      "at": "2026-11-19T10:30:00Z",
+      "result": "skip:excluded"
+    },
+    "7ecc5f2a9253": {
+      "at": "2026-11-19T10:30:00Z",
+      "result": "skip:excluded"
     }
   }
 }

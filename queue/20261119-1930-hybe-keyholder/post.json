@@ -1,0 +1,48 @@
+{
+  "id": "20261119-1930-hybe-keyholder",
+  "created_at": "2026-11-19T10:30:00Z",
+  "news_key": "hybe-japan-acquires-keyholder",
+  "group": "HYBE",
+  "category": "OFFICIAL",
+  "headline": "HYBE to acquire KeyHolder, co-owner of Nogizaka46's agency",
+  "highlight": "HYBE",
+  "sub": "HYBE JAPAN to take up to 50.1% for about ₩105.7 billion",
+  "focus": "50% 40%",
+  "info": {
+    "title": "Deal details",
+    "rows": [
+      [
+        "Buyer",
+        "HYBE JAPAN (tender offer)"
+      ],
+      [
+        "Stake",
+        "Up to 50.1%"
+      ],
+      [
+        "Price",
+        "Up to ₩105.7 billion"
+      ],
+      [
+        "Payment",
+        "Jan 14, 2027"
+      ],
+      [
+        "Artists",
+        "Nogizaka46, SKE48, Novelbright"
+      ]
+    ]
+  },
+  "source": "Source: HYBE regulatory filing, Kyunghyang Shinmun, OSEN",
+  "caption": "HYBE is acquiring a controlling stake in KeyHolder, the Japanese entertainment company behind girl groups Nogizaka46 and SKE48.\n\nHYBE's Japanese unit HYBE JAPAN will buy up to 50.1% of KeyHolder through a tender offer, worth up to about ₩105.7 billion, with payment set for Jan 14, 2027. KeyHolder owns half of Nogizaka46's operating company through a subsidiary and also manages rock band Novelbright. HYBE JAPAN says it plans to develop new artists with KeyHolder and support its artists' global activities.\n\n📌 Source: HYBE filing via Kyunghyang Shinmun, OSEN, Etoday (via Korean media)\n#HYBE #하이브 #HYBEJAPAN #KeyHolder #Nogizaka46 #SKE48 #kpop #kpopnews",
+  "sources": [
+    "https://www.khan.co.kr/article/202611181853001/",
+    "https://www.osen.co.kr/article/G1112911825",
+    "https://www.etoday.co.kr/news/view/2649914"
+  ],
+  "sensitivity": "normal",
+  "candidate_ids": [
+    "d990afcebff3"
+  ],
+  "status": "draft"
+}

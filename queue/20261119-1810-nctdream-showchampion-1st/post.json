@@ -4,13 +4,13 @@
   "news_key": "nct-dream-boogie-woogie-show-champion-1st-win",
   "group": "NCT DREAM",
   "category": "MUSIC SHOW",
-  "headline": "NCT DREAM, 'Boogie Woogie'로 '쇼챔피언' 1위",
+  "headline": "NCT DREAM take first 'Show Champion' win with 'Boogie Woogie'",
   "highlight": "NCT DREAM",
-  "photo": null,
-  "focus": "50% 40%",
-  "credit": null,
-  "source": "출처: MBC M '쇼챔피언'",
-  "caption": "NCT DREAM이 '쇼챔피언'에서 'Boogie Woogie'로 1위를 차지했어요.\n\n18일 방송된 MBC M '쇼챔피언'에서 에이티즈, 아이브, 리센느, 아일릿과 경쟁한 끝에 이번 활동 첫 음악방송 트로피를 받았어요. 'Boogie Woogie'는 지난 9일 발매한 정규 6집 'DREAM AFTER DREAM'의 타이틀곡이에요.\n\n📌 출처: MBC M '쇼챔피언'\n#NCTDREAM #엔시티드림 #BoogieWoogie #DREAMAFTERDREAM #쇼챔피언 #음악방송1위 #케이팝 #kpop",
+  "photo": "https://i.ytimg.com/vi/wG7pnZttup8/maxresdefault.jpg",
+  "focus": "50% 35%",
+  "credit": "Photo: SMTOWN",
+  "source": "Source: MBC M 'Show Champion'",
+  "caption": "NCT DREAM won first place on 'Show Champion' with 'Boogie Woogie'.\n\nOn the Nov 18 episode of MBC M's 'Show Champion', they beat ATEEZ, IVE, RESCENE and ILLIT to earn their first music show trophy of this promotion. 'Boogie Woogie' is the title track of their 6th full album 'DREAM AFTER DREAM', released Nov 9.\n\n📌 Source: MBC M 'Show Champion'\n#NCTDREAM #엔시티드림 #BoogieWoogie #DREAMAFTERDREAM #ShowChampion #kpop #kpopnews",
   "sources": [
     "https://www.soompi.com/article/1888510wpp/watch-nct-dream-takes-1st-win-for-boogie-woogie-on-show-champion",
     "https://shiningawards.com/nct-dream-earns-first-music-show-win-for-boogie-woogie-on-show-champion/",
@@ -20,9 +20,5 @@
   "candidate_ids": [
     "a6369a7f5eeb"
   ],
-  "status": "pending_review",
-  "photo_used": false,
-  "approved": false,
-  "issue": 4,
-  "rendered": 1
+  "status": "draft"
 }
