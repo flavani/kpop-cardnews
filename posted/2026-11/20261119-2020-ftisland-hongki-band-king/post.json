@@ -46,9 +46,12 @@
   "candidate_ids": [
     "0b0be1213d33"
   ],
-  "status": "approved",
+  "status": "published",
   "photo_used": true,
   "approved": true,
   "issue": 22,
-  "rendered": 3
+  "rendered": 3,
+  "media_id": "18094693745680289",
+  "permalink": "https://www.instagram.com/p/Df7QWpwjeSK/",
+  "published_at": "2026-11-19T14:06:10Z"
 }
