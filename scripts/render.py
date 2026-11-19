@@ -40,7 +40,7 @@ def card_data(d, post, cfg):
     created = parse_iso(post.get("created_at")) if post.get("created_at") else datetime.now(KST)
     data = dict(post)
     data["handle"] = cfg.get("handle", "")
-    data["date"] = created.astimezone(KST).strftime("%Y.%m.%d")
+    data["date"] = created.astimezone(KST).strftime("%b %d, %Y").upper()
     photo = d / "photo.jpg"
     if post.get("photo") and (photo.exists() or fetch_photo(post["photo"], photo)):
         data["photo"] = photo.resolve().as_uri()

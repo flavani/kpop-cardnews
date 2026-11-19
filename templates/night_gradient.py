@@ -134,7 +134,7 @@ def _headline(post):
 
 
 def _doc(css, body):
-    return (f"<!doctype html><html lang='ko'><head><meta charset='utf-8'><style>{TOKENS}{FONTS}{BASE}{css}</style>"
+    return (f"<!doctype html><html lang='en'><head><meta charset='utf-8'><style>{TOKENS}{FONTS}{BASE}{css}</style>"
             f"</head><body>{body}{FIT_JS}</body></html>")
 
 
