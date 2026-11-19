@@ -56,5 +56,5 @@ jobs:
             if echo "$out" | grep -qE "no approved post waiting|dry-run|limit reached"; then
               break
             fi
-            [ "$i" -lt 5 ] && sleep 660
+            if [ "$i" -lt 5 ]; then sleep 660; fi
           done
