@@ -1,0 +1,210 @@
+{
+  "id": "20261120-1227-roundup",
+  "covers": [
+    "20261120-0810-jennie-power-trip-gta6",
+    "20261120-0209-bigbang-surprise-digital-single",
+    "20261120-1010-aespa-disney-holiday",
+    "20261120-0910-wayv-us-tour"
+  ],
+  "order_hooks": [
+    10.0,
+    9.0,
+    7.0,
+    6.0
+  ],
+  "music": {
+    "audio_id": "1057409882044849",
+    "title": "Happy Go Lucky",
+    "display_artist": "Corduroy Egg"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "JENNIE Power Trip",
+      "results": []
+    },
+    {
+      "query": "JENNIE",
+      "results": [
+        {
+          "audio_id": "229596876055188",
+          "title": "Good Thing",
+          "display_artist": "Faver"
+        },
+        {
+          "audio_id": "515270235014707",
+          "title": "Twilight Walk",
+          "display_artist": "Phury"
+        },
+        {
+          "audio_id": "908369400924600",
+          "title": "Melt",
+          "display_artist": "YUNGDAN"
+        },
+        {
+          "audio_id": "722326343405794",
+          "title": "OK OK",
+          "display_artist": "Company Money"
+        },
+        {
+          "audio_id": "1142191894080060",
+          "title": "You Give (feat. Latoya Lewis)",
+          "display_artist": "Phury"
+        }
+      ]
+    },
+    {
+      "query": "BIGBANG",
+      "results": [
+        {
+          "audio_id": "1051788687548982",
+          "title": "Rewind",
+          "display_artist": "Giulio Cercato"
+        },
+        {
+          "audio_id": "412489484570646",
+          "title": "My Naughty Side (Check This Out)",
+          "display_artist": "Last Jerónimo"
+        },
+        {
+          "audio_id": "516577098186440",
+          "title": "Wow อุ้ยwowไปอีก (Wow, Wow, Wow) (Reels Sound - Before And After)",
+          "display_artist": "POTG"
+        },
+        {
+          "audio_id": "1226928310814160",
+          "title": "Memories Never Die (feat. Barbasauce)",
+          "display_artist": "Neko Fuzz"
+        },
+        {
+          "audio_id": "881420714862337",
+          "title": "Live It Up (Instrumental)",
+          "display_artist": "Giulio Cercato"
+        }
+      ]
+    },
+    {
+      "query": "aespa Santa Baby",
+      "results": []
+    },
+    {
+      "query": "aespa",
+      "results": [
+        {
+          "audio_id": "529821692609980",
+          "title": "Ilumina (feat. Nucleus)",
+          "display_artist": "Jasmine"
+        },
+        {
+          "audio_id": "766456768877150",
+          "title": "Primavera",
+          "display_artist": "Giulio Cercato"
+        },
+        {
+          "audio_id": "1579921342191993",
+          "title": "Motive (Instrumental)",
+          "display_artist": "Giulio Cercato"
+        },
+        {
+          "audio_id": "2410807962410879",
+          "title": "Why Not Today",
+          "display_artist": "Sleeping Lion"
+        },
+        {
+          "audio_id": "1211414204067053",
+          "title": "Drift Away (Instrumental)",
+          "display_artist": "Giulio Cercato"
+        }
+      ]
+    },
+    {
+      "query": "WayV",
+      "results": [
+        {
+          "audio_id": "819838496020498",
+          "title": "In My Bag",
+          "display_artist": "Mazbou Q"
+        },
+        {
+          "audio_id": "516577098186440",
+          "title": "Wow อุ้ยwowไปอีก (Wow, Wow, Wow) (Reels Sound - Before And After)",
+          "display_artist": "POTG"
+        },
+        {
+          "audio_id": "1899871660958715",
+          "title": "Dangerous (feat. SODIEBOY) (Instrumental)",
+          "display_artist": "ill Think in ink"
+        },
+        {
+          "audio_id": "362725189744805",
+          "title": "Way Up (feat. G7MBL3)",
+          "display_artist": "d.higgs"
+        },
+        {
+          "audio_id": "1290574262063180",
+          "title": "Stackin’ (Instrumental)",
+          "display_artist": "Company Money"
+        }
+      ]
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "1057409882044849",
+          "title": "Happy Go Lucky",
+          "display_artist": "Corduroy Egg"
+        },
+        {
+          "audio_id": "298631822825202",
+          "title": "Waste My Time",
+          "display_artist": "5WEST"
+        },
+        {
+          "audio_id": "849342490718599",
+          "title": "Level Up",
+          "display_artist": "Giulio Cercato"
+        },
+        {
+          "audio_id": "229596876055188",
+          "title": "Good Thing",
+          "display_artist": "Faver"
+        },
+        {
+          "audio_id": "4093165761004597",
+          "title": "Shop ต่อ หรือพอแค่นี้ …. ไป ไป ไป (Should I Keep Shopping Or Stop? Go, Go, Go) (Reels Sound - Photo Dump)",
+          "display_artist": "POTG"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 20 — JENNIE's 'Power Trip' lands on official 'GTA VI' album\n\n1️⃣ JENNIE's 'Power Trip' lands on official 'GTA VI' album\n2️⃣ BIGBANG announces surprise digital single for today\n3️⃣ aespa joins Disney's U.S. holiday special on ABC\n4️⃣ WayV takes 'BORN THIS Way' tour to the U.S. in Feb\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#JENNIE #BIGBANG #aespa #WayV #kpop #kpopnews #kpoproundup",
+  "audio_probes": [
+    {
+      "query": "kpop",
+      "hits": [
+        "Corduroy Egg - Happy Go Lucky",
+        "5WEST - Waste My Time",
+        "Giulio Cercato - Level Up",
+        "Faver - Good Thing",
+        "POTG - Shop ต่อ หรือพอแค่นี้ …. ไป ไป ไป (Should I Keep Shopping Or Stop? Go, Go, Go) (Reels Sound - Photo Dump)",
+        "YUNGDAN - Melt"
+      ]
+    },
+    {
+      "query": "k-pop dance",
+      "hits": [
+        "Giulio Cercato - Level Up",
+        "Giulio Cercato - Midnight In Tokyo",
+        "Alex Blue - Good Time",
+        "Sugartapes - Club Seoul",
+        "Sugartapes - Head In The Clouds",
+        "Shanice - To All My Girls"
+      ]
+    }
+  ],
+  "test_container": "18182115559445822",
+  "test_status": "FINISHED (not published)",
+  "music_attached": true,
+  "tested_at": "2026-11-20T03:28:49Z"
+}
