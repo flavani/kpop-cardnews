@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-20T00:10:25Z",
+  "last_run": "2026-11-20T01:10:00Z",
   "processed": {
     "811a88d7d126": {
       "at": "2026-11-19T09:10:00Z",
@@ -700,6 +700,38 @@
     "557037dd389f": {
       "at": "2026-11-20T00:10:25Z",
       "result": "20261120-0910-wayv-us-tour"
+    },
+    "1b68b3ac84b5": {
+      "at": "2026-11-20T01:10:00Z",
+      "result": "20261120-1010-ateez-double-million"
+    },
+    "b62086ea3801": {
+      "at": "2026-11-20T01:10:00Z",
+      "result": "20261120-1010-ateez-double-million"
+    },
+    "7f74bf353b61": {
+      "at": "2026-11-20T01:10:00Z",
+      "result": "20261120-1010-aespa-disney-holiday"
+    },
+    "833eb2ea0860": {
+      "at": "2026-11-20T01:10:00Z",
+      "result": "skip:duplicate"
+    },
+    "90231315a31a": {
+      "at": "2026-11-20T01:10:00Z",
+      "result": "skip:duplicate"
+    },
+    "fea05113c8bc": {
+      "at": "2026-11-20T01:10:00Z",
+      "result": "skip:not-kpop"
+    },
+    "1cc374019ad4": {
+      "at": "2026-11-20T01:10:00Z",
+      "result": "skip:not-kpop"
+    },
+    "6137a82ab521": {
+      "at": "2026-11-20T01:10:00Z",
+      "result": "skip:not-kpop"
     }
   }
 }

@@ -1,0 +1,47 @@
+{
+  "id": "20261120-1010-aespa-disney-holiday",
+  "created_at": "2026-11-20T01:10:00Z",
+  "news_key": "aespa-abc-disney-holiday-spectacular-2026",
+  "group": "aespa",
+  "category": "TV",
+  "headline": "aespa joins Disney's U.S. holiday special on ABC",
+  "highlight": "aespa",
+  "sub": "The group performs 'Santa Baby' from Disney's Magic Kingdom",
+  "photo": "https://i.ytimg.com/vi/civRM3_LhRI/maxresdefault.jpg",
+  "focus": "50% 35%",
+  "credit": "Photo: SMTOWN",
+  "info": {
+    "title": "How to watch",
+    "rows": [
+      [
+        "Show",
+        "'The Wonderful World of Disney: Holiday Spectacular'"
+      ],
+      [
+        "Network",
+        "ABC (U.S.)"
+      ],
+      [
+        "Airs",
+        "Mon, Nov 30 (U.S.)"
+      ],
+      [
+        "Song",
+        "'Santa Baby' and more"
+      ]
+    ]
+  },
+  "source": "Source: Yonhap News, ABC",
+  "caption": "aespa is bringing the holiday spirit to American TV! 🎄\n\naespa will appear on 'The Wonderful World of Disney: Holiday Spectacular,' ABC's annual Christmas special now in its 11th year. The group taped their performance at Walt Disney World's Magic Kingdom, singing the holiday classic 'Santa Baby' and more. The special airs Monday, Nov 30 on ABC in the U.S.\n\n📌 Source: Yonhap News (via Korean media), ABC\n#aespa #에스파 #MY #SantaBaby #Disney #HolidaySpectacular #kpop #kpopnews",
+  "sources": [
+    "https://www.yna.co.kr/view/AKR20261120039400005",
+    "https://abc.com/news/28ae4a1a-1312-4e16-b964-ac6ee1bd909e/category/1138628",
+    "https://blogmickey.com/2026/11/k-pop-group-aespa-tapes-a-holiday-performance-at-magic-kingdom/",
+    "https://abcnews.com/GMA/Culture/disneys-holiday-spectacular-special-returns-11th-year-perform/story?id=138295973"
+  ],
+  "sensitivity": "normal",
+  "candidate_ids": [
+    "7f74bf353b61"
+  ],
+  "status": "draft"
+}
