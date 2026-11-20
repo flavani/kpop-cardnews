@@ -1,0 +1,46 @@
+{
+  "id": "20261120-1221-roundup",
+  "covers": [
+    "20261120-0810-jennie-power-trip-gta6",
+    "20261120-0209-bigbang-surprise-digital-single"
+  ],
+  "order_hooks": [
+    10.0,
+    9.0
+  ],
+  "music": null,
+  "music_reason": "no matching music in Instagram's catalog",
+  "music_search": [
+    {
+      "query": "JENNIE Power Trip",
+      "results": []
+    },
+    {
+      "query": "JENNIE",
+      "results": []
+    },
+    {
+      "query": "BIGBANG",
+      "results": []
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 20 — JENNIE's 'Power Trip' lands on official 'GTA VI' album\n\n1️⃣ JENNIE's 'Power Trip' lands on official 'GTA VI' album\n2️⃣ BIGBANG announces surprise digital single for today\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#JENNIE #BIGBANG #kpop #kpopnews #kpoproundup",
+  "audio_probes": [
+    {
+      "query": null,
+      "raw": "{\"audio\": [{\"audio_id\": \"2330655201002925\", \"duration_in_ms\": 182000, \"title\": \"November Magic\", \"display_artist\": \"Peaceful Reveries\", \"audio_type\": \"music\", \"on_platform_audio_preview_link\": \"https://www.instagram.com/reels/audio/2330655201002925/\", \"ig_username\": \"peaceful.reveries\", \"is_ads_eligible\": false}, {\"audio_id\": \"1666155628402531\", \"duration_in_ms\": 208851, \"title\": \"Sand Drawing\", \"display_artist\": \"Judah Earl\", \"audio_type\": \"music\", \"on_platform_audio_preview_link\": \"https://www.instagram.com/reels/audio/1666155628402531/\", \"ig_username\": \"thejudahearl\", \"is_ads_eligible\": fal"
+    },
+    {
+      "query": "christmas",
+      "raw": "{\"audio\": [{\"audio_id\": \"1054767894247929\", \"duration_in_ms\": 142399, \"title\": \"Snowy Christmas Jazz Night\", \"display_artist\": \"Ali Fiza\", \"audio_type\": \"music\", \"on_platform_audio_preview_link\": \"https://www.instagram.com/reels/audio/1054767894247929/\", \"is_ads_eligible\": false}, {\"audio_id\": \"2029452337168654\", \"duration_in_ms\": 126266, \"title\": \"Rockin' Around The Christmas Tree\", \"display_artist\": \"Brenda Lee\", \"audio_type\": \"music\", \"on_platform_audio_preview_link\": \"https://www.instagram.com/reels/audio/2029452337168654/\", \"ig_username\": \"officialbrendalee\", \"is_ads_eligible\": false}, {\""
+    },
+    {
+      "query": "Blinding Lights",
+      "raw": "{\"audio\": [{\"audio_id\": \"534836465627737\", \"duration_in_ms\": 135460, \"title\": \"Midnight Dreamer\", \"cover_artwork_thumbnail_uri\": \"https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/469664734_1119322796867067_2405028789482486743_n.jpg?stp=c159.159.682.682a_dst-jpg_s130x130_tt6&_nc_cat=1&ccb=1-7&_nc_sid=68a4df&_nc_ohc=43S95Y4N7NoQ7kNvwFnGbLi&_nc_oc=AdobCPVtlKSna9TLYBUwcDfG2iazLjKrZhSARG1r3FvWhEIbo4fBqCnzjolIS5TFycM&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&edm=AOP_XFkEAAAA&_nc_gid=3-BZ5W7uJ8_mfuU_8zrOHA&oh=00_AQQUplLxVfVnACU9-DMdnE4A60AVyhiFIgHDGbqIueUguA&oe=6B05A07D\", \"display_artist\": \"Giulio Cercat"
+    },
+    {
+      "query": "BLACKPINK",
+      "raw": "{\"audio\": [{\"audio_id\": \"2105400339524442\", \"duration_in_ms\": 172206, \"title\": \"Family\", \"cover_artwork_thumbnail_uri\": \"https://scontent-sjc6-1.xx.fbcdn.net/v/t1.6435-1/160304704_285574299605679_5951780712037673680_n.jpg?stp=dst-jpg_s130x130_tt6&_nc_cat=1&ccb=1-7&_nc_sid=68a4df&_nc_ohc=DUOE0WqbnAsQ7kNvwGe9DZc&_nc_oc=AdpN7aEEP9b9jkqxuGdObvEvAhPBZs60WBu2l38TTZeXXl84iVqM15zzR9b0oWOa0_E&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&edm=AOP_XFkEAAAA&_nc_gid=rAP6LZ8EpMlWFI4obnNfsg&oh=00_AQRlLkUAUYt1HSB5O5OHvQuZDztoW4-0N3yWe2MpQh0_GA&oe=6B271FA7\", \"display_artist\": \"Ruby Amanfu\", \"audio_type\": \"music\", \"downl"
+    }
+  ]
+}
