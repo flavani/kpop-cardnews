@@ -1,0 +1,70 @@
+{
+  "id": "20261121-0011-mama-day1-bts-enhypen",
+  "created_at": "2026-11-20T15:11:00Z",
+  "news_key": "2026-mama-awards-day1-daesang-bts-enhypen",
+  "group": "BTS",
+  "category": "AWARD",
+  "headline": "BTS, ENHYPEN win grand prizes on 2026 MAMA Day 1",
+  "highlight": "BTS",
+  "sub": "Both groups take 3 trophies each at Kyocera Dome Osaka",
+  "photo": "https://i.ytimg.com/vi/rBbQ32y7Xm0/maxresdefault.jpg",
+  "photo_alternates": [
+    "https://cdnimage.dailian.co.kr/news/202611/news_1795180987811_1717963_m_1.jpg",
+    "https://i.ytimg.com/vi/n9iu72mjil0/maxresdefault.jpg"
+  ],
+  "focus": "50% 35%",
+  "credit": "Photo: Mnet K-POP / CJ ENM",
+  "info": {
+    "title": "Day 1 grand prizes",
+    "rows": [
+      [
+        "BTS",
+        "Artist of the Year"
+      ],
+      [
+        "ENHYPEN",
+        "Fans' Choice of the Year"
+      ],
+      [
+        "Venue",
+        "Kyocera Dome Osaka"
+      ],
+      [
+        "Day 2",
+        "Nov 21, same venue"
+      ]
+    ]
+  },
+  "points": {
+    "title": "What to know",
+    "items": [
+      "ENHYPEN win Fans' Choice daesang 2 years running",
+      "BTS, on tour, accepted via video message",
+      "IVE take Best Female Group",
+      "ALPHA DRIVE ONE, TUIDE named Best New Artist"
+    ]
+  },
+  "source": "Source: Yonhap News, Dailian, SPOTV News",
+  "caption": "BTS and ENHYPEN took home the grand prizes on Day 1 of the 2026 MAMA AWARDS.\n\nAt Kyocera Dome Osaka on Nov 20, BTS won Artist of the Year, while ENHYPEN won Fans' Choice of the Year for the second year in a row. Each group took three trophies in total. BTS, currently on tour, thanked fans in a video message, and ENHYPEN's Jungwon said, \"I really can't believe it. This year was truly eventful.\"\n\nOther Day 1 winners include IVE (Best Female Group), TXT's Yeonjun (Best Male Artist), i-dle's Soyeon (Best Female Artist), and ALPHA DRIVE ONE and TUIDE (Best New Artist). Day 2 follows on Nov 21.\n\n📌 Source: Yonhap News, Dailian, SPOTV News (via Korean media)\n#BTS #ENHYPEN #방탄소년단 #엔하이픈 #2026MAMA #MAMAAWARDS #kpop #kpopnews",
+  "sources": [
+    "https://www.yna.co.kr/view/AKR20261120179200005",
+    "https://www.dailian.co.kr/news/view/1717963/",
+    "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021039"
+  ],
+  "sensitivity": "normal",
+  "hook": 10,
+  "song": {
+    "title": null,
+    "artist": "BTS"
+  },
+  "candidate_ids": [
+    "af4e609d90cc",
+    "e58cd6695e6c",
+    "dda07781bec2",
+    "64bd8b387cea",
+    "76179d3a9558",
+    "1c78a3c6a367",
+    "93199f58632a"
+  ],
+  "status": "draft"
+}

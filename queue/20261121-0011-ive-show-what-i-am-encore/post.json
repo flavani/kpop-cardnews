@@ -1,0 +1,59 @@
+{
+  "id": "20261121-0011-ive-show-what-i-am-encore",
+  "created_at": "2026-11-20T15:11:00Z",
+  "news_key": "ive-show-what-i-am-world-tour-encore-kspo-jan2027",
+  "group": "IVE",
+  "category": "CONCERT",
+  "headline": "IVE to wrap world tour with Seoul encore in January",
+  "highlight": "IVE",
+  "sub": "3 nights at KSPO DOME, where the tour first began",
+  "photo": "https://img.tenasia.co.kr/photo/202611/BF.46494723.1.jpg",
+  "photo_alternates": [
+    "https://img.tenasia.co.kr/photo/202611/BF.46494722.1.jpg",
+    "https://wimg.heraldcorp.com/news/cms/2026/11/20/news-p.v1.20261120.ba5bce28598a4b94921f3e5503271d17_P1.jpg"
+  ],
+  "focus": "50% 30%",
+  "credit": "Photo: Starship Entertainment",
+  "info": {
+    "title": "Concert details",
+    "rows": [
+      [
+        "Show",
+        "'SHOW WHAT I AM' ENCORE"
+      ],
+      [
+        "Dates",
+        "Jan 29–31, 2027"
+      ],
+      [
+        "Venue",
+        "KSPO DOME, Seoul"
+      ]
+    ]
+  },
+  "points": {
+    "title": "What to know",
+    "items": [
+      "The tour kicked off at KSPO DOME in Oct 2025",
+      "IVE played Tokyo Dome and Kyocera Dome Osaka",
+      "North America grew from 6 to 8 cities"
+    ]
+  },
+  "source": "Source: Official announcement from Starship Entertainment",
+  "caption": "IVE will close out their 2nd world tour with an encore concert in Seoul.\n\nStarship Entertainment announced on Nov 20 that 'IVE WORLD TOUR <SHOW WHAT I AM> ENCORE' will take place Jan 29–31, 2027 at KSPO DOME in Seoul Olympic Park, the same venue where the tour began. Along the way, IVE played Tokyo Dome and Kyocera Dome Osaka, and expanded their North American run to 8 cities.\n\n📌 Source: Starship Entertainment (via Korean media)\n#IVE #아이브 #SHOWWHATIAM #IVEencore #kpopconcert #kpop #kpopnews",
+  "sources": [
+    "https://www.yna.co.kr/view/AKR20261120145400005",
+    "https://www.tenasia.co.kr/article/2026112004584",
+    "https://www.heraldmuse.com/article/10944236"
+  ],
+  "sensitivity": "normal",
+  "hook": 8,
+  "song": {
+    "title": null,
+    "artist": "IVE"
+  },
+  "candidate_ids": [
+    "832e2dd0a437"
+  ],
+  "status": "draft"
+}

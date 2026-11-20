@@ -1,0 +1,32 @@
+{
+  "id": "20261121-0011-nctdream-musicbank-win",
+  "created_at": "2026-11-20T15:11:00Z",
+  "news_key": "nct-dream-boogie-woogie-music-bank-1st-win",
+  "group": "NCT DREAM",
+  "category": "MUSIC SHOW",
+  "headline": "NCT DREAM take 'Music Bank' win with 'Boogie Woogie'",
+  "highlight": "NCT DREAM",
+  "photo": "https://i.ytimg.com/vi/ZqJWuPWvIyA/maxresdefault.jpg",
+  "photo_alternates": [
+    "https://i.ytimg.com/vi/wG7pnZttup8/maxresdefault.jpg"
+  ],
+  "focus": "50% 35%",
+  "credit": "Photo: KBS Kpop",
+  "source": "Source: KBS 'Music Bank'",
+  "caption": "NCT DREAM won first place on 'Music Bank' with 'Boogie Woogie'.\n\nOn the Nov 20 episode of KBS 'Music Bank', they beat ITZY's Chaeryeong ('Lovesick') with 7,239 points. It's the song's second music show trophy after 'Show Champion'. 'Boogie Woogie' is the title track of their 6th full album 'DREAM AFTER DREAM'.\n\n📌 Source: KBS 'Music Bank'\n#NCTDREAM #엔시티드림 #BoogieWoogie #DREAMAFTERDREAM #MusicBank #kpop #kpopnews",
+  "sources": [
+    "https://www.youtube.com/watch?v=ZqJWuPWvIyA",
+    "https://www.soompi.com/article/1889255wpp/"
+  ],
+  "sensitivity": "normal",
+  "hook": 7,
+  "song": {
+    "title": "Boogie Woogie",
+    "artist": "NCT DREAM"
+  },
+  "candidate_ids": [
+    "5ce034413dcc",
+    "32eaf890fbd2"
+  ],
+  "status": "draft"
+}
