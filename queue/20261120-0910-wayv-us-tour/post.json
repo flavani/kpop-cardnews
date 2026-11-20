@@ -1,0 +1,35 @@
+{
+  "id": "20261120-0910-wayv-us-tour",
+  "created_at": "2026-11-20T00:10:00Z",
+  "news_key": "wayv-born-this-way-tour-us-leg-announce",
+  "group": "WayV",
+  "category": "TOUR",
+  "headline": "WayV takes 'BORN THIS Way' tour to the U.S. in Feb",
+  "highlight": "WayV",
+  "sub": "Four cities from LA to New York, starting Feb 4, 2027",
+  "photo": "https://i.ytimg.com/vi/bfQ0eLJNWiw/maxresdefault.jpg",
+  "focus": "50% 35%",
+  "credit": "Photo: SMTOWN",
+  "info": {"title": "Tour dates", "rows": [
+    ["Feb 4", "Los Angeles · Shrine Auditorium"],
+    ["Feb 6", "San Jose · San Jose Civic"],
+    ["Feb 9", "Grand Prairie · Texas Trust CU Theatre"],
+    ["Feb 11", "New York"]
+  ]},
+  "points": {"title": "What to know", "items": [
+    "It's WayV's third concert tour",
+    "The tour kicked off in Seoul in September",
+    "U.S. dates were revealed Nov 20 at midnight KST"
+  ]},
+  "source": "Source: WayV official announcement",
+  "caption": "WayV is bringing their 'BORN THIS Way' concert tour to the United States in February 2027!\n\nThe U.S. leg opens at the Shrine Auditorium in Los Angeles on Feb 4, then heads to San Jose (Feb 6), Grand Prairie, Texas (Feb 9) and New York (Feb 11). 'BORN THIS Way' is WayV's third concert tour, which began in Seoul in September. The U.S. stops were announced on WayV's official channels on Nov 20 at midnight KST.\n\nWhich city are you catching them in? 👇\n\n📌 Source: WayV official announcement\n#WayV #威神V #웨이션브이 #BORNTHISWay #WayVTour #NCT #kpopconcert #kpop #kpopnews",
+  "sources": [
+    "https://x.com/WayV_official/status/2123431186110488615",
+    "https://www.sanjose.org/theaters/events/2026-27-wayv-concert-tour-born-way-usa",
+    "https://www.soompi.com/article/1888986wpp/wayv-announces-2027-u-s-tour-dates-and-cities-for-born-this-way",
+    "https://m.news.nate.com/view/20260724n29354"
+  ],
+  "sensitivity": "normal",
+  "candidate_ids": ["557037dd389f"],
+  "status": "draft"
+}
