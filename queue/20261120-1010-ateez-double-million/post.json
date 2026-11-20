@@ -44,5 +44,8 @@
     "1b68b3ac84b5",
     "b62086ea3801"
   ],
-  "status": "draft"
+  "status": "approved",
+  "rendered": 3,
+  "photo_used": true,
+  "approved": true
 }
