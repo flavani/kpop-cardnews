@@ -1,0 +1,48 @@
+{
+  "id": "20261120-1217-roundup",
+  "covers": [
+    "20261120-0810-jennie-power-trip-gta6",
+    "20261120-0209-bigbang-surprise-digital-single",
+    "20261120-1010-aespa-disney-holiday",
+    "20261120-0910-wayv-us-tour"
+  ],
+  "order_hooks": [
+    10.0,
+    9.0,
+    7.0,
+    6.0
+  ],
+  "music": null,
+  "music_reason": "no matching music in Instagram's catalog",
+  "music_search": [
+    {
+      "query": "JENNIE Power Trip",
+      "results": []
+    },
+    {
+      "query": "JENNIE",
+      "results": []
+    },
+    {
+      "query": "BIGBANG",
+      "results": []
+    },
+    {
+      "query": "aespa Santa Baby",
+      "results": []
+    },
+    {
+      "query": "aespa",
+      "results": []
+    },
+    {
+      "query": "WayV",
+      "results": []
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 20 — JENNIE's 'Power Trip' lands on official 'GTA VI' album\n\n1️⃣ JENNIE's 'Power Trip' lands on official 'GTA VI' album\n2️⃣ BIGBANG announces surprise digital single for today\n3️⃣ aespa joins Disney's U.S. holiday special on ABC\n4️⃣ WayV takes 'BORN THIS Way' tour to the U.S. in Feb\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#JENNIE #BIGBANG #aespa #WayV #kpop #kpopnews #kpoproundup",
+  "test_container": "18182113903445822",
+  "test_status": "FINISHED (not published)",
+  "music_attached": false,
+  "tested_at": "2026-11-20T03:19:23Z"
+}
