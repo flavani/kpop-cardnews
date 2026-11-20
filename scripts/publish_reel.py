@@ -150,6 +150,25 @@ def pick_music(ig, uid, posts, log):
     return None, None, "no matching music in Instagram's catalog"
 
 
+FALLBACK_QUERIES = ["kpop", "k-pop dance", "upbeat pop", "dance pop"]
+
+
+def fallback_music(ig, uid, log):
+    """Instagram's API catalog (business accounts) has no K-pop label tracks; use an upbeat track from it."""
+    for q in FALLBACK_QUERIES:
+        try:
+            res = search_audio(ig, uid, q)
+        except Exception as ex:
+            log.append({"query": q, "error": str(ex)[:300]})
+            continue
+        log.append({"query": q, "results": [{k: a.get(k) for k in ("audio_id", "title", "display_artist")}
+                                            for a in res[:5]]})
+        for a in res:
+            if a.get("audio_id") and (a.get("duration_in_ms") or 0) >= 25000:
+                return a
+    return None
+
+
 # ---------- caption ----------
 
 def caption_for(posts, handle):
@@ -277,6 +296,10 @@ def main():
     caption = caption_for(posts, handle)
     log = []
     audio, lead, why = pick_music(ig, uid, posts, log)
+    if not audio and cfg.get("reel_fallback_music", True):
+        audio = fallback_music(ig, uid, log)
+        if audio:
+            why = "artist not in Instagram's API catalog; upbeat catalog track instead"
     music = {k: audio.get(k) for k in ("audio_id", "title", "display_artist")} if audio else None
     print(f"music: {music} ({why})")
     meta = {"id": reel_id, "covers": [p["id"] for p in posts], "order_hooks": [hook(p) for p in posts],
