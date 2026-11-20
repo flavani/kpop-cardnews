@@ -2,55 +2,55 @@
   "연합뉴스 연예": {
     "ok": true,
     "items": 120,
-    "new": 47,
-    "checked": "2026-11-20T06:10:29Z"
+    "new": 46,
+    "checked": "2026-11-20T11:03:14Z"
   },
   "Soompi": {
     "ok": true,
     "items": 60,
-    "new": 0,
-    "checked": "2026-11-20T06:10:29Z"
+    "new": 9,
+    "checked": "2026-11-20T11:03:15Z"
   },
   "Koreaboo": {
     "ok": true,
     "items": 10,
-    "new": 1,
-    "checked": "2026-11-20T06:10:29Z"
+    "new": 5,
+    "checked": "2026-11-20T11:03:15Z"
   },
   "HYBE LABELS": {
     "ok": true,
     "items": 15,
     "new": 9,
-    "checked": "2026-11-20T06:10:29Z"
+    "checked": "2026-11-20T11:03:15Z"
   },
   "SMTOWN": {
     "ok": true,
     "items": 15,
     "new": 15,
-    "checked": "2026-11-20T06:10:30Z"
+    "checked": "2026-11-20T11:03:15Z"
   },
   "JYP Entertainment": {
     "ok": true,
     "items": 15,
     "new": 9,
-    "checked": "2026-11-20T06:10:30Z"
+    "checked": "2026-11-20T11:03:15Z"
   },
   "1theK": {
     "ok": true,
     "items": 15,
     "new": 2,
-    "checked": "2026-11-20T06:10:30Z"
+    "checked": "2026-11-20T11:03:15Z"
   },
   "Mnet K-POP": {
     "ok": true,
     "items": 15,
-    "new": 0,
-    "checked": "2026-11-20T06:10:30Z"
+    "new": 15,
+    "checked": "2026-11-20T11:03:15Z"
   },
   "KBS Kpop": {
     "ok": true,
     "items": 15,
-    "new": 0,
-    "checked": "2026-11-20T06:10:30Z"
+    "new": 15,
+    "checked": "2026-11-20T11:03:15Z"
   }
 }
