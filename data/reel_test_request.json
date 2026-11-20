@@ -1,1 +1,3 @@
-{"requested": "2026-11-20T03:19:51Z", "probe_only": true, "dirs": ["queue/20261120-0810-jennie-power-trip-gta6", "queue/20261120-0209-bigbang-surprise-digital-single"]}
+{"requested": "2026-11-20T03:22:32Z", "probe_only": true,
+ "probe_queries": ["JENNIE Power Trip", "JENNIE", "BIGBANG", "aespa", "Stray Kids", "NAYEON", "TWICE", "ATEEZ", "BTS", "NewJeans", "IVE", "SEVENTEEN", "DinDin", "ROSÉ APT."],
+ "dirs": ["queue/20261120-0810-jennie-power-trip-gta6", "queue/20261120-0209-bigbang-surprise-digital-single"]}
