@@ -44,5 +44,10 @@
     "https://korean-vibe.com/news/data/20261120/yna1065624916294942_515_thum.jpg"
   ],
   "rendered": 3,
-  "photo_used": true
+  "photo_used": true,
+  "hook": 4,
+  "song": {
+    "title": "CAKE",
+    "artist": "DinDin"
+  }
 }

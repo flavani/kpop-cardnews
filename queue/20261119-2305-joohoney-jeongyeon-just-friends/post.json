@@ -44,5 +44,10 @@
   "status": "approved",
   "rendered": 3,
   "photo_used": true,
-  "approved": true
+  "approved": true,
+  "hook": 5,
+  "song": {
+    "title": null,
+    "artist": "MONSTA X"
+  }
 }

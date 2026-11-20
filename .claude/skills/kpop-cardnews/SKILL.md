@@ -106,6 +106,11 @@ done
 ```
 해시태그는 5~10개, 영어. 한글 그룹명 해시태그 1개는 넣어도 된다(예: `#방탄소년단`). 캡션 2,200자 이내.
 
+### hook · song (묶음 릴스용)
+4건이 다 올라간 뒤 이 4건을 하나로 묶은 릴스가 자동으로 올라간다(`scripts/publish_reel.py`). 그때 쓰도록 두 필드를 꼭 넣는다.
+- **`hook`** (1~10 정수): 해외 K-pop 팬이 이 소식에서 손가락을 멈출 가능성. 릴스에서 점수가 가장 높은 소식이 맨 앞에 오고, 음악도 그 소식에서 고른다. 기준: 팬덤 크기(BTS·BLACKPINK·Stray Kids급 9~10, 중견 6~8, 신인·소규모 3~5) + 사건 크기(컴백·MV·빌보드·대형 투어 높게, 예능·화보 낮게) + 놀라움(깜짝 발표, 최초·최고 기록). 같은 실행의 4건끼리 점수가 겹치지 않게 순서를 분명히 매긴다.
+- **`song`**: `{"title": "곡명", "artist": "아티스트"}`. 릴스 배경음악으로 쓸 그 아티스트의 곡. 소식에 곡이 직접 나오면(신곡·MV·차트·음방 1위 곡 등) **바로 그 곡**, 아니면 그 아티스트의 가장 최근 타이틀곡(확인된 것만). 곡명·아티스트는 음원 사이트 공식 영문 표기(예: `{"title": "Power Trip", "artist": "JENNIE"}`). 멤버 개인 소식이면 그 멤버의 솔로곡이 있으면 그것, 없으면 그룹 곡과 그룹명. 아티스트의 곡이 아닌 소식(소속사 인수 등)은 `null`.
+
 ### category (영문 대문자 하나)
 `COMEBACK` `RELEASE` `TEASER` `MV` `CHART` `MUSIC SHOW` `TOUR` `CONCERT` `FANMEETING` `TV` `MAGAZINE` `AD` `DEBUT` `AWARD` `OFFICIAL` `NEWS`
 
@@ -131,6 +136,8 @@ done
   "caption": "...",
   "sources": ["https://...", "https://..."],
   "sensitivity": "normal",
+  "hook": 8,
+  "song": {"title": "Afterglow", "artist": "LUMINA"},
   "candidate_ids": ["a1b2c3d4e5f6"],
   "status": "draft"
 }

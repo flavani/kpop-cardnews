@@ -47,5 +47,10 @@
   "status": "approved",
   "rendered": 3,
   "photo_used": true,
-  "approved": true
+  "approved": true,
+  "hook": 8,
+  "song": {
+    "title": "BABY ANGEL",
+    "artist": "NAYEON"
+  }
 }

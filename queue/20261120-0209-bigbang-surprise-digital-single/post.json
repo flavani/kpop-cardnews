@@ -50,5 +50,10 @@
   "status": "approved",
   "approved": true,
   "rendered": 3,
-  "photo_used": true
+  "photo_used": true,
+  "hook": 9,
+  "song": {
+    "title": null,
+    "artist": "BIGBANG"
+  }
 }

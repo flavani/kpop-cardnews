@@ -54,5 +54,10 @@
   "status": "approved",
   "rendered": 4,
   "photo_used": true,
-  "approved": true
+  "approved": true,
+  "hook": 6,
+  "song": {
+    "title": null,
+    "artist": "WayV"
+  }
 }

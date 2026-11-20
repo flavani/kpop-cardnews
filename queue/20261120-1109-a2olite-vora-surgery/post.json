@@ -26,5 +26,7 @@
   "approved": true,
   "photo_alternates": [],
   "rendered": 2,
-  "photo_used": true
+  "photo_used": true,
+  "hook": 2,
+  "song": null
 }

@@ -50,5 +50,10 @@
   "photo_used": true,
   "approved": true,
   "issue": 25,
-  "rendered": 3
+  "rendered": 3,
+  "hook": 4,
+  "song": {
+    "title": "MIRAGE",
+    "artist": "NTAKE"
+  }
 }

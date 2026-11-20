@@ -1,0 +1,52 @@
+name: 릴스 테스트 (발행 안 함)
+
+# data/reel_test_request.json을 푸시하면 실행. 대기열의 최신 카드 4건으로
+# 릴스를 렌더링하고, 인스타그램 음악 검색 + 영상 업로드(컨테이너 생성)까지만 한다. 게시는 하지 않는다.
+# 결과: data/reel_test_result.json, 영상은 Actions 아티팩트 "reel-test".
+on:
+  push:
+    branches: [main]
+    paths: ["data/reel_test_request.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install
+        run: |
+          pip install -r requirements.txt -q
+          python -m playwright install --with-deps chromium
+          command -v ffmpeg || (sudo apt-get update -q && sudo apt-get install -y -q ffmpeg)
+      - name: Fonts
+        run: |
+          mkdir -p templates/fonts /tmp/pd
+          curl -sSL -o /tmp/pd/p.zip https://github.com/orioncactus/pretendard/releases/download/v1.3.9/Pretendard-1.3.9.zip
+          unzip -oq /tmp/pd/p.zip "public/static/Pretendard-*.otf" -d /tmp/pd
+          cp /tmp/pd/public/static/*.otf templates/fonts/
+      - name: Test
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: |
+          dirs=$(python3 -c "import json;print(' '.join(json.load(open('data/reel_test_request.json')).get('dirs', [])))")
+          python scripts/publish_reel.py --test $dirs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: reel-test
+          path: reels/**/reel.mp4
+      - if: always()
+        run: |
+          rm -rf reels
+          bash scripts/commit_push.sh "릴스 테스트 결과"

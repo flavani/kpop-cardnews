@@ -46,5 +46,10 @@
   "status": "approved",
   "rendered": 3,
   "photo_used": true,
-  "approved": true
+  "approved": true,
+  "hook": 10,
+  "song": {
+    "title": "Power Trip",
+    "artist": "JENNIE"
+  }
 }

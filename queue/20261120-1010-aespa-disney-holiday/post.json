@@ -46,5 +46,10 @@
   "status": "approved",
   "rendered": 3,
   "photo_used": true,
-  "approved": true
+  "approved": true,
+  "hook": 7,
+  "song": {
+    "title": "Santa Baby",
+    "artist": "aespa"
+  }
 }

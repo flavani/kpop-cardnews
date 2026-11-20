@@ -47,5 +47,10 @@
   "rendered": 3,
   "photo_used": true,
   "approved": true,
-  "issue": 26
+  "issue": 26,
+  "hook": 3,
+  "song": {
+    "title": "First and Last",
+    "artist": "WE GO-6"
+  }
 }
