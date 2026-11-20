@@ -1,0 +1,65 @@
+{
+  "id": "20261121-0510-jx-busan-encore",
+  "created_at": "2026-11-20T20:10:00Z",
+  "news_key": "jx-2027-tour-encore-core-busan",
+  "group": "JX",
+  "category": "CONCERT",
+  "headline": "JX to wrap Asia tour with Busan encore on Jan 1-3",
+  "highlight": "JX",
+  "sub": "Kim Jaejoong and Kim Junsu close their 6-city tour at BEXCO",
+  "photo": "https://images.khan.co.kr/article/2026/11/20/news-p.v1.20261120.e8de985690a74695841ee4bc39a33273_P1.jpg",
+  "photo_alternates": [
+    "https://cdn.topstarnews.net/news/photo/202611/16281586_2094515_2231.jpg",
+    "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=640/21/2026/11/2026112016413787086_1.jpg"
+  ],
+  "focus": "50% 30%",
+  "credit": "Photo: Palmtree Island, iNKODE, LOUDFUN TOGETHER",
+  "info": {
+    "title": "Concert details",
+    "rows": [
+      [
+        "Show",
+        "'CORE' in BUSAN"
+      ],
+      [
+        "Date",
+        "Jan 1-3, 2027"
+      ],
+      [
+        "Venue",
+        "BEXCO Exhibition Hall 1, Busan"
+      ],
+      [
+        "Presale",
+        "Nov 27, 8 PM KST (fan club)"
+      ],
+      [
+        "Tickets",
+        "Nov 30, 8 PM KST, NOL Ticket"
+      ]
+    ]
+  },
+  "points": {
+    "title": "What to know",
+    "items": [
+      "Busan is the finale of the 2026 Asia tour",
+      "Tour opened in Incheon in October",
+      "Stops: Kobe, Macau, Osaka, Taipei, Yokohama"
+    ]
+  },
+  "source": "Source: Korean media (Star News, Sports Kyunghyang)",
+  "caption": "JX is bringing their Asia tour home for a New Year finale in Busan! 🎤\n\nKim Jaejoong and Kim Junsu will hold 'JX 2027 TOUR ENCORE CONCERT 'CORE' in BUSAN' from Jan 1 to 3, 2027 at BEXCO Exhibition Hall 1. The duo's 2026 Asia tour kicked off in Incheon in October and visited Kobe, Macau, Osaka, Taipei and Yokohama. Fan club presale opens Nov 27 at 8 PM KST, with general sale on Nov 30 at 8 PM KST via NOL Ticket.\n\n📌 Source: Star News, Sports Kyunghyang (via Korean media)\n#JX #김재중 #김준수 #KimJaejoong #KimJunsu #JX_CORE #kpopconcert #kpop #kpopnews",
+  "sources": [
+    "https://www.starnewskorea.com/music/2026/11/20/2026112016413787086",
+    "https://sports.khan.co.kr/article/202611201914003/",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16281586",
+    "https://www.yna.co.kr/view/AKR20261120142600005"
+  ],
+  "sensitivity": "normal",
+  "hook": 4,
+  "song": null,
+  "candidate_ids": [
+    "5d5069bec3f3"
+  ],
+  "status": "draft"
+}
