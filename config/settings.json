@@ -1,7 +1,7 @@
 {
   "mode": "auto",
   "handle": "@kpop.quokka",
-  "max_posts_per_run": 6,
+  "max_posts_per_run": 4,
   "candidate_window_hours": 36,
   "ai_label": true,
   "graph_version": "",
@@ -9,5 +9,5 @@
   "max_post_age_hours": 36,
   "ig_user_id": "17841413374657467",
   "publish_paused_until": "2026-11-20T18:00:00Z",
-  "min_publish_interval_minutes": 110
+  "min_publish_interval_minutes": 55
 }

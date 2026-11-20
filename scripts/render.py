@@ -42,10 +42,15 @@ def card_data(d, post, cfg):
     data["handle"] = cfg.get("handle", "")
     data["date"] = created.astimezone(KST).strftime("%b %d, %Y").upper()
     photo = d / "photo.jpg"
-    if post.get("photo") and (photo.exists() or fetch_photo(post["photo"], photo)):
+    data["photo"] = None
+    if photo.exists():
         data["photo"] = photo.resolve().as_uri()
     else:
-        data["photo"] = None
+        for url in [post.get("photo")] + list(post.get("photo_alternates") or []):
+            if url and fetch_photo(url, photo):
+                data["photo"] = photo.resolve().as_uri()
+                post["photo"] = url
+                break
     return data
 
 
@@ -61,6 +66,17 @@ def main():
         for d, post in todo:
             try:
                 data = card_data(d, post, cfg)
+                if not data["photo"]:
+                    # Never publish a card on the plain brand background.
+                    from common import REJECTED
+                    import shutil
+                    post["status"] = "no_photo"
+                    post["approved"] = False
+                    save_json(d / "post.json", post)
+                    REJECTED.mkdir(exist_ok=True)
+                    shutil.move(str(d), str(REJECTED / d.name))
+                    print(f"[skip] {d.name}: no usable photo, moved to rejected/", file=sys.stderr)
+                    continue
                 files = night_gradient.render(data, d, "cut", page=page)
                 for i, f in enumerate(files, 1):           # cut_1.jpg -> 1.jpg
                     f.replace(d / f"{i}.jpg")

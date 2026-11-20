@@ -123,7 +123,8 @@ def drop_duplicate_news():
 
 def pick():
     for d, post in queue_posts():
-        if post.get("approved") and post.get("rendered") and post.get("status") == "approved":
+        if post.get("approved") and post.get("rendered") and post.get("status") == "approved" \
+                and post.get("photo_used"):
             return d, post
     return None, None
 

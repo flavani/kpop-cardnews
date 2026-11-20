@@ -1,6 +1,6 @@
 ---
 name: kpop-cardnews
-description: 매시간 실행되는 K-pop 카드뉴스 편집 작업. data/candidates.json의 새 뉴스 후보를 골라 사실을 확인하고, 카드뉴스 문구를 직접 써서 queue/<id>/post.json으로 만든 뒤 main에 푸시한다. "카드뉴스 작업 실행", 예약 작업 실행 시 사용.
+description: 5시간마다 실행되는 K-pop 카드뉴스 편집 작업. data/candidates.json의 새 뉴스 후보를 골라 사실을 확인하고, 카드뉴스 문구를 직접 써서 queue/<id>/post.json으로 만든 뒤 main에 푸시한다. "카드뉴스 작업 실행", 예약 작업 실행 시 사용.
 ---
 
 # K-pop 카드뉴스 편집 작업
@@ -55,16 +55,20 @@ done
 - 날짜·시간·앨범명·곡명·수치는 반드시 원문에서 확인한다. 확인 못 한 세부 정보는 쓰지 않는다.
 - 확정이 안 되면 이번 실행에선 건너뛰고 ledger에 `skip:unverified`로 남기지 **말고** 다음 실행에 다시 보도록 비워 둔다(단, 후보가 24시간 넘게 확정 안 되면 `skip:unverified`).
 
-## 5. 사진 고르기
-표지 배경은 **그 아이돌의 최신 사진**으로 한다. 소식과 직접 관련된 이미지(컴백 티저 소식이면 티저 이미지, 콘서트 소식이면 공연 포스터)가 있으면 그걸 가장 먼저 쓴다. 가능하면 `photo: null`(브랜드 배경)로 두지 말고 끝까지 찾는다.
+## 5. 사진 고르기 (사진 없는 카드는 만들지 않는다)
+**표지 배경은 반드시 그 소식과 관련된 실제 사진이다. 기본 배경(`photo: null`)으로는 절대 만들지 않는다.** 후보에 이미지가 없으면 WebSearch / WebFetch로 인터넷에서 직접 찾는다. 소식과 직접 관련된 이미지(티저 소식이면 티저 이미지, 콘서트 소식이면 공연 포스터)가 가장 좋고, 없으면 그 아이돌의 최신 공식 사진을 쓴다.
 
-우선순위:
-1. 소식과 직접 관련된 공식 이미지: 티저·콘셉트 포토, 공연 포스터, 앨범 커버, 해당 곡의 MV 썸네일
-2. 소속사 공식 YouTube 영상 썸네일 중 가장 최근 것 (후보의 `kind: official_video`의 `image`, 또는 `https://i.ytimg.com/vi/<영상ID>/maxresdefault.jpg`)
-3. **기사에 실린 소속사 제공 사진**: 캡션·출처가 `OO엔터테인먼트 제공`, `사진=OO`, `사진제공=OO`, `OO 공식 SNS`처럼 소속사·레이블·아티스트 공식 채널로 표기된 이미지. 기사 사이트에 올라와 있어도 쓴다. WebFetch로 기사 본문 이미지의 URL과 캡션·출처 표기를 함께 확인한다.
-4. 정말 없을 때만 `photo: null`
+찾는 순서:
+1. 소식과 직접 관련된 공식 이미지: 티저·콘셉트 포토, 공연 포스터, 앨범·싱글 커버, 해당 곡의 MV 썸네일. `"<그룹명> <소식> 티저"`, `"<그룹명> 포스터"`, `"<곡명> MV"`처럼 검색한다.
+2. 소속사·레이블 공식 YouTube 영상 썸네일 중 가장 최근 것 (`https://i.ytimg.com/vi/<영상ID>/maxresdefault.jpg`). 그룹 공식 채널이나 소속사 채널에서 최근 영상을 검색해 찾는다.
+3. **기사에 실린 소속사 제공 사진**: 캡션·출처가 `OO엔터테인먼트 제공`, `사진=OO`, `사진제공=OO`, `OO 공식 SNS`인 이미지. 같은 소식을 다룬 다른 기사도 찾아본다. WebFetch로 이미지 URL과 출처 표기를 함께 확인한다.
+4. 소속사 공식 홈페이지·공식 SNS(X, Instagram)에 올라온 공식 이미지, 음원 사이트의 공식 앨범 커버.
 
-**쓰지 않는 사진:** 출처가 언론사·사진기자로 표기된 사진(`OSEN DB`, `뉴스1`, `연합뉴스 자료사진`, `스포츠조선` 등). 워터마크가 없어도 언론사 소유라 저작권 문제가 생긴다. 홈마(팬사이트) 사진, 워터마크·로고가 박힌 사진, 출처를 확인할 수 없는 사진도 쓰지 않는다. 글자만 있는 썸네일(리릭 비디오 등)은 피한다.
+위를 다 찾아도 쓸 수 있는 사진이 없으면 **그 소식은 카드로 만들지 않는다** (ledger에 `skip:no-photo`).
+
+**URL 조건:** 렌더링(GitHub Actions)이 직접 내려받으므로 이미지 파일 주소(jpg/png/webp)여야 하고, 짧은 변이 400px 이상이어야 한다. `photo`에 가장 좋은 것, `photo_alternates`에 예비 주소 1~2개를 넣는다(첫 주소가 안 받아지면 다음 것을 쓴다). 모두 실패하면 렌더링이 그 카드를 rejected/로 보내고 발행하지 않는다.
+
+**쓰지 않는 사진:** 출처가 언론사·사진기자로 표기된 사진(`OSEN DB`, `뉴스1`, `연합뉴스 자료사진`, `스포츠조선` 등). 워터마크가 없어도 언론사 소유라 저작권 문제가 생긴다. 홈마(팬사이트) 사진, 워터마크·로고가 박힌 사진, 출처를 확인할 수 없는 사진, 소식과 무관한 사진(다른 그룹, 일반 풍경·소품)도 쓰지 않는다. 글자만 있는 썸네일(리릭 비디오 등)은 피한다.
 `credit`은 실제 출처로 쓴다(예: `Photo: HYBE LABELS`, `Photo: SM Entertainment`).
 `focus`는 얼굴이 있을 법한 위치다. 유튜브 썸네일은 보통 `"50% 35%"`, 단체 사진은 `"50% 40%"`, 세로 포스터는 `"50% 30%"`.
 
@@ -118,6 +122,7 @@ done
   "highlight": "LUMINA",
   "sub": "First release in 7 months, led by title track 'Afterglow'",
   "photo": "https://i.ytimg.com/vi/XXXXXXXXXXX/maxresdefault.jpg",
+  "photo_alternates": ["https://i.ytimg.com/vi/YYYYYYYYYYY/maxresdefault.jpg"],
   "focus": "50% 35%",
   "credit": "Photo: OO Entertainment",
   "info": {"title": "At a glance", "rows": [["Release", "Dec 2 (Tue), 6 PM KST"], ["Album", "4th mini album 'Blue Hour'"]]},
@@ -139,7 +144,7 @@ done
  "processed": {"a1b2c3d4e5f6": {"at": "2026-11-19T05:05:00Z", "result": "20261119-1405-lumina-mini4"},
                "0f9e8d7c6b5a": {"at": "...", "result": "skip:duplicate"}}}
 ```
-`result`는 게시물 id 또는 `skip:duplicate` / `skip:excluded` / `skip:unverified` / `skip:not-kpop`. 7일 지난 항목은 지운다.
+`result`는 게시물 id 또는 `skip:duplicate` / `skip:excluded` / `skip:unverified` / `skip:not-kpop` / `skip:no-photo`. 7일 지난 항목은 지운다.
 
 ## 8. 푸시
 ```bash
