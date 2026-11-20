@@ -1,0 +1,30 @@
+{
+  "id": "20261120-1510-bts-japan-10b-streams",
+  "created_at": "2026-11-20T06:10:00Z",
+  "news_key": "bts-japan-cumulative-streams-10-billion-first-foreign",
+  "group": "BTS",
+  "category": "CHART",
+  "headline": "BTS top 10 billion streams in Japan, a first for foreign acts",
+  "highlight": "BTS",
+  "sub": "No overseas artist had reached the mark before, per Billboard Japan",
+  "photo": "https://i.ytimg.com/vi/_gyultVTesk/maxresdefault.jpg",
+  "focus": "50% 35%",
+  "credit": "Photo: HYBE LABELS",
+  "source": "Source: BIGHIT MUSIC, citing Billboard Japan (via Yonhap News)",
+  "caption": "BTS have passed 10 billion cumulative streams in Japan, becoming the first overseas artist ever to do so.\n\nBIGHIT MUSIC shared the milestone on Nov 20, citing Billboard Japan data. It's another landmark in Japan for the group, who are currently on the road with their 'ARIRANG' world tour.\n\n📌 Source: BIGHIT MUSIC / Billboard Japan, via Korean media (Yonhap News)\n#BTS #방탄소년단 #BillboardJapan #ARIRANG #kpopchart #kpop #kpopnews",
+  "sources": [
+    "https://www.yna.co.kr/view/AKR20261120108900005",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855782",
+    "https://isplus.com/article/view/isp202611200079"
+  ],
+  "sensitivity": "normal",
+  "hook": 9,
+  "song": {
+    "title": "SWIM",
+    "artist": "BTS"
+  },
+  "candidate_ids": [
+    "b86587397ed4"
+  ],
+  "status": "draft"
+}
