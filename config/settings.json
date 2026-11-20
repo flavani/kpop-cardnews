@@ -9,5 +9,6 @@
   "max_post_age_hours": 36,
   "ig_user_id": "17841413374657467",
   "publish_paused_until": "2026-11-20T18:00:00Z",
-  "min_publish_interval_minutes": 55
+  "min_publish_interval_minutes": 55,
+  "reel_fallback_music": true
 }
