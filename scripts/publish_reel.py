@@ -281,6 +281,18 @@ def main():
             "music": music, "music_reason": why, "music_search": log, "caption": caption}
 
     if mode == "--test":
+        probes = []
+        for q in (None, "christmas", "Blinding Lights", "BLACKPINK"):
+            try:
+                kw = dict(audio_type="music", user_id=uid)
+                if q:
+                    kw["search_query"] = q
+                probes.append({"query": q, "raw": json.dumps(ig.call("GET", "ig_audio", **kw), ensure_ascii=False)[:600]})
+            except Exception as ex:
+                probes.append({"query": q, "error": str(ex)[:300]})
+        meta["audio_probes"] = probes
+        if json.loads((DATA / "reel_test_request.json").read_text()).get("probe_only"):
+            save_json(DATA / "reel_test_result.json", meta); print(json.dumps(probes, ensure_ascii=False)[:3000]); return
         try:
             cid, used = make_container(ig, uid, video, caption, audio, cfg.get("ai_label", True), len(posts), log)
             meta.update(test_container=cid, test_status="FINISHED (not published)", music_attached=bool(used))
