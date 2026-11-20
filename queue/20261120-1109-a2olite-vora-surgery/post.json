@@ -7,9 +7,9 @@
   "headline": "A2O LITE's agency: Vora had surgery for appendicitis",
   "highlight": "A2O LITE",
   "sub": "She will sit out scheduled activities to focus on recovery",
-  "photo": null,
+  "photo": "https://images.khan.co.kr/article/2026/10/21/news-p.v1.20261021.996f1dad22784894ac607b7a6fba747a_P1.jpg",
   "focus": "50% 40%",
-  "credit": "",
+  "credit": "Photo: A2O Entertainment",
   "source": "Source: Official statement from A2O Entertainment",
   "caption": "A2O LITE's Vora has undergone surgery for acute appendicitis, her agency says.\n\nOn Nov 19, A2O Entertainment announced that Vora went to the hospital after sudden abdominal pain and was diagnosed with acute appendicitis. She had surgery and will skip her scheduled activities, including a pre-recording, to focus on recovery. Wishing her a speedy recovery!\n\n📌 Source: Official statement from A2O Entertainment (via Korean media)\n#A2OLITE #Vora #A2OEntertainment #kpop #kpopnews #getwellsoon",
   "sources": [
@@ -22,8 +22,7 @@
   "candidate_ids": [
     "39f06ad1532f"
   ],
-  "status": "approved",
-  "rendered": 2,
-  "photo_used": false,
-  "approved": true
+  "status": "draft",
+  "approved": false,
+  "photo_alternates": []
 }
