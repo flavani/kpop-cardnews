@@ -66,8 +66,10 @@
     "1c78a3c6a367",
     "93199f58632a"
   ],
-  "status": "approved",
+  "status": "needs_check",
   "rendered": 4,
   "photo_used": true,
-  "approved": true
+  "approved": true,
+  "attempts": 1,
+  "last_error": "{\"message\": \"API access blocked.\", \"code\": 200, \"type\": \"OAuthException\", \"error_subcode\": 5258005, \"fbtrace_id\": \"AnsYRIGTUkih921Bb5hTsL7\"}"
 }
