@@ -28,8 +28,10 @@
     "5ce034413dcc",
     "32eaf890fbd2"
   ],
-  "status": "approved",
+  "status": "needs_check",
   "rendered": 2,
   "photo_used": true,
-  "approved": true
+  "approved": true,
+  "attempts": 1,
+  "last_error": "{\"message\": \"API access blocked.\", \"code\": 200, \"type\": \"OAuthException\", \"error_subcode\": 5258005, \"fbtrace_id\": \"Ap2J6Bjkva5LupOMbHwrXMZ\"}"
 }
