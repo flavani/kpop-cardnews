@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-21T01:09:32Z",
+ "last_run": "2026-11-21T06:11:00Z",
  "processed": {
   "811a88d7d126": {
    "at": "2026-11-19T09:10:00Z",
@@ -1468,6 +1468,178 @@
   "0f59fb46839d": {
    "at": "2026-11-21T01:09:32Z",
    "result": "skip:duplicate"
+  },
+  "42844faec8bd": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "20261121-1511-skz-christmas-evel-200m"
+  },
+  "e8914cc66ae3": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "20261121-1511-illit-jra-3rd-year"
+  },
+  "ef56ff248176": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "20261121-1511-viviz-contract-ruling"
+  },
+  "ef6a76d6b82f": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "b9f9bf438b2f": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "8cabbe6ee38c": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "5e265c72130b": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "50295dc0ebbe": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "7689a2793727": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "a5a615a00936": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "f9158a4fd178": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "a814e66bb638": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "73ec313f1dd0": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "2aa00e38dc9d": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "7a569939b209": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "17828d78b2e9": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "4b079c39cf1c": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "686f749697c6": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "26b951d7b446": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "e07b46b286e5": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "237e0d5850e6": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "e58faa4972d3": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "040900b60a50": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "e54bf3db5000": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "f779acf4553f": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "125f58349af0": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "ce2dc5d397f3": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d4e409135b7d": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "b282ee6aaa69": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "1a4517461514": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "58736853309a": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "1a6e9ae5b47d": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d4519e7a75ab": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "c31f4ee12870": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "54ff36421778": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "9b4b216c6a54": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "bbaa65ebf26e": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "1da25b895c97": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "084b35499ee8": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "5b1b6f99335e": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "6cf10f0a5edb": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "860d08213430": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "de6e622aa65e": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
   }
  },
  "publish_kick_at": "2026-11-20T18:01:57Z"
