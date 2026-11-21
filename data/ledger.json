@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-21T06:11:00Z",
+ "last_run": "2026-11-21T11:12:00Z",
  "processed": {
   "811a88d7d126": {
    "at": "2026-11-19T09:10:00Z",
@@ -1640,6 +1640,134 @@
   "de6e622aa65e": {
    "at": "2026-11-21T06:11:00Z",
    "result": "skip:not-kpop"
+  },
+  "5c4f187b66f9": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "20261121-2012-mama-day2-bts-cortis"
+  },
+  "47c2a364707c": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "20261121-2012-mama-day2-bts-cortis"
+  },
+  "aa75b40fd7f8": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "20261121-2012-bigbang-mama-giiirip"
+  },
+  "c32904ad586c": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "20261121-2012-bigbang-mama-giiirip"
+  },
+  "f37379d53612": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "20261121-2012-bigbang-mama-giiirip"
+  },
+  "7de049dedb96": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "20261121-2012-bigbang-mama-giiirip"
+  },
+  "b67ba29b6d41": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "20261121-2012-zb1-jan-comeback"
+  },
+  "d35ecbfdd845": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "df373b7940fe": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "5e68ca20e407": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "f378a8c2324a": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "4966b66259bd": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "9fd451de42ec": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "69d8096d7129": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "1b82bb98a2ef": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "7c33ed76b5ab": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "e3e16b0a59f7": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "a2bfee8aa408": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "fd5eccbf5ef8": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "89eaaf50403b": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:not-kpop"
+  },
+  "51f3954d91be": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:not-kpop"
+  },
+  "3d2c1e1e0ff0": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:not-kpop"
+  },
+  "2b998a3b13fe": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:not-kpop"
+  },
+  "e54f97a5d692": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "15e8bb0850ea": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "fbaf02bab976": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "cd7cee8d64dc": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "4deeb12a5992": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "e2684d13ee3e": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "ada2411f888f": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "72b8a3ce6bd5": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "580f6a54f1a6": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:unverified"
   }
  },
  "publish_kick_at": "2026-11-20T18:01:57Z"

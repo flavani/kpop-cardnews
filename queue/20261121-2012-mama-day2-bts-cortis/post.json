@@ -1,0 +1,61 @@
+{
+  "id": "20261121-2012-mama-day2-bts-cortis",
+  "news_key": "2026-mama-awards-day2-daesang-bts-cortis",
+  "group": "BTS",
+  "category": "AWARD",
+  "headline": "BTS, CORTIS win grand prizes on 2026 MAMA Day 2",
+  "highlight": "BTS",
+  "sub": "BTS take Album of the Year, CORTIS win Song of the Year",
+  "photo": "https://i.ytimg.com/vi/ust4rA6wK9E/maxresdefault.jpg",
+  "photo_alternates": [
+    "https://i.ytimg.com/vi/MG84CH_We5E/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/p8jRy84EqiA/maxresdefault.jpg"
+  ],
+  "focus": "50% 35%",
+  "credit": "Photo: Mnet K-POP / CJ ENM",
+  "info": {
+    "title": "Day 2 grand prizes",
+    "rows": [
+      [
+        "Album",
+        "BTS, 'ARIRANG'"
+      ],
+      [
+        "Song",
+        "CORTIS, 'REDRED'"
+      ],
+      [
+        "Date",
+        "Nov 21, Kyocera Dome Osaka"
+      ]
+    ]
+  },
+  "points": {
+    "title": "What to know",
+    "items": [
+      "BTS win a grand prize on both nights",
+      "CORTIS also take Best Dance Performance (Male Group)",
+      "BIGBANG named Music Visionary of the Year",
+      "HWASA, ILLIT, TAEYANG, LE SSERAFIM also win"
+    ]
+  },
+  "source": "Source: Joy News 24, TenAsia",
+  "caption": "BTS and CORTIS took home the grand prizes on Day 2 of the 2026 MAMA AWARDS.\n\nAt Kyocera Dome Osaka on Nov 21, BTS won Album of the Year for 'ARIRANG', a day after winning Artist of the Year. CORTIS won Song of the Year for 'REDRED' and tearfully said, \"We treated every stage as a dream stage.\"\n\nBIGBANG were named Music Visionary of the Year, and other Day 2 winners include HWASA, ILLIT, TAEYANG and LE SSERAFIM.\n\n📌 Source: Joy News 24, TenAsia (via Korean media)\n#BTS #CORTIS #방탄소년단 #ARIRANG #REDRED #2026MAMA #MAMAAWARDS #kpop #kpopnews",
+  "sources": [
+    "https://www.joynews24.com/view/2028901",
+    "https://www.tenasia.co.kr/article/2026112115514",
+    "https://www.koreaboo.com/news/winners-2026-mamas-day-two/"
+  ],
+  "sensitivity": "normal",
+  "hook": 9,
+  "song": {
+    "title": "REDRED",
+    "artist": "CORTIS"
+  },
+  "candidate_ids": [
+    "5c4f187b66f9",
+    "47c2a364707c"
+  ],
+  "created_at": "2026-11-21T11:12:00Z",
+  "status": "draft"
+}
