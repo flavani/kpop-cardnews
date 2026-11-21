@@ -57,5 +57,8 @@
     "47c2a364707c"
   ],
   "created_at": "2026-11-21T11:12:00Z",
-  "status": "draft"
+  "status": "approved",
+  "rendered": 4,
+  "photo_used": true,
+  "approved": true
 }
