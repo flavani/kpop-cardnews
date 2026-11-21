@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-21T15:09:57Z",
+ "last_run": "2026-11-21T20:05:00Z",
  "processed": {
   "811a88d7d126": {
    "at": "2026-11-19T09:10:00Z",
@@ -1832,6 +1832,50 @@
   "0f517c0b09c6": {
    "at": "2026-11-21T15:09:57Z",
    "result": "skip:not-kpop"
+  },
+  "eddfcfce9d18": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "20261122-0505-golden-uk-74weeks"
+  },
+  "edd654aaf5dd": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "e1f10615f471": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "37057688767b": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "897cb9f8d045": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "cea9c125decc": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "08f415241dd2": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "38779ab106f4": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "8d0a201ad867": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "92df31f3b309": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:duplicate"
+  },
+  "23448cfe214d": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:duplicate"
   }
  },
  "publish_kick_at": "2026-11-20T18:01:57Z"
