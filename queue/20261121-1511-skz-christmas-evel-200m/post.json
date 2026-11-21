@@ -6,7 +6,7 @@
   "headline": "Stray Kids' 'Christmas EveL' MV tops 200M views",
   "highlight": "Stray Kids",
   "sub": "Their 10th music video to pass 200 million on YouTube",
-  "photo": "https://i.ytimg.com/vi/57n4dZAPxNY/maxresdefault.jpg",
+  "photo": "https://i.ytimg.com/vi/1DzEWj_nKbg/maxresdefault.jpg",
   "photo_alternates": [
     "https://i.ytimg.com/vi/1DzEWj_nKbg/maxresdefault.jpg"
   ],
@@ -29,5 +29,8 @@
     "42844faec8bd"
   ],
   "created_at": "2026-11-21T06:11:00Z",
-  "status": "draft"
+  "status": "approved",
+  "rendered": 2,
+  "photo_used": true,
+  "approved": true
 }

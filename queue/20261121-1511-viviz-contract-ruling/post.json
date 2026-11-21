@@ -27,5 +27,8 @@
     "ef56ff248176"
   ],
   "created_at": "2026-11-21T06:11:00Z",
-  "status": "draft"
+  "status": "approved",
+  "rendered": 2,
+  "photo_used": true,
+  "approved": true
 }
