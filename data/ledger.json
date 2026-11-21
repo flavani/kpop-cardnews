@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-21T11:12:00Z",
+ "last_run": "2026-11-21T15:09:57Z",
  "processed": {
   "811a88d7d126": {
    "at": "2026-11-19T09:10:00Z",
@@ -1768,6 +1768,70 @@
   "580f6a54f1a6": {
    "at": "2026-11-21T11:12:00Z",
    "result": "skip:unverified"
+  },
+  "f0ced1ca1481": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:excluded"
+  },
+  "1e2a7c400b0d": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:excluded"
+  },
+  "dd9888108630": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:excluded"
+  },
+  "85761a69c2b3": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:excluded"
+  },
+  "37d1b381fcdf": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:excluded"
+  },
+  "2e2f2c438b42": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:excluded"
+  },
+  "408c8a61e49f": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:excluded"
+  },
+  "1bdd2b66355c": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "84319aea826e": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "b7514206ff14": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "f01eb666dddb": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "4dc96047b747": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "7be535e991a8": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "f647fb12dcf3": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "09352b48ad7f": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "0f517c0b09c6": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:not-kpop"
   }
  },
  "publish_kick_at": "2026-11-20T18:01:57Z"
