@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-22T06:09:44Z",
+ "last_run": "2026-11-22T11:11:38Z",
  "processed": {
   "811a88d7d126": {
    "at": "2026-11-19T09:10:00Z",
@@ -1980,6 +1980,42 @@
   "77e5098163f5": {
    "at": "2026-11-22T06:09:44Z",
    "result": "skip:not-kpop"
+  },
+  "43870cabfc0d": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "20261122-2011-rescene-inkigayo-5th-win"
+  },
+  "caf6b4580872": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "20261122-2011-tophyun-hwanginhyeock-hotpack"
+  },
+  "cb7b5ed396b4": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "skip:no-photo"
+  },
+  "cfb70647ef31": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "skip:not-kpop"
+  },
+  "943c2229646f": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "skip:not-kpop"
+  },
+  "0f2b361f8018": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "skip:not-kpop"
+  },
+  "130acba74f46": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "skip:not-kpop"
+  },
+  "b735d348a1ae": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "skip:excluded"
+  },
+  "d822d3106a55": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "skip:excluded"
   }
  },
  "publish_kick_at": "2026-11-20T18:01:57Z"
