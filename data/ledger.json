@@ -1,2022 +1,2046 @@
 {
-  "last_run": "2026-11-22T11:11:38Z",
-  "processed": {
-    "811a88d7d126": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "20261119-1810-bts-arirang-asia-tour"
-    },
-    "c6cf6b4bb409": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "20261119-1810-taeyeon-fly-concert"
-    },
-    "584694a35648": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "20261119-1810-taeyeon-fly-concert"
-    },
-    "ad576223b4e0": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "20261119-1810-jennie-hot100-p1harmony"
-    },
-    "a6369a7f5eeb": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "20261119-1810-nctdream-showchampion-1st"
-    },
-    "ca5cfab21744": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "20261119-1810-illit-health-schedule"
-    },
-    "5eb34ae1552f": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "20261119-1810-illit-health-schedule"
-    },
-    "d7373e707c94": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "20261119-1810-plave-gocheok-encore"
-    },
-    "3d1318515797": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "91908f9d4227": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "0d96021f9022": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "9ff2d2be7ca0": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "fbf10baad4d1": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "5300c746d551": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "01e3e822b508": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "e45796f5fa0e": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "67bd6b11e911": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "5fb49d5fa04f": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "f99b45f19a4e": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "880e15e0ac87": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "909ba8fe7d47": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "f830a8c5cd50": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "e6ebf3fbf08e": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "baa6b64baba5": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "92780b9a278f": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "0e2510ef58cd": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "053929eb5662": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "954404b24ad3": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "272fde559441": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "70c900b29168": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "c0516e7e1aba": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "4aa6638cab00": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "0efc09bc7484": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "4ae89f4c5720": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "f7cb696ab838": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "b544af14ad46": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "064f2b481581": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "96b0df4c1309": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "d1d029ea409d": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "b45da057a095": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "466a21037446": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "0d5cdb5a7318": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "d94b2fd10f19": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "c0a474e2f7e6": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "97881818aad6": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "e9d1258c1424": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "5c2a05f14969": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "96a599161e32": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "4c714732ed6e": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "e40811d1a026": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "160ec37d5874": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "394a931df46a": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "92eb3e5205e9": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "092227d97121": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "42eed6174861": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "ec489eae8235": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "3a1ac895ec56": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "b9a9b940abe3": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "d157085ec6a0": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "1357a7ae90af": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "968c9dac4e2a": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "019048f929d6": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "1504e049d142": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "a12382455072": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "bedabb9beeec": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "5cb905d93728": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "46ea3427d090": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "8be3fc33a1b2": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "b6e127bef686": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "daadf48a8fdd": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "c7da56bfb5c4": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "1c6866b077a2": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "d1773ffd79c3": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "54aeff8b2258": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "ba5af4dd933d": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "ece4edf7c1fc": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "0be313af662f": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "d4f191f91bce": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "01726f4b292b": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "70e9c7966196": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "b252e55cd5e0": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "aee2f95aa3f2": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "20315f4d38b9": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "249bdc8a5cc7": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "466d5d732fe4": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "31082044d634": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:excluded"
-    },
-    "f41565e9e562": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "8897df1fd197": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "455c02c7a3a1": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "d2ed8f28887e": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "9b96d1f3acfd": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "017d335e665b": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "3875dd5c084d": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "92969409acaa": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "cce0e6d34749": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "588a0e81b753": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "799b047d9af0": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "57bb783e3f12": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "f084804c9a1b": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "78b216e14b37": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "0161db438829": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "fe0a88794565": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "087184203106": {
-      "at": "2026-11-19T09:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "83cd2b3b5bbb": {
-      "at": "2026-11-19T10:30:00Z",
-      "result": "20261119-1930-finkl-reunion-sns"
-    },
-    "15df8b231335": {
-      "at": "2026-11-19T10:30:00Z",
-      "result": "20261119-1930-team-boynextdoor-riaj"
-    },
-    "7e6b0bc27a4b": {
-      "at": "2026-11-19T10:30:00Z",
-      "result": "20261119-1930-nctwish-circle-october"
-    },
-    "0fd97a60499d": {
-      "at": "2026-11-19T10:30:00Z",
-      "result": "20261119-1930-sion-jichangwook-japan-show"
-    },
-    "d990afcebff3": {
-      "at": "2026-11-19T10:30:00Z",
-      "result": "20261119-1930-hybe-keyholder"
-    },
-    "44086c135c1d": {
-      "at": "2026-11-19T10:30:00Z",
-      "result": "skip:not-kpop"
-    },
-    "e65aee8f2897": {
-      "at": "2026-11-19T10:30:00Z",
-      "result": "skip:not-kpop"
-    },
-    "560752be4fe2": {
-      "at": "2026-11-19T10:30:00Z",
-      "result": "skip:not-kpop"
-    },
-    "38cbb6618832": {
-      "at": "2026-11-19T10:30:00Z",
-      "result": "skip:not-kpop"
-    },
-    "3d83a1b42e0e": {
-      "at": "2026-11-19T10:30:00Z",
-      "result": "skip:not-kpop"
-    },
-    "f0c7ecf32c98": {
-      "at": "2026-11-19T10:30:00Z",
-      "result": "skip:not-kpop"
-    },
-    "d280ed53cf17": {
-      "at": "2026-11-19T10:30:00Z",
-      "result": "skip:not-kpop"
-    },
-    "8153d74baeaa": {
-      "at": "2026-11-19T10:30:00Z",
-      "result": "skip:excluded"
-    },
-    "7ecc5f2a9253": {
-      "at": "2026-11-19T10:30:00Z",
-      "result": "skip:excluded"
-    },
-    "a9388e4b941d": {
-      "at": "2026-11-19T11:20:00Z",
-      "result": "20261119-2020-highlight-gikwang-kpopcon-mc"
-    },
-    "bc47ab04f1e0": {
-      "at": "2026-11-19T11:20:00Z",
-      "result": "20261119-2020-illit-traffic-police"
-    },
-    "0b0be1213d33": {
-      "at": "2026-11-19T11:20:00Z",
-      "result": "20261119-2020-ftisland-hongki-band-king"
-    },
-    "78e775eca210": {
-      "at": "2026-11-19T11:20:00Z",
-      "result": "20261119-2020-ntake-mirage-debut"
-    },
-    "7ac9be909e58": {
-      "at": "2026-11-19T11:20:00Z",
-      "result": "skip:not-kpop"
-    },
-    "0f71a73de784": {
-      "at": "2026-11-19T11:20:00Z",
-      "result": "skip:not-kpop"
-    },
-    "867c67e6b82e": {
-      "at": "2026-11-19T11:20:00Z",
-      "result": "skip:not-kpop"
-    },
-    "0087ed917a0a": {
-      "at": "2026-11-19T11:20:00Z",
-      "result": "skip:not-kpop"
-    },
-    "46b3680018bc": {
-      "at": "2026-11-19T11:20:00Z",
-      "result": "skip:not-kpop"
-    },
-    "ac1ffd175bb5": {
-      "at": "2026-11-19T11:20:00Z",
-      "result": "skip:not-kpop"
-    },
-    "3f9f1600392c": {
-      "at": "2026-11-19T11:20:00Z",
-      "result": "skip:excluded"
-    },
-    "5cd0ecdcfed9": {
-      "at": "2026-11-19T11:20:00Z",
-      "result": "skip:excluded"
-    },
-    "c2f098292a06": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:excluded"
-    },
-    "8633eba5bacf": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:excluded"
-    },
-    "6622a1a9a58a": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:excluded"
-    },
-    "418ae244f86d": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:excluded"
-    },
-    "532a9146f784": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:excluded"
-    },
-    "e525946c49f3": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:excluded"
-    },
-    "4fd7e53b952d": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:excluded"
-    },
-    "f0fc299ec78b": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:excluded"
-    },
-    "d352104d170e": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:excluded"
-    },
-    "0010c75e6fb1": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:excluded"
-    },
-    "a3763734d65b": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:excluded"
-    },
-    "8f77aeac30ce": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:excluded"
-    },
-    "5bfe5df0c37a": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:excluded"
-    },
-    "87c758d3abba": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:excluded"
-    },
-    "acedea3df16c": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:not-kpop"
-    },
-    "691d7d56b2d7": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:not-kpop"
-    },
-    "5ed0786ee268": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:not-kpop"
-    },
-    "34690020b704": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:not-kpop"
-    },
-    "623ebae66849": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:not-kpop"
-    },
-    "ee84e9493c36": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:not-kpop"
-    },
-    "6b2913ac9768": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:not-kpop"
-    },
-    "a76523641b70": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:not-kpop"
-    },
-    "5794496d6071": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:not-kpop"
-    },
-    "fe2beb1225b7": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:not-kpop"
-    },
-    "c5e64d9bacee": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:not-kpop"
-    },
-    "b9b402b893e1": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "skip:not-kpop"
-    },
-    "5e3d1da02b02": {
-      "at": "2026-11-19T12:05:00Z",
-      "result": "20261119-2104-wego6-six-hearts"
-    },
-    "f8aaec53f161": {
-      "at": "2026-11-19T13:04:42Z",
-      "result": "20261119-2205-straykids-this-that-bb200-rebound"
-    },
-    "7d28b1be77a9": {
-      "at": "2026-11-19T14:05:14Z",
-      "result": "20261119-2305-nayeon-baby-angel-mv-teaser2"
-    },
-    "b996735993c7": {
-      "at": "2026-11-19T14:05:14Z",
-      "result": "20261119-2305-nayeon-baby-angel-mv-teaser2"
-    },
-    "8193f7f66594": {
-      "at": "2026-11-19T14:05:14Z",
-      "result": "20261119-2305-nayeon-baby-angel-mv-teaser2"
-    },
-    "02f2a711b154": {
-      "at": "2026-11-19T14:05:14Z",
-      "result": "20261119-2305-joohoney-jeongyeon-just-friends"
-    },
-    "249596da9464": {
-      "at": "2026-11-19T14:05:14Z",
-      "result": "skip:excluded"
-    },
-    "49a9c4884972": {
-      "at": "2026-11-19T15:04:15Z",
-      "result": "skip:excluded"
-    },
-    "c3297ea9381e": {
-      "at": "2026-11-19T17:09:38Z",
-      "result": "20261120-0209-bigbang-surprise-digital-single"
-    },
-    "85a81e195b26": {
-      "at": "2026-11-19T17:09:38Z",
-      "result": "skip:not-kpop"
-    },
-    "02d34135c348": {
-      "at": "2026-11-19T17:09:38Z",
-      "result": "skip:excluded"
-    },
-    "95244a0a42b5": {
-      "at": "2026-11-19T17:09:38Z",
-      "result": "skip:not-kpop"
-    },
-    "e31db19ba62b": {
-      "at": "2026-11-19T18:09:54Z",
-      "result": "skip:excluded"
-    },
-    "31edfc4a0b00": {
-      "at": "2026-11-19T18:09:54Z",
-      "result": "skip:excluded"
-    },
-    "f7c24ed8e930": {
-      "at": "2026-11-19T18:09:54Z",
-      "result": "skip:excluded"
-    },
-    "bb4432c785f9": {
-      "at": "2026-11-19T18:09:54Z",
-      "result": "skip:not-kpop"
-    },
-    "b72a6ce2c10a": {
-      "at": "2026-11-19T19:09:18Z",
-      "result": "skip:not-kpop"
-    },
-    "bcf8ec8a4c3a": {
-      "at": "2026-11-19T22:10:26Z",
-      "result": "skip:not-kpop"
-    },
-    "983c86360040": {
-      "at": "2026-11-19T23:10:21Z",
-      "result": "20261120-0810-jennie-power-trip-gta6"
-    },
-    "557037dd389f": {
-      "at": "2026-11-20T00:10:25Z",
-      "result": "20261120-0910-wayv-us-tour"
-    },
-    "1b68b3ac84b5": {
-      "at": "2026-11-20T01:10:00Z",
-      "result": "20261120-1010-ateez-double-million"
-    },
-    "b62086ea3801": {
-      "at": "2026-11-20T01:10:00Z",
-      "result": "20261120-1010-ateez-double-million"
-    },
-    "7f74bf353b61": {
-      "at": "2026-11-20T01:10:00Z",
-      "result": "20261120-1010-aespa-disney-holiday"
-    },
-    "833eb2ea0860": {
-      "at": "2026-11-20T01:10:00Z",
-      "result": "skip:duplicate"
-    },
-    "90231315a31a": {
-      "at": "2026-11-20T01:10:00Z",
-      "result": "skip:duplicate"
-    },
-    "fea05113c8bc": {
-      "at": "2026-11-20T01:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "1cc374019ad4": {
-      "at": "2026-11-20T01:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "6137a82ab521": {
-      "at": "2026-11-20T01:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "8d40504741ec": {
-      "at": "2026-11-20T02:09:00Z",
-      "result": "20261120-1109-dindin-cake"
-    },
-    "39f06ad1532f": {
-      "at": "2026-11-20T02:09:00Z",
-      "result": "20261120-1109-a2olite-vora-surgery"
-    },
-    "d846e2bf9172": {
-      "at": "2026-11-20T02:09:00Z",
-      "result": "skip:not-kpop"
-    },
-    "6757cfce0497": {
-      "at": "2026-11-20T02:09:00Z",
-      "result": "skip:not-kpop"
-    },
-    "b86587397ed4": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "20261120-1510-bts-japan-10b-streams"
-    },
-    "867ed87c0517": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "20261120-1510-nayeon-baby-angel-mv"
-    },
-    "aa1c36e262bc": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "20261120-1510-nayeon-baby-angel-mv"
-    },
-    "a04462e4f424": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "20261120-1510-santosbravos-team-origami"
-    },
-    "fc4ed16816e0": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:excluded"
-    },
-    "9e3911dd9a31": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:excluded"
-    },
-    "ff6e17459e96": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:excluded"
-    },
-    "59bede4a09ba": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:excluded"
-    },
-    "677bd089fa07": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:excluded"
-    },
-    "180b2959e4b5": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:excluded"
-    },
-    "b046b24e98d9": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:excluded"
-    },
-    "524eae0dfa1e": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:excluded"
-    },
-    "01b35615b8f0": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:excluded"
-    },
-    "4b6e6cc3b716": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:excluded"
-    },
-    "00a4ae6ede83": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:excluded"
-    },
-    "e9fab8ddbb27": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:excluded"
-    },
-    "750272422d51": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "1ade567994b3": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "f5b83625820a": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "ea0b7c321d93": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "16e239d08607": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "8be1591d0845": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "c800fa235277": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "7e4326e895de": {
-      "at": "2026-11-20T06:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "94ea00cf2d3d": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "b39962855b0b": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:not-kpop"
-    },
-    "6e9ec35651e4": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "c49c0a332f2f": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "27aa17d85fdd": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "009c5e240a2d": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:not-kpop"
-    },
-    "915a1c422bc4": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "e942d5653726": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "be85c8c2a507": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "36041a33841d": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:not-kpop"
-    },
-    "75cab755389a": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "5bcb04b086ca": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "5b12aafb7471": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "33a61fd62da8": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "14796829c0b1": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "9d391db1c142": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "694a7a445238": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "51fa6787052a": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "093a0cb90c58": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "fae4ab691e83": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "ee7a670bc4e2": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "2f07cb31ac0b": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "1612adde2041": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "2d6f9173ef64": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:not-kpop"
-    },
-    "68e01e5baa35": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "2c639f40f0a6": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "a18782932d9d": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "c69339e14fc7": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "87aae01bdb43": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:not-kpop"
-    },
-    "376813142070": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:not-kpop"
-    },
-    "15d7e2e3d6d1": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "4956d5a64768": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "bc6e40f3afac": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "6c44157d09f4": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "92f525711ff6": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:not-kpop"
-    },
-    "73daca1e36c1": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "d859b29f7030": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:not-kpop"
-    },
-    "85adc368a224": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:not-kpop"
-    },
-    "16df09ffec4c": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "444e54641824": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:not-kpop"
-    },
-    "02bf9a23997e": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:not-kpop"
-    },
-    "5b61d0d23dcc": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:not-kpop"
-    },
-    "755cf350996a": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "8dddecdbe5a3": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:duplicate"
-    },
-    "5c3cd82d576f": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "2c2185627049": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "12660408bae3": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "20261120-2009-enhypen-parallel-world"
-    },
-    "2829f3742f1b": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:not-kpop"
-    },
-    "ff6bc71c12bf": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "014d81aa78bf": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:not-kpop"
-    },
-    "26e257c7ef35": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "0e40ecb14d96": {
-      "at": "2026-11-20T11:10:14Z",
-      "result": "skip:excluded"
-    },
-    "af4e609d90cc": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "20261121-0011-mama-day1-bts-enhypen"
-    },
-    "e58cd6695e6c": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "20261121-0011-mama-day1-bts-enhypen"
-    },
-    "dda07781bec2": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "20261121-0011-mama-day1-bts-enhypen"
-    },
-    "64bd8b387cea": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "20261121-0011-mama-day1-bts-enhypen"
-    },
-    "76179d3a9558": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "20261121-0011-mama-day1-bts-enhypen"
-    },
-    "1c78a3c6a367": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "20261121-0011-mama-day1-bts-enhypen"
-    },
-    "93199f58632a": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "20261121-0011-mama-day1-bts-enhypen"
-    },
-    "a78e0b1564a7": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "20261121-0011-hyunjin-dior-ambassador"
-    },
-    "832e2dd0a437": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "20261121-0011-ive-show-what-i-am-encore"
-    },
-    "5ce034413dcc": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "20261121-0011-nctdream-musicbank-win"
-    },
-    "32eaf890fbd2": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "20261121-0011-nctdream-musicbank-win"
-    },
-    "19b5a03b751c": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "354ea5b5be42": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:excluded"
-    },
-    "f52d50ee8a40": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:excluded"
-    },
-    "863c0bf83939": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:excluded"
-    },
-    "4a10c5105686": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:excluded"
-    },
-    "ad2be30ca4af": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "b15392605803": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "3feee090f28c": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "323182bec06f": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "65c4dbed88e3": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "4a8ad1c29373": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "b7f73806595b": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "f58d799740d1": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "3e1bd896bc93": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "d3aaae6da947": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "d99cd8a09483": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "ce3991334c6d": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "330d1567d02f": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "e99005417cee": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "fc96c28686d3": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "81b3154ab241": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "f83affb86906": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "e377d166e0a0": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "7baa28a11ffc": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "d02f0e0a6703": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "7739086a9233": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "26f25c1c7af1": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "06fc868548ca": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "6bf4f12d5042": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "422066e92235": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "a7527b1f0547": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "aaa01f50824b": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "2544a1221194": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "3eb1c363a395": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "deb8453fe5a1": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "f00ee59f7ad0": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "221388a72d8a": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "389dff46276b": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "0f55d0f53991": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "b693c362f08c": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "655d59cf15de": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "447a328d0d70": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "9574aacd2f4a": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:excluded"
-    },
-    "cdd8f2c93181": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:excluded"
-    },
-    "a92b93307f48": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:excluded"
-    },
-    "b4f50478a610": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:excluded"
-    },
-    "b75c295f2a71": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:excluded"
-    },
-    "a7af90b71680": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:excluded"
-    },
-    "a57a026bbff8": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:excluded"
-    },
-    "9ba76507947e": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:excluded"
-    },
-    "72fe103dab9e": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:excluded"
-    },
-    "9b187986f052": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "c364e465bf0e": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:duplicate"
-    },
-    "f898be5c2322": {
-      "at": "2026-11-20T15:11:00Z",
-      "result": "skip:excluded"
-    },
-    "626b70f21260": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "20261121-0510-niziu-jolly-jolly-teaser"
-    },
-    "c8b6a4c1ae2a": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "20261121-0510-izna-iwaly-special-single"
-    },
-    "5d5069bec3f3": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "20261121-0510-jx-busan-encore"
-    },
-    "f21a6e4c68c5": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:duplicate"
-    },
-    "53c5b0a94d7b": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:duplicate"
-    },
-    "a78235295b02": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:duplicate"
-    },
-    "f2caba4ae88c": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:duplicate"
-    },
-    "04561d6f5693": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:duplicate"
-    },
-    "60e11adb032c": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "a9f25f89c6af": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "2296087b8790": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "f2ce25700394": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "efc595879f76": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "d9f3234a5275": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "d583410d651d": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "87d2194a9539": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "533532fed84b": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "79eb39ba296e": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "23e3c792ecf1": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "ed92d404132c": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "325bf2d6e028": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "dcbe0459461f": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "a7105bf0e624": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "2930eca1f2db": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "d6acf3b18f5d": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "059c423dec70": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "fc44da2c8355": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "93d56e8fcf1e": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "f4af105b4b02": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:not-kpop"
-    },
-    "08b5657ebc2a": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:excluded"
-    },
-    "dd1a163f8dbf": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:excluded"
-    },
-    "9322011f071e": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:excluded"
-    },
-    "1d249c9d2f5b": {
-      "at": "2026-11-20T20:10:00Z",
-      "result": "skip:excluded"
-    },
-    "bbb5c18050c6": {
-      "at": "2026-11-21T01:09:32Z",
-      "result": "skip:excluded"
-    },
-    "32201601b61f": {
-      "at": "2026-11-21T01:09:32Z",
-      "result": "skip:excluded"
-    },
-    "a2f0c0808201": {
-      "at": "2026-11-21T01:09:32Z",
-      "result": "skip:not-kpop"
-    },
-    "d01be31646f3": {
-      "at": "2026-11-21T01:09:32Z",
-      "result": "skip:not-kpop"
-    },
-    "80b10fe09f6a": {
-      "at": "2026-11-21T01:09:32Z",
-      "result": "skip:not-kpop"
-    },
-    "0f59fb46839d": {
-      "at": "2026-11-21T01:09:32Z",
-      "result": "skip:duplicate"
-    },
-    "42844faec8bd": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "20261121-1511-skz-christmas-evel-200m"
-    },
-    "e8914cc66ae3": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "20261121-1511-illit-jra-3rd-year"
-    },
-    "ef56ff248176": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "20261121-1511-viviz-contract-ruling"
-    },
-    "ef6a76d6b82f": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "b9f9bf438b2f": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "8cabbe6ee38c": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "5e265c72130b": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "50295dc0ebbe": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "7689a2793727": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "a5a615a00936": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "f9158a4fd178": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "a814e66bb638": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "73ec313f1dd0": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "2aa00e38dc9d": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "7a569939b209": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "17828d78b2e9": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "4b079c39cf1c": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "686f749697c6": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "26b951d7b446": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "e07b46b286e5": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "237e0d5850e6": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "e58faa4972d3": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "040900b60a50": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "e54bf3db5000": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:excluded"
-    },
-    "f779acf4553f": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "125f58349af0": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "ce2dc5d397f3": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "d4e409135b7d": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "b282ee6aaa69": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "1a4517461514": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "58736853309a": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "1a6e9ae5b47d": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "d4519e7a75ab": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "c31f4ee12870": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "54ff36421778": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "9b4b216c6a54": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "bbaa65ebf26e": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "1da25b895c97": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "084b35499ee8": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "5b1b6f99335e": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "6cf10f0a5edb": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "860d08213430": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "de6e622aa65e": {
-      "at": "2026-11-21T06:11:00Z",
-      "result": "skip:not-kpop"
-    },
-    "5c4f187b66f9": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "20261121-2012-mama-day2-bts-cortis"
-    },
-    "47c2a364707c": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "20261121-2012-mama-day2-bts-cortis"
-    },
-    "aa75b40fd7f8": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "20261121-2012-bigbang-mama-giiirip"
-    },
-    "c32904ad586c": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "20261121-2012-bigbang-mama-giiirip"
-    },
-    "f37379d53612": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "20261121-2012-bigbang-mama-giiirip"
-    },
-    "7de049dedb96": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "20261121-2012-bigbang-mama-giiirip"
-    },
-    "b67ba29b6d41": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "20261121-2012-zb1-jan-comeback"
-    },
-    "d35ecbfdd845": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:duplicate"
-    },
-    "df373b7940fe": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:duplicate"
-    },
-    "5e68ca20e407": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:duplicate"
-    },
-    "f378a8c2324a": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:duplicate"
-    },
-    "4966b66259bd": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:duplicate"
-    },
-    "9fd451de42ec": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:duplicate"
-    },
-    "69d8096d7129": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:duplicate"
-    },
-    "1b82bb98a2ef": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:duplicate"
-    },
-    "7c33ed76b5ab": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:duplicate"
-    },
-    "e3e16b0a59f7": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:duplicate"
-    },
-    "a2bfee8aa408": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:duplicate"
-    },
-    "fd5eccbf5ef8": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:duplicate"
-    },
-    "89eaaf50403b": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:not-kpop"
-    },
-    "51f3954d91be": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:not-kpop"
-    },
-    "3d2c1e1e0ff0": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:not-kpop"
-    },
-    "2b998a3b13fe": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:not-kpop"
-    },
-    "e54f97a5d692": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:excluded"
-    },
-    "15e8bb0850ea": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:excluded"
-    },
-    "fbaf02bab976": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:excluded"
-    },
-    "cd7cee8d64dc": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:excluded"
-    },
-    "4deeb12a5992": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:excluded"
-    },
-    "e2684d13ee3e": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:excluded"
-    },
-    "ada2411f888f": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:excluded"
-    },
-    "72b8a3ce6bd5": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:excluded"
-    },
-    "580f6a54f1a6": {
-      "at": "2026-11-21T11:12:00Z",
-      "result": "skip:unverified"
-    },
-    "f0ced1ca1481": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:excluded"
-    },
-    "1e2a7c400b0d": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:excluded"
-    },
-    "dd9888108630": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:excluded"
-    },
-    "85761a69c2b3": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:excluded"
-    },
-    "37d1b381fcdf": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:excluded"
-    },
-    "2e2f2c438b42": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:excluded"
-    },
-    "408c8a61e49f": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:excluded"
-    },
-    "1bdd2b66355c": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:duplicate"
-    },
-    "84319aea826e": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:duplicate"
-    },
-    "b7514206ff14": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:duplicate"
-    },
-    "f01eb666dddb": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:duplicate"
-    },
-    "4dc96047b747": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:duplicate"
-    },
-    "7be535e991a8": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:duplicate"
-    },
-    "f647fb12dcf3": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:duplicate"
-    },
-    "09352b48ad7f": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:duplicate"
-    },
-    "0f517c0b09c6": {
-      "at": "2026-11-21T15:09:57Z",
-      "result": "skip:not-kpop"
-    },
-    "eddfcfce9d18": {
-      "at": "2026-11-21T20:05:00Z",
-      "result": "20261122-0505-golden-uk-74weeks"
-    },
-    "edd654aaf5dd": {
-      "at": "2026-11-21T20:05:00Z",
-      "result": "skip:excluded"
-    },
-    "e1f10615f471": {
-      "at": "2026-11-21T20:05:00Z",
-      "result": "skip:excluded"
-    },
-    "37057688767b": {
-      "at": "2026-11-21T20:05:00Z",
-      "result": "skip:excluded"
-    },
-    "897cb9f8d045": {
-      "at": "2026-11-21T20:05:00Z",
-      "result": "skip:excluded"
-    },
-    "cea9c125decc": {
-      "at": "2026-11-21T20:05:00Z",
-      "result": "skip:excluded"
-    },
-    "08f415241dd2": {
-      "at": "2026-11-21T20:05:00Z",
-      "result": "skip:excluded"
-    },
-    "38779ab106f4": {
-      "at": "2026-11-21T20:05:00Z",
-      "result": "skip:excluded"
-    },
-    "8d0a201ad867": {
-      "at": "2026-11-21T20:05:00Z",
-      "result": "skip:excluded"
-    },
-    "92df31f3b309": {
-      "at": "2026-11-21T20:05:00Z",
-      "result": "skip:duplicate"
-    },
-    "23448cfe214d": {
-      "at": "2026-11-21T20:05:00Z",
-      "result": "skip:duplicate"
-    },
-    "4bfdf69664ce": {
-      "at": "2026-11-22T01:04:22Z",
-      "result": "skip:not-kpop"
-    },
-    "3c0b6ceffd04": {
-      "at": "2026-11-22T01:04:22Z",
-      "result": "skip:not-kpop"
-    },
-    "6f2f4a95e292": {
-      "at": "2026-11-22T01:04:22Z",
-      "result": "skip:not-kpop"
-    },
-    "c1d16f332fd6": {
-      "at": "2026-11-22T01:04:22Z",
-      "result": "skip:duplicate"
-    },
-    "76b2058987ee": {
-      "at": "2026-11-22T01:04:22Z",
-      "result": "skip:duplicate"
-    },
-    "853cdae5c698": {
-      "at": "2026-11-22T01:04:22Z",
-      "result": "skip:duplicate"
-    },
-    "e4404e7ee014": {
-      "at": "2026-11-22T01:04:22Z",
-      "result": "skip:excluded"
-    },
-    "ad35610d5956": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "20261122-1509-nctdream-musiccore-win"
-    },
-    "249c25367ecf": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:duplicate"
-    },
-    "658c25567781": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:duplicate"
-    },
-    "e257d10f0d3d": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:duplicate"
-    },
-    "ccf78762e6ab": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:duplicate"
-    },
-    "74bea1dc3aab": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:duplicate"
-    },
-    "e14984efe4d8": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:duplicate"
-    },
-    "cc7f4db45cc2": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:duplicate"
-    },
-    "046512d66926": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:duplicate"
-    },
-    "1a6c05a28fc3": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:duplicate"
-    },
-    "6dd8448f2421": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:duplicate"
-    },
-    "4d162739ff0e": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:duplicate"
-    },
-    "312dc40fc5ee": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:duplicate"
-    },
-    "3e4aafe6438c": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:duplicate"
-    },
-    "8a708e847f69": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:duplicate"
-    },
-    "62ade720a2f6": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:duplicate"
-    },
-    "79ca389a8a21": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:not-kpop"
-    },
-    "1f615995fa43": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:not-kpop"
-    },
-    "77e5098163f5": {
-      "at": "2026-11-22T06:09:44Z",
-      "result": "skip:not-kpop"
-    },
-    "43870cabfc0d": {
-      "at": "2026-11-22T11:11:38Z",
-      "result": "20261122-2011-rescene-inkigayo-5th-win"
-    },
-    "caf6b4580872": {
-      "at": "2026-11-22T11:11:38Z",
-      "result": "20261122-2011-tophyun-hwanginhyeock-hotpack"
-    },
-    "cb7b5ed396b4": {
-      "at": "2026-11-22T11:11:38Z",
-      "result": "skip:no-photo"
-    },
-    "cfb70647ef31": {
-      "at": "2026-11-22T11:11:38Z",
-      "result": "skip:not-kpop"
-    },
-    "943c2229646f": {
-      "at": "2026-11-22T11:11:38Z",
-      "result": "skip:not-kpop"
-    },
-    "0f2b361f8018": {
-      "at": "2026-11-22T11:11:38Z",
-      "result": "skip:not-kpop"
-    },
-    "130acba74f46": {
-      "at": "2026-11-22T11:11:38Z",
-      "result": "skip:not-kpop"
-    },
-    "b735d348a1ae": {
-      "at": "2026-11-22T11:11:38Z",
-      "result": "skip:excluded"
-    },
-    "d822d3106a55": {
-      "at": "2026-11-22T11:11:38Z",
-      "result": "skip:excluded"
-    }
+ "last_run": "2026-11-22T15:09:06Z",
+ "processed": {
+  "811a88d7d126": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "20261119-1810-bts-arirang-asia-tour"
   },
-  "publish_kick_at": "2026-11-22T13:18:33Z"
+  "c6cf6b4bb409": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "20261119-1810-taeyeon-fly-concert"
+  },
+  "584694a35648": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "20261119-1810-taeyeon-fly-concert"
+  },
+  "ad576223b4e0": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "20261119-1810-jennie-hot100-p1harmony"
+  },
+  "a6369a7f5eeb": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "20261119-1810-nctdream-showchampion-1st"
+  },
+  "ca5cfab21744": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "20261119-1810-illit-health-schedule"
+  },
+  "5eb34ae1552f": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "20261119-1810-illit-health-schedule"
+  },
+  "d7373e707c94": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "20261119-1810-plave-gocheok-encore"
+  },
+  "3d1318515797": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "91908f9d4227": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "0d96021f9022": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "9ff2d2be7ca0": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "fbf10baad4d1": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "5300c746d551": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "01e3e822b508": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "e45796f5fa0e": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "67bd6b11e911": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "5fb49d5fa04f": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "f99b45f19a4e": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "880e15e0ac87": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "909ba8fe7d47": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "f830a8c5cd50": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "e6ebf3fbf08e": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "baa6b64baba5": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "92780b9a278f": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "0e2510ef58cd": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "053929eb5662": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "954404b24ad3": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "272fde559441": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "70c900b29168": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "c0516e7e1aba": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "4aa6638cab00": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "0efc09bc7484": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "4ae89f4c5720": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "f7cb696ab838": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "b544af14ad46": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "064f2b481581": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "96b0df4c1309": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d1d029ea409d": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "b45da057a095": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "466a21037446": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "0d5cdb5a7318": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d94b2fd10f19": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "c0a474e2f7e6": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "97881818aad6": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "e9d1258c1424": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "5c2a05f14969": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "96a599161e32": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "4c714732ed6e": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "e40811d1a026": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "160ec37d5874": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "394a931df46a": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "92eb3e5205e9": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "092227d97121": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "42eed6174861": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "ec489eae8235": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "3a1ac895ec56": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "b9a9b940abe3": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "d157085ec6a0": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "1357a7ae90af": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "968c9dac4e2a": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "019048f929d6": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "1504e049d142": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "a12382455072": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "bedabb9beeec": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "5cb905d93728": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "46ea3427d090": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "8be3fc33a1b2": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "b6e127bef686": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "daadf48a8fdd": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "c7da56bfb5c4": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "1c6866b077a2": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d1773ffd79c3": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "54aeff8b2258": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "ba5af4dd933d": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "ece4edf7c1fc": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "0be313af662f": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d4f191f91bce": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "01726f4b292b": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "70e9c7966196": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "b252e55cd5e0": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "aee2f95aa3f2": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "20315f4d38b9": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "249bdc8a5cc7": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "466d5d732fe4": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "31082044d634": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:excluded"
+  },
+  "f41565e9e562": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "8897df1fd197": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "455c02c7a3a1": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d2ed8f28887e": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "9b96d1f3acfd": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "017d335e665b": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "3875dd5c084d": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "92969409acaa": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "cce0e6d34749": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "588a0e81b753": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "799b047d9af0": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "57bb783e3f12": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "f084804c9a1b": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "78b216e14b37": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "0161db438829": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "fe0a88794565": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "087184203106": {
+   "at": "2026-11-19T09:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "83cd2b3b5bbb": {
+   "at": "2026-11-19T10:30:00Z",
+   "result": "20261119-1930-finkl-reunion-sns"
+  },
+  "15df8b231335": {
+   "at": "2026-11-19T10:30:00Z",
+   "result": "20261119-1930-team-boynextdoor-riaj"
+  },
+  "7e6b0bc27a4b": {
+   "at": "2026-11-19T10:30:00Z",
+   "result": "20261119-1930-nctwish-circle-october"
+  },
+  "0fd97a60499d": {
+   "at": "2026-11-19T10:30:00Z",
+   "result": "20261119-1930-sion-jichangwook-japan-show"
+  },
+  "d990afcebff3": {
+   "at": "2026-11-19T10:30:00Z",
+   "result": "20261119-1930-hybe-keyholder"
+  },
+  "44086c135c1d": {
+   "at": "2026-11-19T10:30:00Z",
+   "result": "skip:not-kpop"
+  },
+  "e65aee8f2897": {
+   "at": "2026-11-19T10:30:00Z",
+   "result": "skip:not-kpop"
+  },
+  "560752be4fe2": {
+   "at": "2026-11-19T10:30:00Z",
+   "result": "skip:not-kpop"
+  },
+  "38cbb6618832": {
+   "at": "2026-11-19T10:30:00Z",
+   "result": "skip:not-kpop"
+  },
+  "3d83a1b42e0e": {
+   "at": "2026-11-19T10:30:00Z",
+   "result": "skip:not-kpop"
+  },
+  "f0c7ecf32c98": {
+   "at": "2026-11-19T10:30:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d280ed53cf17": {
+   "at": "2026-11-19T10:30:00Z",
+   "result": "skip:not-kpop"
+  },
+  "8153d74baeaa": {
+   "at": "2026-11-19T10:30:00Z",
+   "result": "skip:excluded"
+  },
+  "7ecc5f2a9253": {
+   "at": "2026-11-19T10:30:00Z",
+   "result": "skip:excluded"
+  },
+  "a9388e4b941d": {
+   "at": "2026-11-19T11:20:00Z",
+   "result": "20261119-2020-highlight-gikwang-kpopcon-mc"
+  },
+  "bc47ab04f1e0": {
+   "at": "2026-11-19T11:20:00Z",
+   "result": "20261119-2020-illit-traffic-police"
+  },
+  "0b0be1213d33": {
+   "at": "2026-11-19T11:20:00Z",
+   "result": "20261119-2020-ftisland-hongki-band-king"
+  },
+  "78e775eca210": {
+   "at": "2026-11-19T11:20:00Z",
+   "result": "20261119-2020-ntake-mirage-debut"
+  },
+  "7ac9be909e58": {
+   "at": "2026-11-19T11:20:00Z",
+   "result": "skip:not-kpop"
+  },
+  "0f71a73de784": {
+   "at": "2026-11-19T11:20:00Z",
+   "result": "skip:not-kpop"
+  },
+  "867c67e6b82e": {
+   "at": "2026-11-19T11:20:00Z",
+   "result": "skip:not-kpop"
+  },
+  "0087ed917a0a": {
+   "at": "2026-11-19T11:20:00Z",
+   "result": "skip:not-kpop"
+  },
+  "46b3680018bc": {
+   "at": "2026-11-19T11:20:00Z",
+   "result": "skip:not-kpop"
+  },
+  "ac1ffd175bb5": {
+   "at": "2026-11-19T11:20:00Z",
+   "result": "skip:not-kpop"
+  },
+  "3f9f1600392c": {
+   "at": "2026-11-19T11:20:00Z",
+   "result": "skip:excluded"
+  },
+  "5cd0ecdcfed9": {
+   "at": "2026-11-19T11:20:00Z",
+   "result": "skip:excluded"
+  },
+  "c2f098292a06": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:excluded"
+  },
+  "8633eba5bacf": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:excluded"
+  },
+  "6622a1a9a58a": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:excluded"
+  },
+  "418ae244f86d": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:excluded"
+  },
+  "532a9146f784": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:excluded"
+  },
+  "e525946c49f3": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:excluded"
+  },
+  "4fd7e53b952d": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:excluded"
+  },
+  "f0fc299ec78b": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:excluded"
+  },
+  "d352104d170e": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:excluded"
+  },
+  "0010c75e6fb1": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:excluded"
+  },
+  "a3763734d65b": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:excluded"
+  },
+  "8f77aeac30ce": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:excluded"
+  },
+  "5bfe5df0c37a": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:excluded"
+  },
+  "87c758d3abba": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:excluded"
+  },
+  "acedea3df16c": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "691d7d56b2d7": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "5ed0786ee268": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "34690020b704": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "623ebae66849": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "ee84e9493c36": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "6b2913ac9768": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "a76523641b70": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "5794496d6071": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "fe2beb1225b7": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "c5e64d9bacee": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "b9b402b893e1": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "5e3d1da02b02": {
+   "at": "2026-11-19T12:05:00Z",
+   "result": "20261119-2104-wego6-six-hearts"
+  },
+  "f8aaec53f161": {
+   "at": "2026-11-19T13:04:42Z",
+   "result": "20261119-2205-straykids-this-that-bb200-rebound"
+  },
+  "7d28b1be77a9": {
+   "at": "2026-11-19T14:05:14Z",
+   "result": "20261119-2305-nayeon-baby-angel-mv-teaser2"
+  },
+  "b996735993c7": {
+   "at": "2026-11-19T14:05:14Z",
+   "result": "20261119-2305-nayeon-baby-angel-mv-teaser2"
+  },
+  "8193f7f66594": {
+   "at": "2026-11-19T14:05:14Z",
+   "result": "20261119-2305-nayeon-baby-angel-mv-teaser2"
+  },
+  "02f2a711b154": {
+   "at": "2026-11-19T14:05:14Z",
+   "result": "20261119-2305-joohoney-jeongyeon-just-friends"
+  },
+  "249596da9464": {
+   "at": "2026-11-19T14:05:14Z",
+   "result": "skip:excluded"
+  },
+  "49a9c4884972": {
+   "at": "2026-11-19T15:04:15Z",
+   "result": "skip:excluded"
+  },
+  "c3297ea9381e": {
+   "at": "2026-11-19T17:09:38Z",
+   "result": "20261120-0209-bigbang-surprise-digital-single"
+  },
+  "85a81e195b26": {
+   "at": "2026-11-19T17:09:38Z",
+   "result": "skip:not-kpop"
+  },
+  "02d34135c348": {
+   "at": "2026-11-19T17:09:38Z",
+   "result": "skip:excluded"
+  },
+  "95244a0a42b5": {
+   "at": "2026-11-19T17:09:38Z",
+   "result": "skip:not-kpop"
+  },
+  "e31db19ba62b": {
+   "at": "2026-11-19T18:09:54Z",
+   "result": "skip:excluded"
+  },
+  "31edfc4a0b00": {
+   "at": "2026-11-19T18:09:54Z",
+   "result": "skip:excluded"
+  },
+  "f7c24ed8e930": {
+   "at": "2026-11-19T18:09:54Z",
+   "result": "skip:excluded"
+  },
+  "bb4432c785f9": {
+   "at": "2026-11-19T18:09:54Z",
+   "result": "skip:not-kpop"
+  },
+  "b72a6ce2c10a": {
+   "at": "2026-11-19T19:09:18Z",
+   "result": "skip:not-kpop"
+  },
+  "bcf8ec8a4c3a": {
+   "at": "2026-11-19T22:10:26Z",
+   "result": "skip:not-kpop"
+  },
+  "983c86360040": {
+   "at": "2026-11-19T23:10:21Z",
+   "result": "20261120-0810-jennie-power-trip-gta6"
+  },
+  "557037dd389f": {
+   "at": "2026-11-20T00:10:25Z",
+   "result": "20261120-0910-wayv-us-tour"
+  },
+  "1b68b3ac84b5": {
+   "at": "2026-11-20T01:10:00Z",
+   "result": "20261120-1010-ateez-double-million"
+  },
+  "b62086ea3801": {
+   "at": "2026-11-20T01:10:00Z",
+   "result": "20261120-1010-ateez-double-million"
+  },
+  "7f74bf353b61": {
+   "at": "2026-11-20T01:10:00Z",
+   "result": "20261120-1010-aespa-disney-holiday"
+  },
+  "833eb2ea0860": {
+   "at": "2026-11-20T01:10:00Z",
+   "result": "skip:duplicate"
+  },
+  "90231315a31a": {
+   "at": "2026-11-20T01:10:00Z",
+   "result": "skip:duplicate"
+  },
+  "fea05113c8bc": {
+   "at": "2026-11-20T01:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "1cc374019ad4": {
+   "at": "2026-11-20T01:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "6137a82ab521": {
+   "at": "2026-11-20T01:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "8d40504741ec": {
+   "at": "2026-11-20T02:09:00Z",
+   "result": "20261120-1109-dindin-cake"
+  },
+  "39f06ad1532f": {
+   "at": "2026-11-20T02:09:00Z",
+   "result": "20261120-1109-a2olite-vora-surgery"
+  },
+  "d846e2bf9172": {
+   "at": "2026-11-20T02:09:00Z",
+   "result": "skip:not-kpop"
+  },
+  "6757cfce0497": {
+   "at": "2026-11-20T02:09:00Z",
+   "result": "skip:not-kpop"
+  },
+  "b86587397ed4": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "20261120-1510-bts-japan-10b-streams"
+  },
+  "867ed87c0517": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "20261120-1510-nayeon-baby-angel-mv"
+  },
+  "aa1c36e262bc": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "20261120-1510-nayeon-baby-angel-mv"
+  },
+  "a04462e4f424": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "20261120-1510-santosbravos-team-origami"
+  },
+  "fc4ed16816e0": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:excluded"
+  },
+  "9e3911dd9a31": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:excluded"
+  },
+  "ff6e17459e96": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:excluded"
+  },
+  "59bede4a09ba": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:excluded"
+  },
+  "677bd089fa07": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:excluded"
+  },
+  "180b2959e4b5": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:excluded"
+  },
+  "b046b24e98d9": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:excluded"
+  },
+  "524eae0dfa1e": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:excluded"
+  },
+  "01b35615b8f0": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:excluded"
+  },
+  "4b6e6cc3b716": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:excluded"
+  },
+  "00a4ae6ede83": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:excluded"
+  },
+  "e9fab8ddbb27": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:excluded"
+  },
+  "750272422d51": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "1ade567994b3": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "f5b83625820a": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "ea0b7c321d93": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "16e239d08607": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "8be1591d0845": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "c800fa235277": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "7e4326e895de": {
+   "at": "2026-11-20T06:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "94ea00cf2d3d": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "b39962855b0b": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:not-kpop"
+  },
+  "6e9ec35651e4": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "c49c0a332f2f": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "27aa17d85fdd": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "009c5e240a2d": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:not-kpop"
+  },
+  "915a1c422bc4": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "e942d5653726": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "be85c8c2a507": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "36041a33841d": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:not-kpop"
+  },
+  "75cab755389a": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "5bcb04b086ca": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "5b12aafb7471": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "33a61fd62da8": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "14796829c0b1": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "9d391db1c142": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "694a7a445238": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "51fa6787052a": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "093a0cb90c58": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "fae4ab691e83": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "ee7a670bc4e2": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "2f07cb31ac0b": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "1612adde2041": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "2d6f9173ef64": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:not-kpop"
+  },
+  "68e01e5baa35": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "2c639f40f0a6": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "a18782932d9d": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "c69339e14fc7": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "87aae01bdb43": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:not-kpop"
+  },
+  "376813142070": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:not-kpop"
+  },
+  "15d7e2e3d6d1": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "4956d5a64768": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "bc6e40f3afac": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "6c44157d09f4": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "92f525711ff6": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:not-kpop"
+  },
+  "73daca1e36c1": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "d859b29f7030": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:not-kpop"
+  },
+  "85adc368a224": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:not-kpop"
+  },
+  "16df09ffec4c": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "444e54641824": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:not-kpop"
+  },
+  "02bf9a23997e": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:not-kpop"
+  },
+  "5b61d0d23dcc": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:not-kpop"
+  },
+  "755cf350996a": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "8dddecdbe5a3": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:duplicate"
+  },
+  "5c3cd82d576f": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "2c2185627049": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "12660408bae3": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "20261120-2009-enhypen-parallel-world"
+  },
+  "2829f3742f1b": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:not-kpop"
+  },
+  "ff6bc71c12bf": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "014d81aa78bf": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:not-kpop"
+  },
+  "26e257c7ef35": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "0e40ecb14d96": {
+   "at": "2026-11-20T11:10:14Z",
+   "result": "skip:excluded"
+  },
+  "af4e609d90cc": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "20261121-0011-mama-day1-bts-enhypen"
+  },
+  "e58cd6695e6c": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "20261121-0011-mama-day1-bts-enhypen"
+  },
+  "dda07781bec2": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "20261121-0011-mama-day1-bts-enhypen"
+  },
+  "64bd8b387cea": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "20261121-0011-mama-day1-bts-enhypen"
+  },
+  "76179d3a9558": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "20261121-0011-mama-day1-bts-enhypen"
+  },
+  "1c78a3c6a367": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "20261121-0011-mama-day1-bts-enhypen"
+  },
+  "93199f58632a": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "20261121-0011-mama-day1-bts-enhypen"
+  },
+  "a78e0b1564a7": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "20261121-0011-hyunjin-dior-ambassador"
+  },
+  "832e2dd0a437": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "20261121-0011-ive-show-what-i-am-encore"
+  },
+  "5ce034413dcc": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "20261121-0011-nctdream-musicbank-win"
+  },
+  "32eaf890fbd2": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "20261121-0011-nctdream-musicbank-win"
+  },
+  "19b5a03b751c": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "354ea5b5be42": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:excluded"
+  },
+  "f52d50ee8a40": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:excluded"
+  },
+  "863c0bf83939": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:excluded"
+  },
+  "4a10c5105686": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:excluded"
+  },
+  "ad2be30ca4af": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "b15392605803": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "3feee090f28c": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "323182bec06f": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "65c4dbed88e3": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "4a8ad1c29373": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "b7f73806595b": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "f58d799740d1": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "3e1bd896bc93": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d3aaae6da947": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "d99cd8a09483": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "ce3991334c6d": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "330d1567d02f": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "e99005417cee": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "fc96c28686d3": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "81b3154ab241": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "f83affb86906": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "e377d166e0a0": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "7baa28a11ffc": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d02f0e0a6703": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "7739086a9233": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "26f25c1c7af1": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "06fc868548ca": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "6bf4f12d5042": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "422066e92235": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "a7527b1f0547": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "aaa01f50824b": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "2544a1221194": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "3eb1c363a395": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "deb8453fe5a1": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "f00ee59f7ad0": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "221388a72d8a": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "389dff46276b": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "0f55d0f53991": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "b693c362f08c": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "655d59cf15de": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "447a328d0d70": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "9574aacd2f4a": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:excluded"
+  },
+  "cdd8f2c93181": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:excluded"
+  },
+  "a92b93307f48": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:excluded"
+  },
+  "b4f50478a610": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:excluded"
+  },
+  "b75c295f2a71": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:excluded"
+  },
+  "a7af90b71680": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:excluded"
+  },
+  "a57a026bbff8": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:excluded"
+  },
+  "9ba76507947e": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:excluded"
+  },
+  "72fe103dab9e": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:excluded"
+  },
+  "9b187986f052": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "c364e465bf0e": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:duplicate"
+  },
+  "f898be5c2322": {
+   "at": "2026-11-20T15:11:00Z",
+   "result": "skip:excluded"
+  },
+  "626b70f21260": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "20261121-0510-niziu-jolly-jolly-teaser"
+  },
+  "c8b6a4c1ae2a": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "20261121-0510-izna-iwaly-special-single"
+  },
+  "5d5069bec3f3": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "20261121-0510-jx-busan-encore"
+  },
+  "f21a6e4c68c5": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:duplicate"
+  },
+  "53c5b0a94d7b": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:duplicate"
+  },
+  "a78235295b02": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:duplicate"
+  },
+  "f2caba4ae88c": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:duplicate"
+  },
+  "04561d6f5693": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:duplicate"
+  },
+  "60e11adb032c": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "a9f25f89c6af": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "2296087b8790": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "f2ce25700394": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "efc595879f76": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d9f3234a5275": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d583410d651d": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "87d2194a9539": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "533532fed84b": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "79eb39ba296e": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "23e3c792ecf1": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "ed92d404132c": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "325bf2d6e028": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "dcbe0459461f": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "a7105bf0e624": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "2930eca1f2db": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d6acf3b18f5d": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "059c423dec70": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "fc44da2c8355": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "93d56e8fcf1e": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "f4af105b4b02": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "08b5657ebc2a": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:excluded"
+  },
+  "dd1a163f8dbf": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:excluded"
+  },
+  "9322011f071e": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:excluded"
+  },
+  "1d249c9d2f5b": {
+   "at": "2026-11-20T20:10:00Z",
+   "result": "skip:excluded"
+  },
+  "bbb5c18050c6": {
+   "at": "2026-11-21T01:09:32Z",
+   "result": "skip:excluded"
+  },
+  "32201601b61f": {
+   "at": "2026-11-21T01:09:32Z",
+   "result": "skip:excluded"
+  },
+  "a2f0c0808201": {
+   "at": "2026-11-21T01:09:32Z",
+   "result": "skip:not-kpop"
+  },
+  "d01be31646f3": {
+   "at": "2026-11-21T01:09:32Z",
+   "result": "skip:not-kpop"
+  },
+  "80b10fe09f6a": {
+   "at": "2026-11-21T01:09:32Z",
+   "result": "skip:not-kpop"
+  },
+  "0f59fb46839d": {
+   "at": "2026-11-21T01:09:32Z",
+   "result": "skip:duplicate"
+  },
+  "42844faec8bd": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "20261121-1511-skz-christmas-evel-200m"
+  },
+  "e8914cc66ae3": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "20261121-1511-illit-jra-3rd-year"
+  },
+  "ef56ff248176": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "20261121-1511-viviz-contract-ruling"
+  },
+  "ef6a76d6b82f": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "b9f9bf438b2f": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "8cabbe6ee38c": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "5e265c72130b": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "50295dc0ebbe": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "7689a2793727": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "a5a615a00936": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "f9158a4fd178": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "a814e66bb638": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "73ec313f1dd0": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "2aa00e38dc9d": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "7a569939b209": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "17828d78b2e9": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "4b079c39cf1c": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "686f749697c6": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "26b951d7b446": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "e07b46b286e5": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "237e0d5850e6": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "e58faa4972d3": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "040900b60a50": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "e54bf3db5000": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:excluded"
+  },
+  "f779acf4553f": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "125f58349af0": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "ce2dc5d397f3": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d4e409135b7d": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "b282ee6aaa69": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "1a4517461514": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "58736853309a": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "1a6e9ae5b47d": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d4519e7a75ab": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "c31f4ee12870": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "54ff36421778": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "9b4b216c6a54": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "bbaa65ebf26e": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "1da25b895c97": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "084b35499ee8": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "5b1b6f99335e": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "6cf10f0a5edb": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "860d08213430": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "de6e622aa65e": {
+   "at": "2026-11-21T06:11:00Z",
+   "result": "skip:not-kpop"
+  },
+  "5c4f187b66f9": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "20261121-2012-mama-day2-bts-cortis"
+  },
+  "47c2a364707c": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "20261121-2012-mama-day2-bts-cortis"
+  },
+  "aa75b40fd7f8": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "20261121-2012-bigbang-mama-giiirip"
+  },
+  "c32904ad586c": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "20261121-2012-bigbang-mama-giiirip"
+  },
+  "f37379d53612": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "20261121-2012-bigbang-mama-giiirip"
+  },
+  "7de049dedb96": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "20261121-2012-bigbang-mama-giiirip"
+  },
+  "b67ba29b6d41": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "20261121-2012-zb1-jan-comeback"
+  },
+  "d35ecbfdd845": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "df373b7940fe": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "5e68ca20e407": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "f378a8c2324a": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "4966b66259bd": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "9fd451de42ec": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "69d8096d7129": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "1b82bb98a2ef": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "7c33ed76b5ab": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "e3e16b0a59f7": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "a2bfee8aa408": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "fd5eccbf5ef8": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:duplicate"
+  },
+  "89eaaf50403b": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:not-kpop"
+  },
+  "51f3954d91be": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:not-kpop"
+  },
+  "3d2c1e1e0ff0": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:not-kpop"
+  },
+  "2b998a3b13fe": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:not-kpop"
+  },
+  "e54f97a5d692": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "15e8bb0850ea": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "fbaf02bab976": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "cd7cee8d64dc": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "4deeb12a5992": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "e2684d13ee3e": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "ada2411f888f": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "72b8a3ce6bd5": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:excluded"
+  },
+  "580f6a54f1a6": {
+   "at": "2026-11-21T11:12:00Z",
+   "result": "skip:unverified"
+  },
+  "f0ced1ca1481": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:excluded"
+  },
+  "1e2a7c400b0d": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:excluded"
+  },
+  "dd9888108630": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:excluded"
+  },
+  "85761a69c2b3": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:excluded"
+  },
+  "37d1b381fcdf": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:excluded"
+  },
+  "2e2f2c438b42": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:excluded"
+  },
+  "408c8a61e49f": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:excluded"
+  },
+  "1bdd2b66355c": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "84319aea826e": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "b7514206ff14": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "f01eb666dddb": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "4dc96047b747": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "7be535e991a8": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "f647fb12dcf3": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "09352b48ad7f": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:duplicate"
+  },
+  "0f517c0b09c6": {
+   "at": "2026-11-21T15:09:57Z",
+   "result": "skip:not-kpop"
+  },
+  "eddfcfce9d18": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "20261122-0505-golden-uk-74weeks"
+  },
+  "edd654aaf5dd": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "e1f10615f471": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "37057688767b": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "897cb9f8d045": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "cea9c125decc": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "08f415241dd2": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "38779ab106f4": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "8d0a201ad867": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:excluded"
+  },
+  "92df31f3b309": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:duplicate"
+  },
+  "23448cfe214d": {
+   "at": "2026-11-21T20:05:00Z",
+   "result": "skip:duplicate"
+  },
+  "4bfdf69664ce": {
+   "at": "2026-11-22T01:04:22Z",
+   "result": "skip:not-kpop"
+  },
+  "3c0b6ceffd04": {
+   "at": "2026-11-22T01:04:22Z",
+   "result": "skip:not-kpop"
+  },
+  "6f2f4a95e292": {
+   "at": "2026-11-22T01:04:22Z",
+   "result": "skip:not-kpop"
+  },
+  "c1d16f332fd6": {
+   "at": "2026-11-22T01:04:22Z",
+   "result": "skip:duplicate"
+  },
+  "76b2058987ee": {
+   "at": "2026-11-22T01:04:22Z",
+   "result": "skip:duplicate"
+  },
+  "853cdae5c698": {
+   "at": "2026-11-22T01:04:22Z",
+   "result": "skip:duplicate"
+  },
+  "e4404e7ee014": {
+   "at": "2026-11-22T01:04:22Z",
+   "result": "skip:excluded"
+  },
+  "ad35610d5956": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "20261122-1509-nctdream-musiccore-win"
+  },
+  "249c25367ecf": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:duplicate"
+  },
+  "658c25567781": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:duplicate"
+  },
+  "e257d10f0d3d": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:duplicate"
+  },
+  "ccf78762e6ab": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:duplicate"
+  },
+  "74bea1dc3aab": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:duplicate"
+  },
+  "e14984efe4d8": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:duplicate"
+  },
+  "cc7f4db45cc2": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:duplicate"
+  },
+  "046512d66926": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:duplicate"
+  },
+  "1a6c05a28fc3": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:duplicate"
+  },
+  "6dd8448f2421": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:duplicate"
+  },
+  "4d162739ff0e": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:duplicate"
+  },
+  "312dc40fc5ee": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:duplicate"
+  },
+  "3e4aafe6438c": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:duplicate"
+  },
+  "8a708e847f69": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:duplicate"
+  },
+  "62ade720a2f6": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:duplicate"
+  },
+  "79ca389a8a21": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:not-kpop"
+  },
+  "1f615995fa43": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:not-kpop"
+  },
+  "77e5098163f5": {
+   "at": "2026-11-22T06:09:44Z",
+   "result": "skip:not-kpop"
+  },
+  "43870cabfc0d": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "20261122-2011-rescene-inkigayo-5th-win"
+  },
+  "caf6b4580872": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "20261122-2011-tophyun-hwanginhyeock-hotpack"
+  },
+  "cb7b5ed396b4": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "skip:no-photo"
+  },
+  "cfb70647ef31": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "skip:not-kpop"
+  },
+  "943c2229646f": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "skip:not-kpop"
+  },
+  "0f2b361f8018": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "skip:not-kpop"
+  },
+  "130acba74f46": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "skip:not-kpop"
+  },
+  "b735d348a1ae": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "skip:excluded"
+  },
+  "d822d3106a55": {
+   "at": "2026-11-22T11:11:38Z",
+   "result": "skip:excluded"
+  },
+  "ea7a1cbf5a8e": {
+   "at": "2026-11-22T15:09:06Z",
+   "result": "skip:excluded"
+  },
+  "c449ef319c6a": {
+   "at": "2026-11-22T15:09:06Z",
+   "result": "skip:excluded"
+  },
+  "56bc16e968aa": {
+   "at": "2026-11-22T15:09:06Z",
+   "result": "skip:not-kpop"
+  },
+  "39f2c94776b4": {
+   "at": "2026-11-22T15:09:06Z",
+   "result": "skip:excluded"
+  },
+  "919cf9426733": {
+   "at": "2026-11-22T15:09:06Z",
+   "result": "skip:excluded"
+  },
+  "8e97f49c49a1": {
+   "at": "2026-11-22T15:09:06Z",
+   "result": "skip:no-photo"
+  }
+ },
+ "publish_kick_at": "2026-11-22T13:18:33Z"
 }
