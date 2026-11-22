@@ -27,5 +27,8 @@
   "candidate_ids": [
     "caf6b4580872"
   ],
-  "status": "draft"
+  "status": "approved",
+  "rendered": 2,
+  "photo_used": true,
+  "approved": true
 }
