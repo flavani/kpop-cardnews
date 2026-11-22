@@ -1,0 +1,68 @@
+{
+  "id": "20261123-0510-iu-2027-world-tour",
+  "created_at": "2026-11-22T20:10:00Z",
+  "news_key": "iu-2027-world-tour-dates-announce",
+  "group": "IU",
+  "category": "TOUR",
+  "headline": "IU announces 2027 world tour, starting in Bangkok Jan 16",
+  "highlight": "IU",
+  "sub": "10 cities across Asia and Australia, including Tokyo Dome",
+  "photo": "https://cdn.topstarnews.net/news/photo/202611/16283150_2096058_3549.jpg",
+  "photo_alternates": [
+    "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.ae51eed502cd41b88858ae77ebdf33c8_P1.jpg",
+    "https://cdn.topstarnews.net/news/photo/202611/16283150_2096058_3549_crop.jpeg"
+  ],
+  "focus": "50% 30%",
+  "credit": "Photo: IU official SNS",
+  "info": {
+    "title": "Tour dates",
+    "rows": [
+      [
+        "Jan",
+        "Bangkok, Bulacan"
+      ],
+      [
+        "Feb",
+        "Kaohsiung, Sydney"
+      ],
+      [
+        "Mar",
+        "Singapore, Kuala Lumpur"
+      ],
+      [
+        "Apr",
+        "Tokyo, Taipei, Hong Kong"
+      ],
+      [
+        "May",
+        "Jakarta (May 8-9)"
+      ]
+    ]
+  },
+  "points": {
+    "title": "What to know",
+    "items": [
+      "Tokyo Dome Apr 7-8, Taipei Dome Apr 17-18",
+      "Every other stop is a stadium show",
+      "Korea dates have not been announced yet",
+      "Ticketing details are still to come"
+    ]
+  },
+  "source": "Source: IU official SNS, via Korean media",
+  "caption": "IU is heading out on a 2027 world tour, kicking off at Bangkok's Rajamangala National Stadium on Jan 16.\n\nThe '2027 IU WORLD TOUR CONCERT' was revealed on her official SNS on Nov 23 KST, with 10 cities across Asia and Australia, from Bangkok and Bulacan to Sydney, Singapore, Hong Kong and Jakarta. She will play Tokyo Dome on Apr 7-8 and Taipei Dome on Apr 17-18. Korean dates and ticketing info are yet to be announced. It comes four months after she postponed her fall shows to look after her health.\n\n📌 Source: IU official SNS, via Korean media (Sports Kyunghyang, Topstar News)\n#IU #아이유 #IUWorldTour #IU2027WorldTour #TokyoDome #kpop #kpopnews #kpoptour",
+  "sources": [
+    "https://sports.khan.co.kr/article/202611230222003/",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16283150",
+    "https://www.soompi.com/article/1889538wpp/iu-announces-dates-and-cities-for-2027-world-tour"
+  ],
+  "sensitivity": "normal",
+  "hook": 9,
+  "song": {
+    "title": "From This Star",
+    "artist": "IU"
+  },
+  "candidate_ids": [
+    "4bf77aa07c00"
+  ],
+  "status": "draft"
+}
