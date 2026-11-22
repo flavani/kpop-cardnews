@@ -44,8 +44,10 @@
   "candidate_ids": [
     "626b70f21260"
   ],
-  "status": "approved",
+  "status": "needs_check",
   "rendered": 3,
   "photo_used": true,
-  "approved": true
+  "approved": true,
+  "attempts": 1,
+  "last_error": "{\"message\": \"API access blocked.\", \"code\": 200, \"type\": \"OAuthException\", \"error_subcode\": 5258005, \"fbtrace_id\": \"AdQ9X-FzdgObtTnEHzPQc7D\"}"
 }
