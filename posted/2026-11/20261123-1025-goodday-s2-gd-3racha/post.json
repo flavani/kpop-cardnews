@@ -61,10 +61,13 @@
   "candidate_ids": [
     "d8c2b7ee8270"
   ],
-  "status": "approved",
+  "status": "published",
   "rendered": 4,
   "photo_used": true,
   "approved": true,
-  "attempts": 1,
-  "last_error": "{\"message\": \"Timeout\", \"code\": -2, \"type\": \"OAuthException\", \"error_subcode\": 2207003, \"is_transient\": false, \"error_user_msg\": \"미디어 다운로드 시간이 초과되었습니다.\", \"error_user_title\": \"시간 초과\", \"fbtrace_id\": \"AX5jT4t7PYkJNiL5w2KJ1o3\"}"
+  "attempts": 2,
+  "last_error": "{\"message\": \"Application request limit reached\", \"code\": 4, \"type\": \"OAuthException\", \"error_subcode\": 2207051, \"is_transient\": false, \"error_user_msg\": \"Instagram은 커뮤니티를 보호하기 위해 특정 활동을 제한합니다. 이 조치가 실수라고 생각하는 경우 저희에게 알려주세요.\", \"error_user_title\": \"행동이 차단되었습니다\", \"fbtrace_id\": \"AjOJjOlSrH-hCuUkcoEqf8V\"}",
+  "media_id": "18119742002139036",
+  "permalink": "https://www.instagram.com/p/DgFPN6ooWGJ/",
+  "published_at": "2026-11-23T11:09:01Z"
 }
