@@ -1,0 +1,147 @@
+{
+  "id": "20261124-0045-roundup",
+  "covers": [
+    "20261123-0510-iu-2027-world-tour",
+    "20261123-1025-ateez-bb200-4th-no1"
+  ],
+  "order_hooks": [
+    9.0,
+    9.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "IU From This Star",
+      "results": []
+    },
+    {
+      "query": "IU",
+      "results": [
+        {
+          "audio_id": "341588679807480",
+          "title": "Our Path Forward",
+          "display_artist": "Global Genius"
+        },
+        {
+          "audio_id": "722549538110036",
+          "title": "Looking Up",
+          "display_artist": "Alex G"
+        },
+        {
+          "audio_id": "9498195570257877",
+          "title": "Love Me",
+          "display_artist": "Company Money"
+        },
+        {
+          "audio_id": "1946707425990894",
+          "title": "Mojo",
+          "display_artist": "Giulio Cercato"
+        },
+        {
+          "audio_id": "10054027951321261",
+          "title": "On My Heels Remix (Jazmine) (Instrumental)",
+          "display_artist": "Sleeping Lion"
+        }
+      ]
+    },
+    {
+      "query": "ATEEZ UP",
+      "results": [
+        {
+          "audio_id": "1105478964958211",
+          "title": "Seoul Vibes (Instrumental)",
+          "display_artist": "Sugartapes"
+        },
+        {
+          "audio_id": "192200826896731",
+          "title": "Lady Sunshine",
+          "display_artist": "Giulio Cercato"
+        }
+      ]
+    },
+    {
+      "query": "ATEEZ",
+      "results": [
+        {
+          "audio_id": "1105478964958211",
+          "title": "Seoul Vibes (Instrumental)",
+          "display_artist": "Sugartapes"
+        },
+        {
+          "audio_id": "192200826896731",
+          "title": "Lady Sunshine",
+          "display_artist": "Giulio Cercato"
+        },
+        {
+          "audio_id": "926080048445661",
+          "title": "Lemon Drops 30s (feat. Stephan Sharp, Jacquire King)",
+          "display_artist": "The K Club"
+        },
+        {
+          "audio_id": "1385666725964277",
+          "title": "Drip (Instrumental)",
+          "display_artist": "Sugartapes"
+        },
+        {
+          "audio_id": "1491938882701818",
+          "title": "Lemonade On A Summer Day",
+          "display_artist": "Summer Islands"
+        }
+      ]
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "229596876055188",
+          "title": "Good Thing",
+          "display_artist": "Faver"
+        },
+        {
+          "audio_id": "515270235014707",
+          "title": "Twilight Walk",
+          "display_artist": "Phury"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 24 — IU announces 2027 world tour, starting in Bangkok Jan 16\n\n1️⃣ IU announces 2027 world tour, starting in Bangkok Jan 16\n2️⃣ ATEEZ top Billboard 200 for the 4th time\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#IU #ATEEZ #kpop #kpopnews #kpoproundup",
+  "audio_probes": [
+    {
+      "query": "kpop",
+      "hits": [
+        "Alex Blue - Good Time",
+        "Faver - Good Thing",
+        "Phury - Twilight Walk",
+        "LAVLO - Colors",
+        "Tash - Favorite",
+        "YUNGDAN - Melt"
+      ]
+    }
+  ],
+  "test_container": "18182555473445822",
+  "test_status": "FINISHED (not published)",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "tested_at": "2026-11-23T15:46:27Z"
+}
