@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-22T20:10:00Z",
+ "last_run": "2026-11-23T01:09:34Z",
  "processed": {
   "811a88d7d126": {
    "at": "2026-11-19T09:10:00Z",
@@ -2080,6 +2080,38 @@
   "c7db3967564b": {
    "at": "2026-11-22T20:10:00Z",
    "result": "skip:excluded"
+  },
+  "1dce7c9474c2": {
+   "at": "2026-11-23T01:09:34Z",
+   "result": "skip:not-kpop"
+  },
+  "80226d23f6f1": {
+   "at": "2026-11-23T01:09:34Z",
+   "result": "skip:not-kpop"
+  },
+  "55c38646b973": {
+   "at": "2026-11-23T01:09:34Z",
+   "result": "skip:not-kpop"
+  },
+  "f43bb478112c": {
+   "at": "2026-11-23T01:09:34Z",
+   "result": "skip:not-kpop"
+  },
+  "76b1849a5f7f": {
+   "at": "2026-11-23T01:09:34Z",
+   "result": "skip:not-kpop"
+  },
+  "44e68ad22594": {
+   "at": "2026-11-23T01:09:34Z",
+   "result": "skip:not-kpop"
+  },
+  "1c17a9cdd014": {
+   "at": "2026-11-23T01:09:34Z",
+   "result": "skip:excluded"
+  },
+  "914372e126a2": {
+   "at": "2026-11-23T01:09:34Z",
+   "result": "skip:duplicate"
   }
  },
  "publish_kick_at": "2026-11-22T13:18:33Z"
