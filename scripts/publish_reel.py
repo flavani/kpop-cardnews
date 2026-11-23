@@ -22,6 +22,7 @@ usage:
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 from datetime import datetime, timedelta
@@ -31,7 +32,7 @@ import requests
 
 sys.path.insert(0, str(Path(__file__).parent))
 from common import (DATA, KST, POSTED, ROOT, iso, now_utc, parse_iso, queue_posts,  # noqa: E402
-                    save_json, settings)
+                    raw_url, save_json, settings)
 from publish import (IG, blocked_until, find_on_instagram, is_block_error, posted_index,  # noqa: E402
                      set_block)
 
@@ -212,36 +213,82 @@ def wait_video(ig, cid, minutes=10):
     raise RuntimeError(f"video container {cid} not ready after {minutes} min")
 
 
-def create_and_upload(ig, uid, video, caption, audio_id, ai_label, thumb_ms):
-    params = dict(media_type="REELS", upload_type="resumable", caption=caption, share_to_feed="true",
-                  thumb_offset=str(thumb_ms))
+MEDIA_BRANCH = "reel-media"
+
+
+def host_video(video, name):
+    """Put the MP4 on a public URL: a one-file orphan commit force-pushed to the `reel-media`
+    branch (main never carries videos; each push replaces the previous one). Instagram's Audio
+    API documents music attachment with `video_url`; the resumable upload accepted
+    audio_configuration but published the reels without music (2026-11-23)."""
+    if not os.environ.get("GITHUB_ACTIONS"):
+        return None
+    git = lambda *a, **kw: subprocess.run(["git", *a], cwd=ROOT, check=True, capture_output=True,
+                                          text=True, **kw).stdout.strip()
+    blob = git("hash-object", "-w", str(video))
+    tree = git("mktree", input=f"100644 blob {blob}\t{name}\n")
+    commit = git("-c", "user.name=cardnews-bot", "-c", "user.email=41898282+github-actions[bot]@users.noreply.github.com",
+                 "commit-tree", tree, "-m", f"reel video {name}")
+    git("push", "-q", "-f", "origin", f"{commit}:refs/heads/{MEDIA_BRANCH}")
+    url = raw_url(name, ref=MEDIA_BRANCH)
+    for _ in range(12):   # wait until the raw CDN serves it
+        try:
+            if requests.head(url, timeout=20, allow_redirects=True).status_code == 200:
+                return url
+        except requests.RequestException:
+            pass
+        time.sleep(5)
+    return url
+
+
+def create_and_upload(ig, uid, video, caption, audio_id, ai_label, thumb_ms, video_url=None):
+    params = dict(media_type="REELS", caption=caption, share_to_feed="true", thumb_offset=str(thumb_ms))
     if ai_label:
         params["is_ai_generated"] = "true"
     if audio_id:
         params["audio_configuration"] = json.dumps({"audio_id": str(audio_id), "audio_volume": 100,
                                                     "video_volume": 1})
-    c = ig.call("POST", f"{uid}/media", **params)
-    cid = c["id"]
-    uri = c.get("uri") or f"https://rupload.facebook.com/ig-api-upload/{cid}"
-    data = Path(video).read_bytes()
-    r = requests.post(uri, data=data, timeout=300, headers={
-        "Authorization": f"OAuth {ig.token}", "offset": "0", "file_size": str(len(data))})
-    if r.status_code >= 400:
-        raise RuntimeError(f"video upload failed {r.status_code}: {r.text[:300]}")
+    if video_url:
+        params["video_url"] = video_url
+        cid = ig.call("POST", f"{uid}/media", **params)["id"]
+    else:
+        c = ig.call("POST", f"{uid}/media", upload_type="resumable", **params)
+        cid = c["id"]
+        uri = c.get("uri") or f"https://rupload.facebook.com/ig-api-upload/{cid}"
+        data = Path(video).read_bytes()
+        r = requests.post(uri, data=data, timeout=300, headers={
+            "Authorization": f"OAuth {ig.token}", "offset": "0", "file_size": str(len(data))})
+        if r.status_code >= 400:
+            raise RuntimeError(f"video upload failed {r.status_code}: {r.text[:300]}")
     wait_video(ig, cid)
     return cid
 
 
 def make_container(ig, uid, video, caption, audio, ai_label, n, log):
+    """Returns (container id, audio used or None, how the video was sent)."""
     thumb = int((reel.STORY * 0.6) * 1000)          # lead story with its headline fully in
+    audio_id = audio and audio["audio_id"]
     try:
-        return create_and_upload(ig, uid, video, caption, audio and audio["audio_id"], ai_label, thumb), audio
+        url = host_video(video, Path(video).parent.name + ".mp4")
+    except Exception as ex:
+        url = None
+        log.append({"host_video_error": str(ex)[:300]})
+    if url:
+        try:
+            return create_and_upload(ig, uid, video, caption, audio_id, ai_label, thumb, url), audio, "video_url"
+        except Exception as ex:
+            if is_block_error(str(ex)):
+                raise
+            log.append({"video_url_error": str(ex)[:300]})
+            print(f"[warn] video_url container failed ({ex}); falling back to direct upload", file=sys.stderr)
+    try:
+        return create_and_upload(ig, uid, video, caption, audio_id, ai_label, thumb), audio, "resumable"
     except Exception as ex:
         if not audio or is_block_error(str(ex)):
             raise
         log.append({"music_attach_error": str(ex)[:300]})
         print(f"[warn] container with music failed ({ex}); retrying without music", file=sys.stderr)
-        return create_and_upload(ig, uid, video, caption, None, ai_label, thumb), None
+        return create_and_upload(ig, uid, video, caption, None, ai_label, thumb), None, "resumable"
 
 
 # ---------- main ----------
@@ -333,8 +380,9 @@ def main():
         if req.get("probe_only"):
             save_json(DATA / "reel_test_result.json", meta); print(json.dumps(probes, ensure_ascii=False)[:3000]); return
         try:
-            cid, used = make_container(ig, uid, video, caption, audio, cfg.get("ai_label", True), len(posts), log)
-            meta.update(test_container=cid, test_status="FINISHED (not published)", music_attached=bool(used))
+            cid, used, how = make_container(ig, uid, video, caption, audio, cfg.get("ai_label", True), len(posts), log)
+            meta.update(test_container=cid, test_status="FINISHED (not published)", music_attached=bool(used),
+                        video_sent_as=how)
         except Exception as ex:
             meta.update(test_error=str(ex)[:500])
         meta["tested_at"] = iso(now_utc())
@@ -362,8 +410,8 @@ def main():
         found = None
     if not found:
         try:
-            cid, used = make_container(ig, uid, video, caption, audio, cfg.get("ai_label", True), len(posts), log)
-            meta["music_attached"] = bool(used)
+            cid, used, how = make_container(ig, uid, video, caption, audio, cfg.get("ai_label", True), len(posts), log)
+            meta.update(music_attached=bool(used), video_sent_as=how)
             media_id = ig.call("POST", f"{uid}/media_publish", creation_id=cid)["id"]
             try:
                 link = ig.call("GET", media_id, fields="permalink").get("permalink")
