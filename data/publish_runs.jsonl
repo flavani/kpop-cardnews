@@ -1,1 +1,2 @@
 {"at": "2026-11-23T15:08:07Z", "run": "45201669938", "attempt": 1, "posted": 0, "outcome": "gap", "msg": "interval limit: last post 30 min ago, need 55 min"}
+{"at": "2026-11-23T15:13:09Z", "run": "45201669938", "attempt": 2, "posted": 0, "outcome": "gap", "msg": "interval limit: last post 35 min ago, need 55 min"}
