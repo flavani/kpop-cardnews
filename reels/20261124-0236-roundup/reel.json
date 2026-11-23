@@ -1,0 +1,166 @@
+{
+  "id": "20261124-0236-roundup",
+  "covers": [
+    "20261123-1506-riize-spotify-closer-nyc",
+    "20261123-2007-illit-showkpop-triple-crown",
+    "20261123-1506-kissoflife-greedy-winter"
+  ],
+  "order_hooks": [
+    7.0,
+    7.0,
+    6.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "RIIZE Get A Guitar",
+      "results": []
+    },
+    {
+      "query": "RIIZE",
+      "results": [
+        {
+          "audio_id": "483869933712364",
+          "title": "Disco Love",
+          "display_artist": "Chela Rivas"
+        },
+        {
+          "audio_id": "1586348321744256",
+          "title": "I Wish You Saw That",
+          "display_artist": "Kiri T"
+        },
+        {
+          "audio_id": "3188463141456618",
+          "title": "Sentimental Motion (feat. ZAB)",
+          "display_artist": "half.cool"
+        },
+        {
+          "audio_id": "488642401698583",
+          "title": "Nani Nani Oy",
+          "display_artist": "Mike Block"
+        },
+        {
+          "audio_id": "1956430398339686",
+          "title": "Moving On",
+          "display_artist": "Summer Islands"
+        }
+      ]
+    },
+    {
+      "query": "ILLIT You're Under Arrest",
+      "results": [
+        {
+          "audio_id": "384565393627690",
+          "title": "Cosmic Boy Charm",
+          "display_artist": "Cosmic Boy"
+        }
+      ]
+    },
+    {
+      "query": "ILLIT",
+      "results": [
+        {
+          "audio_id": "2120570715052169",
+          "title": "Shibuya (Instrumental)",
+          "display_artist": "Sugartapes"
+        },
+        {
+          "audio_id": "1389826223113868",
+          "title": "The Puppy Song",
+          "display_artist": "Company Money"
+        },
+        {
+          "audio_id": "988333355589920",
+          "title": "Stay Out",
+          "display_artist": "half.cool"
+        },
+        {
+          "audio_id": "474970734672952",
+          "title": "Get You Right (prod. by d.higgs)",
+          "display_artist": "Lexi Reed"
+        },
+        {
+          "audio_id": "1336048258165926",
+          "title": "Pink Confetti",
+          "display_artist": "Melody the Superstar"
+        }
+      ]
+    },
+    {
+      "query": "KISS OF LIFE Greedy",
+      "results": []
+    },
+    {
+      "query": "KISS OF LIFE",
+      "results": [
+        {
+          "audio_id": "868648898493565",
+          "title": "I Was Made For You",
+          "display_artist": "Charlie Peacock"
+        },
+        {
+          "audio_id": "1470579080477020",
+          "title": "Explore (feat. Plum Soul)",
+          "display_artist": "Jumbo"
+        },
+        {
+          "audio_id": "4209504865938640",
+          "title": "Enjoy Yourself",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "248622797387636",
+          "title": "So Good",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "1781482885196088",
+          "title": "Gotta Go Faster",
+          "display_artist": "Kolektivo"
+        }
+      ]
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "229596876055188",
+          "title": "Good Thing",
+          "display_artist": "Faver"
+        },
+        {
+          "audio_id": "515270235014707",
+          "title": "Twilight Walk",
+          "display_artist": "Phury"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 24 — RIIZE headline Spotify's first overseas 'CLOSER' show in NYC\n\n1️⃣ RIIZE headline Spotify's first overseas 'CLOSER' show in NYC\n2️⃣ ILLIT earn 'SHOW K-POP' triple crown\n3️⃣ KISS OF LIFE drop first winter single 'Greedy' Nov 25\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#RIIZE #ILLIT #KISSOFLIFE #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "18104669135566606",
+  "permalink": "https://www.instagram.com/reel/DgGB9ZXD29W/",
+  "published_at": "2026-11-23T18:32:30Z"
+}
