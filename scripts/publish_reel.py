@@ -1,7 +1,8 @@
 """Roundup reel: string the posts from the latest publishing batch into one 9:16 video and post it as a Reel.
 
 Runs right after the hourly publish job has posted its batch (up to 4 posts, one per hour). It
-  1. collects the posts published in the last 5 h that no earlier reel has covered (needs >= 2),
+  1. collects every post published since the previous reel (needs >= 2; at most 8 shown,
+     highest hook first),
   2. orders them so the most eye-catching story leads (post.json `hook` 1-10 set by the editor,
      otherwise a category heuristic),
   3. renders templates/reel.py to an MP4,
@@ -38,8 +39,8 @@ sys.path.insert(0, str(ROOT / "templates"))
 import reel  # noqa: E402
 
 REELS = ROOT / "reels"
-BATCH_HOURS = 5
-MAX_STORIES = 4
+FIRST_LOOKBACK_HOURS = 24
+MAX_STORIES = 8          # more than this since the last reel: the highest-hook ones lead the reel
 MAX_WAIT_MIN = 80
 
 CATEGORY_HOOK = {"COMEBACK": 8, "MV": 8, "RELEASE": 7, "TEASER": 7, "DEBUT": 7, "CHART": 7, "AWARD": 7,
@@ -59,17 +60,19 @@ def find_post_dir(pid):
 
 
 def latest_batch():
+    """Every post published after the previous reel (that no reel has covered yet)."""
     rows = posted_index()
     covered, last_reel = set(), ""
     for r in rows:
         if r.get("kind") == "reel":
             covered.update(r.get("covers") or [])
             last_reel = max(last_reel, r.get("published_at") or "")
-    since = now_utc() - timedelta(hours=BATCH_HOURS)
+    if not last_reel:   # no reel yet: only look back a day
+        last_reel = iso(now_utc() - timedelta(hours=FIRST_LOOKBACK_HOURS))
     ids = [r["id"] for r in rows
            if r.get("kind") != "reel" and r.get("id") not in covered and r.get("published_at")
-           and parse_iso(r["published_at"]) > since and r["published_at"] > last_reel]
-    return [d for d in (find_post_dir(i) for i in ids[-MAX_STORIES:]) if d]
+           and r["published_at"] > last_reel]
+    return [d for d in (find_post_dir(i) for i in ids) if d]
 
 
 def load(d, handle):
@@ -173,7 +176,7 @@ def fallback_music(ig, uid, log):
 
 def caption_for(posts, handle):
     when = datetime.now(KST)
-    nums = ["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣"]
+    nums = ["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣", "6️⃣", "7️⃣", "8️⃣"]
     lines = [f"📰 K-pop roundup · {when.strftime('%b %d').upper()} — {posts[0]['headline']}", ""]
     lines += [f"{nums[i]} {p['headline']}" for i, p in enumerate(posts)]
     lines += ["", "Full story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources."]
@@ -275,10 +278,10 @@ def main():
     elif not dirs:   # --test without dirs: newest rendered queue posts
         dirs = [d for d, p in queue_posts() if p.get("rendered") and (d / "photo.jpg").exists()][-MAX_STORIES:]
     if len(dirs) < 2:
-        print(f"only {len(dirs)} new post(s) in this batch; no reel")
+        print(f"only {len(dirs)} post(s) since the last reel; no reel")
         return
 
-    posts = order([load(d, handle) for d in dirs])
+    posts = order([load(d, handle) for d in dirs])[:MAX_STORIES]
     reel_id = datetime.now(KST).strftime("%Y%m%d-%H%M") + "-roundup"
     out_dir = REELS / reel_id
     out_dir.mkdir(parents=True, exist_ok=True)

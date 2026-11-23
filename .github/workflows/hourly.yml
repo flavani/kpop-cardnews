@@ -48,18 +48,7 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
-        run: |
-          # publish.py itself enforces the 55-min gap, pause, block cooldown and duplicate checks.
-          for i in 1 2 3 4; do
-            git pull -q --rebase origin main
-            set +e; out=$(python scripts/publish.py 2>&1); rc=$?; set -e
-            echo "$out"
-            bash scripts/commit_push.sh "발행: 인스타그램 게시"
-            if [ $rc -ne 0 ] || echo "$out" | grep -qE "no approved post waiting|dry-run|publishing blocked|limit reached"; then
-              break
-            fi
-            if [ "$i" -lt 4 ]; then sleep 3600; fi
-          done
+        run: bash scripts/publish_loop.sh
       - if: always()
         run: |
           bash scripts/commit_push.sh "발행: 인스타그램 게시"

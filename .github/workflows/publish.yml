@@ -1,9 +1,9 @@
 name: 4. 인스타그램 발행
 # schedule re-registered 2026-11-19
 
+# 2026-11-23: 예약 실행 끔. 발행은 "0. 매시간 파이프라인"(scripts/publish_loop.sh)이 배치 단위로 한다.
+# 이 예약이 배치 사이에 끼어 1건씩 올리고, 같은 concurrency 그룹의 릴스 단계를 밀어낼 수 있어서.
 on:
-  schedule:
-    - cron: "3,23,43 * * * *"   # 20분마다 대기열에서 1건씩
   workflow_dispatch:
 
 permissions:
