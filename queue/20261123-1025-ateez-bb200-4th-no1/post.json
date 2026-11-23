@@ -63,5 +63,8 @@
     "108c014a3e25",
     "0d32ad76d943"
   ],
-  "status": "draft"
+  "status": "approved",
+  "rendered": 4,
+  "photo_used": true,
+  "approved": true
 }
