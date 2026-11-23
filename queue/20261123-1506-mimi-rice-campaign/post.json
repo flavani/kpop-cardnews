@@ -1,0 +1,53 @@
+{
+  "id": "20261123-1506-mimi-rice-campaign",
+  "created_at": "2026-11-23T06:06:00Z",
+  "news_key": "ohmygirl-mimi-korea-rice-industry-campaign-model",
+  "group": "OH MY GIRL",
+  "category": "AD",
+  "headline": "OH MY GIRL's Mimi named face of Korea's rice campaign",
+  "highlight": "Mimi",
+  "sub": "Her name fits: 'mi' (米) means rice in Korean",
+  "photo": "https://file2.nocutnews.co.kr/newsroom/image/2026/11/23/202611231333539905_0.jpg",
+  "photo_alternates": [
+    "https://cdn.slist.kr/news/photo/202611/783948_1196969_32.jpg"
+  ],
+  "focus": "50% 35%",
+  "credit": "Photo: Korea Rice Industry Association",
+  "info": {
+    "title": "At a glance",
+    "rows": [
+      [
+        "Role",
+        "Rice consumption campaign model"
+      ],
+      [
+        "By",
+        "Korea Rice Industry Association"
+      ],
+      [
+        "Tagline",
+        "'That's alright, That's all rice'"
+      ],
+      [
+        "Where",
+        "TV, OTT, outdoor & transit ads"
+      ]
+    ]
+  },
+  "source": "Source: Korea Rice Industry Association via Korean media",
+  "caption": "OH MY GIRL's Mimi is the new face of Korea's rice consumption campaign!\n\nThe Korea Rice Industry Association announced on Nov 23 that it picked Mimi, whose name sounds like 'mi' (米), the character for rice. Her campaign ads, with the tagline 'That's alright, That's all rice', roll out from today on TV, OTT, outdoor and public transit.\n\n📌 Source: Korea Rice Industry Association, via Korean media (CBS NoCut News, Slist)\n#OHMYGIRL #Mimi #오마이걸 #미미 #KpopAd #kpop #kpopnews",
+  "sources": [
+    "https://www.nocutnews.co.kr/news/6611027",
+    "https://www.slist.kr/news/articleView.html?idxno=783948"
+  ],
+  "sensitivity": "normal",
+  "hook": 4,
+  "song": {
+    "title": "Bish Bash Bosh",
+    "artist": "MIMI"
+  },
+  "candidate_ids": [
+    "6f14075b813a"
+  ],
+  "status": "draft"
+}

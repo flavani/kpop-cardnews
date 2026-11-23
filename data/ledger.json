@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-23T01:25:00Z",
+ "last_run": "2026-11-23T06:06:00Z",
  "processed": {
   "811a88d7d126": {
    "at": "2026-11-19T09:10:00Z",
@@ -2132,6 +2132,114 @@
   "8f5f588ab3d7": {
    "at": "2026-11-23T01:25:00Z",
    "result": "20261123-1025-mark-windmill-album"
+  },
+  "8788e2d1bc9a": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "20261123-1506-riize-spotify-closer-nyc"
+  },
+  "c6281a1d730a": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "20261123-1506-kissoflife-greedy-winter"
+  },
+  "6f14075b813a": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "20261123-1506-mimi-rice-campaign"
+  },
+  "8aa8ebd523a0": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:duplicate"
+  },
+  "cd4c1d5e863c": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:duplicate"
+  },
+  "a10903af7bb5": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:duplicate"
+  },
+  "c4e231eda3fe": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:excluded"
+  },
+  "483809e389ce": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:excluded"
+  },
+  "15a470b0cae9": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:excluded"
+  },
+  "3a90d0c06942": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "89e4f18033d5": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "7c1b96376229": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "e53aa719bd9e": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "94cc3d1a0021": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "c3f3eb20ab01": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "6e9d2a960560": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "cd018a0784f1": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d943a0d2f2f6": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "6538e61a5088": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "efdd528484fc": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "6fe735f9be83": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "20907f995275": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "b2f7f4cb1f9d": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "dd4d3457bd63": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "bb4f16570480": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "df57f8136a6b": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "1ebaa9fe8711": {
+   "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
   }
  },
  "publish_kick_at": "2026-11-22T13:18:33Z"

@@ -1,0 +1,65 @@
+{
+  "id": "20261123-1506-riize-spotify-closer-nyc",
+  "created_at": "2026-11-23T06:06:00Z",
+  "news_key": "riize-spotify-closer-new-york-first-overseas",
+  "group": "RIIZE",
+  "category": "CONCERT",
+  "headline": "RIIZE headline Spotify's first overseas 'CLOSER' show in NYC",
+  "highlight": "RIIZE",
+  "sub": "Seven songs for invited fans at Brooklyn Steel on Nov 20",
+  "photo": "https://image.starnewskorea.com/21/2026/11/2026112309122463437_1.jpg",
+  "photo_alternates": [
+    "https://photo.newsen.com/news_photo/2026/11/23/202611230905292410_2.jpg",
+    "https://cdn.topstarnews.net/news/photo/202611/16283421_2096371_1319.jpg"
+  ],
+  "focus": "50% 40%",
+  "credit": "Photo: SM Entertainment",
+  "info": {
+    "title": "At a glance",
+    "rows": [
+      [
+        "Event",
+        "Spotify CLOSER live series"
+      ],
+      [
+        "Date",
+        "Nov 20, 8 PM (local time)"
+      ],
+      [
+        "Venue",
+        "Brooklyn Steel, New York"
+      ],
+      [
+        "Opener",
+        "'Get A Guitar' (English ver.)"
+      ]
+    ]
+  },
+  "points": {
+    "title": "What to know",
+    "items": [
+      "First CLOSER show held outside Korea",
+      "Local fans who stream RIIZE were invited",
+      "Set included 'Boom Boom Bass' and 'Impossible'",
+      "Next up: Macy's Thanksgiving Day Parade, Nov 26"
+    ]
+  },
+  "source": "Source: SM Entertainment via Korean media",
+  "caption": "RIIZE took the stage in New York as the first overseas act of Spotify's 'CLOSER' live series!\n\nThe group performed at Brooklyn Steel on Nov 20 (local time) for invited local fans who listen to them on Spotify, opening with the English version of 'Get A Guitar' and running through 'Boom Boom Bass', 'Do your dance', 'D-D-Done', 'Impossible', 'Love 119' and 'Insomnia'. \"We were surprised by how passionately BRIIZE welcomed us,\" the members said, adding they hope to meet fans around the world more closely. Next, RIIZE joins the 100th Macy's Thanksgiving Day Parade on Nov 26.\n\n📌 Source: SM Entertainment, via Korean media (Star News, Newsen, Herald Muse)\n#RIIZE #라이즈 #BRIIZE #SpotifyCLOSER #GetAGuitar #NewYork #kpop #kpopnews",
+  "sources": [
+    "https://www.starnewskorea.com/music/2026/11/23/2026112309122463437",
+    "https://www.newsen.com/news_view.php?uid=202611230905292410",
+    "https://www.heraldmuse.com/article/10945627",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16283421"
+  ],
+  "sensitivity": "normal",
+  "hook": 7,
+  "song": {
+    "title": "Get A Guitar",
+    "artist": "RIIZE"
+  },
+  "candidate_ids": [
+    "8788e2d1bc9a"
+  ],
+  "status": "draft"
+}
