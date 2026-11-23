@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-23T11:07:31Z",
+ "last_run": "2026-11-23T15:07:00Z",
  "processed": {
   "811a88d7d126": {
    "at": "2026-11-19T09:10:00Z",
@@ -2356,6 +2356,94 @@
   "483b35472db6": {
    "at": "2026-11-23T11:07:31Z",
    "result": "skip:not-kpop"
+  },
+  "1e464a8a909d": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "20261124-0007-hanhae-moonseyoon-zena-love-again"
+  },
+  "42034c6fbe29": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "20261124-0007-jungseunghwan-leaves-antenna"
+  },
+  "02bac28f2218": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "c0944570c679": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "f17eb9a7436e": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "7f864120ab0e": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "dfa2b540d32c": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "b734a7b8f467": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "593155a47538": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "56a9bcbfb2a1": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:excluded"
+  },
+  "a0fbbc7af3c4": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:excluded"
+  },
+  "9337f650b3ce": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:excluded"
+  },
+  "d6505955c52d": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:excluded"
+  },
+  "79848cc2aaa9": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:excluded"
+  },
+  "b1b417e2354e": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:excluded"
+  },
+  "c2d4b32dbc7a": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:excluded"
+  },
+  "7040bef03c58": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:excluded"
+  },
+  "678620d41f6f": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:excluded"
+  },
+  "cb41db125b4c": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:excluded"
+  },
+  "8ffc46da0fdb": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:excluded"
+  },
+  "6704957e152b": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:excluded"
+  },
+  "bb7972b4caa4": {
+   "at": "2026-11-23T15:07:00Z",
+   "result": "skip:unverified"
   }
  },
  "publish_kick_at": "2026-11-22T13:18:33Z"
