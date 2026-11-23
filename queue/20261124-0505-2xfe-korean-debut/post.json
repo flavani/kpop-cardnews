@@ -1,0 +1,64 @@
+{
+  "id": "20261124-0505-2xfe-korean-debut",
+  "created_at": "2026-11-23T20:05:00Z",
+  "news_key": "2xfe-korea-debut-2-07-single",
+  "group": "2xFE",
+  "category": "DEBUT",
+  "headline": "J-pop group 2xFE make Korean debut with '2:07'",
+  "highlight": "2xFE",
+  "sub": "BIGBANG fans at heart: \"We admire BIGBANG\"",
+  "photo": "https://img.segye.com/content/image/2026/11/23/20261123512188.jpg",
+  "photo_alternates": [],
+  "focus": "50% 40%",
+  "credit": "Photo: Rolling Hall",
+  "info": {
+    "title": "At a glance",
+    "rows": [
+      [
+        "Single",
+        "'2:07' (2시 7분)"
+      ],
+      [
+        "Release",
+        "Nov 23, 12 AM KST"
+      ],
+      [
+        "Showcase",
+        "Nov 23, Rolling Hall, Hongdae"
+      ],
+      [
+        "Busking",
+        "Nov 24, 8 PM KST, Sinchon"
+      ],
+      [
+        "Debut",
+        "2023 in Japan"
+      ]
+    ]
+  },
+  "points": {
+    "title": "What to know",
+    "items": [
+      "4 members: AIKI, RIO, RUI, SUNN",
+      "They write, choreograph and make their outfits",
+      "Name stands for 'Future from East End'",
+      "Goals: regular Korean shows, K-pop collabs"
+    ]
+  },
+  "source": "Source: Segye Ilbo, Topstar News (Korean media)",
+  "caption": "Japanese boy group 2xFE have officially debuted in Korea with the single '2:07' (2시 7분).\n\nThe four-member group, who debuted in Japan in 2023, held a showcase at Rolling Hall in Hongdae on Nov 23. RIO said the title came from the time on his phone while they were writing the song. SUNN said he has loved K-pop since childhood and admires BIGBANG, recalling being blown away by 'Fantastic Baby' in fifth grade. Catch their first Korean busking show at Sinchon Star Plaza on Nov 24, 8 PM KST.\n\n📌 Source: Segye Ilbo, Topstar News, via Korean media\n#2xFE #투에프이 #jpop #kpopdebut #BIGBANG #kpop #kpopnews",
+  "sources": [
+    "https://www.segye.com/newsView/20261123512191",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16283854"
+  ],
+  "sensitivity": "normal",
+  "hook": 4,
+  "song": {
+    "title": "2:07",
+    "artist": "2xFE"
+  },
+  "candidate_ids": [
+    "5a110fe4330f"
+  ],
+  "status": "draft"
+}
