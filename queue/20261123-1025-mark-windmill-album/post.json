@@ -1,0 +1,55 @@
+{
+  "id": "20261123-1025-mark-windmill-album",
+  "created_at": "2026-11-23T01:25:00Z",
+  "news_key": "mark-windmill-studio-album-tracklist",
+  "group": "MARK",
+  "category": "RELEASE",
+  "headline": "NCT's MARK drops new album 'WINDMILL' Dec 4",
+  "highlight": "MARK",
+  "sub": "12 tracks, led by 'What's your dream?', 'Don't have one'",
+  "photo": "https://img.tenasia.co.kr/photo/202611/BF.46513529.1.jpg",
+  "photo_alternates": [
+    "https://wimg.heraldcorp.com/news/cms/2026/11/23/news-p.v1.20261123.445ed8a760da48eb804fef9afa5ab60f_P1.jpg",
+    "https://i.ytimg.com/vi/7aIOY0UZXTA/maxresdefault.jpg"
+  ],
+  "focus": "50% 35%",
+  "credit": "Photo: Upper Room",
+  "info": {
+    "title": "Release details",
+    "rows": [
+      [
+        "Release",
+        "Dec 4"
+      ],
+      [
+        "Album",
+        "Studio album 'WINDMILL'"
+      ],
+      [
+        "Tracks",
+        "12"
+      ],
+      [
+        "Title",
+        "'What's your dream?', 'Don't have one'"
+      ]
+    ]
+  },
+  "source": "Source: Upper Room via Korean media",
+  "caption": "MARK is releasing his new studio album 'WINDMILL' on Dec 4!\n\nHis label Upper Room revealed the 12-song tracklist at midnight KST on Nov 23. The title track is 'What's your dream?', 'Don't have one', and the album also includes the pre-released singles 'Happiest' and 'My Friend'.\n\n📌 Source: Upper Room, via Korean media (Sports Kyunghyang, Star News)\n#MARK #MarkLee #마크 #WINDMILL #NCT #Happiest #kpop #kpopnews",
+  "sources": [
+    "https://sports.khan.co.kr/article/202611230744003/",
+    "https://www.starnewskorea.com/music/2026/11/23/2026112307051336216",
+    "https://www.tenasia.co.kr/article/2026112329864"
+  ],
+  "sensitivity": "normal",
+  "hook": 6,
+  "song": {
+    "title": "Happiest",
+    "artist": "MARK"
+  },
+  "candidate_ids": [
+    "8f5f588ab3d7"
+  ],
+  "status": "draft"
+}

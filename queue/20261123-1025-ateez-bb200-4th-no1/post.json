@@ -1,0 +1,67 @@
+{
+  "id": "20261123-1025-ateez-bb200-4th-no1",
+  "created_at": "2026-11-23T01:25:00Z",
+  "news_key": "ateez-golden-hour-part6-billboard200-no1",
+  "group": "ATEEZ",
+  "category": "CHART",
+  "headline": "ATEEZ top Billboard 200 for the 4th time",
+  "highlight": "ATEEZ",
+  "sub": "'GOLDEN HOUR : Part.6' debuts at No. 1 with 195,000 units",
+  "photo": "https://img.hankyung.com/photo/202611/01.46514213.1.jpg",
+  "photo_alternates": [
+    "https://img.sportsworldi.com/content/image/2026/11/23/20261123501927.jpg",
+    "https://i.ytimg.com/vi/SGovymtCzvA/maxresdefault.jpg"
+  ],
+  "focus": "50% 40%",
+  "credit": "Photo: KQ Entertainment",
+  "info": {
+    "title": "At a glance",
+    "rows": [
+      [
+        "Album",
+        "'GOLDEN HOUR : Part.6'"
+      ],
+      [
+        "Title",
+        "'UP'"
+      ],
+      [
+        "Rank",
+        "No. 1, Billboard 200"
+      ],
+      [
+        "Units",
+        "195,000 (191,000 sales)"
+      ]
+    ]
+  },
+  "points": {
+    "title": "Why it matters",
+    "items": [
+      "Their 4th No. 1 after 'Will', 'Part.2', 'Part.5'",
+      "10 top-10 albums in a row since 2022",
+      "Most top 10s of any group this decade",
+      "Sold 2.05M copies in week one on Hanteo"
+    ]
+  },
+  "source": "Source: Billboard via Korean media",
+  "caption": "ATEEZ have landed their fourth No. 1 on the Billboard 200!\n\nTheir new mini album 'GOLDEN HOUR : Part.6', led by title track 'UP', debuted at the top with 195,000 equivalent album units, 191,000 of them from album sales. It follows 'THE WORLD EP.FIN : WILL', 'GOLDEN HOUR : Part.2' and 'GOLDEN HOUR : Part.5' — and marks their 10th straight top-10 album, the most of any group in the 2020s.\n\n📌 Source: Billboard, via Korean media (Hankyung, Asia Today)\n#ATEEZ #에이티즈 #GOLDENHOUR #ATEEZ_UP #Billboard200 #ATINY #kpop #kpopnews",
+  "sources": [
+    "https://www.hankyung.com/article/202611233227H",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261123010008539",
+    "https://www.koreajoongangdaily.com/entertainment/ateez-scores-4th-no-1-on-billboard-200-with-golden-hour-part-6/12985078",
+    "https://www.soompi.com/article/1889578wpp/ateez-scores-fourth-no-1-on-billboard-200-breaks-record-for-most-top-10s-of-any-group-this-decade"
+  ],
+  "sensitivity": "normal",
+  "hook": 9,
+  "song": {
+    "title": "UP",
+    "artist": "ATEEZ"
+  },
+  "candidate_ids": [
+    "367914d8b11d",
+    "108c014a3e25",
+    "0d32ad76d943"
+  ],
+  "status": "draft"
+}

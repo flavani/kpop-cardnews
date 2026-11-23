@@ -1,0 +1,65 @@
+{
+  "id": "20261123-1025-goodday-s2-gd-3racha",
+  "created_at": "2026-11-23T01:25:00Z",
+  "news_key": "good-day-season2-gdragon-producer-lineup",
+  "group": "G-DRAGON",
+  "category": "TV",
+  "headline": "G-DRAGON's 'Good Day' returns with 3RACHA on board",
+  "highlight": "G-DRAGON",
+  "sub": "Season 2 set for early 2027, with GD as executive producer",
+  "photo": "https://img.etoday.co.kr/pto_db/2026/11/20261123100909_2421845_1200_1015.jpg",
+  "photo_alternates": [
+    "https://img.tenasia.co.kr/photo/202611/BF.46514111.1.jpg",
+    "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.c7fa0c26f56e4d8389ca359bce4bfa94_P1.jpg"
+  ],
+  "focus": "50% 40%",
+  "credit": "Photo: TEO",
+  "info": {
+    "title": "Season 2 details",
+    "rows": [
+      [
+        "Show",
+        "'Good Day' Season 2"
+      ],
+      [
+        "Airs",
+        "First half of 2027"
+      ],
+      [
+        "Lead",
+        "G-DRAGON (exec. producer)"
+      ],
+      [
+        "PD",
+        "Kim Tae-ho"
+      ]
+    ]
+  },
+  "points": {
+    "title": "Producer lineup",
+    "items": [
+      "Stray Kids' 3RACHA: Bang Chan, Changbin, Han",
+      "(G)I-DLE's Soyeon and Code Kunst",
+      "JANNABI's Choi Jung-hoon, Hanroro",
+      "Park Myung-soo also joins the lineup"
+    ]
+  },
+  "source": "Source: TEO via Korean media",
+  "caption": "G-DRAGON's music variety show 'Good Day' is coming back for season 2!\n\nProduction company TEO confirmed the new season, set for the first half of 2027 with PD Kim Tae-ho. G-DRAGON leads as executive producer and makes an album with six producers: Stray Kids' 3RACHA, (G)I-DLE's Soyeon, Code Kunst, JANNABI's Choi Jung-hoon, Hanroro and Park Myung-soo. As in season 1, proceeds from the songs will be donated. The performers have not been announced yet.\n\n📌 Source: TEO, via Korean media (TenAsia, Etoday, Sports Kyunghyang)\n#GDRAGON #지드래곤 #GoodDay #3RACHA #StrayKids #SOYEON #kpop #kpopnews",
+  "sources": [
+    "https://www.tenasia.co.kr/article/2026112332464",
+    "https://www.etoday.co.kr/news/view/2651567",
+    "https://sports.khan.co.kr/article/202611230910003/",
+    "https://isplus.com/article/view/isp202611230034"
+  ],
+  "sensitivity": "normal",
+  "hook": 7,
+  "song": {
+    "title": "TOO BAD (feat. Anderson .Paak)",
+    "artist": "G-DRAGON"
+  },
+  "candidate_ids": [
+    "d8c2b7ee8270"
+  ],
+  "status": "draft"
+}
