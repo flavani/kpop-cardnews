@@ -1,0 +1,47 @@
+name: 릴스 바로 게시
+
+# data/reel_now_request.json을 푸시하면 실행. 대기 카드는 건드리지 않고,
+# 직전 릴스 이후 올라간 게시물로 묶음 릴스만 만들어 게시한다(안전장치는 평소와 동일).
+on:
+  push:
+    branches: [main]
+    paths: ["data/reel_now_request.json"]
+
+permissions:
+  contents: write
+
+jobs:
+  reel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    concurrency:
+      group: publish
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install
+        run: |
+          pip install -r requirements.txt -q
+          python -m playwright install --with-deps chromium
+          command -v ffmpeg || (sudo apt-get update -q && sudo apt-get install -y -q ffmpeg)
+      - name: Fonts (Pretendard, SIL OFL)
+        run: |
+          mkdir -p templates/fonts /tmp/pd
+          curl -sSL -o /tmp/pd/p.zip https://github.com/orioncactus/pretendard/releases/download/v1.3.9/Pretendard-1.3.9.zip
+          unzip -oq /tmp/pd/p.zip "public/static/Pretendard-*.otf" -d /tmp/pd
+          cp /tmp/pd/public/static/*.otf templates/fonts/
+      - name: Roundup reel of this batch
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: |
+          git pull -q --rebase origin main
+          python scripts/publish_reel.py
+      - if: always()
+        run: |
+          bash scripts/commit_push.sh "발행: 묶음 릴스"
