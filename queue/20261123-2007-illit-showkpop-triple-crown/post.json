@@ -1,0 +1,59 @@
+{
+  "id": "20261123-2007-illit-showkpop-triple-crown",
+  "created_at": "2026-11-23T11:07:31Z",
+  "news_key": "illit-youre-under-arrest-show-kpop-triple-crown",
+  "group": "ILLIT",
+  "category": "MUSIC SHOW",
+  "headline": "ILLIT earn 'SHOW K-POP' triple crown",
+  "highlight": "ILLIT",
+  "sub": "4th music show win for 'You're Under Arrest', with 8,064 points",
+  "photo": "https://i.ytimg.com/vi/V2V9-9VhYJo/maxresdefault.jpg",
+  "photo_alternates": [
+    "https://i.ytimg.com/vi/V2V9-9VhYJo/sddefault.jpg",
+    "https://process.filestackapi.com/crop=d:%5B0%2C574%2C2952%2C1476%5D/resize=w:1080/auto_image/compress/Fqqwdth9RTKGSH5YalTw"
+  ],
+  "focus": "50% 35%",
+  "credit": "Photo: HYBE LABELS",
+  "info": {
+    "title": "At a glance",
+    "rows": [
+      [
+        "Show",
+        "Arirang TV 'SHOW K-POP'"
+      ],
+      [
+        "Date",
+        "Nov 23 (Mon)"
+      ],
+      [
+        "Song",
+        "'You're Under Arrest'"
+      ],
+      [
+        "Score",
+        "8,064 points"
+      ],
+      [
+        "Against",
+        "A2O LITE 'NEON'"
+      ]
+    ]
+  },
+  "source": "Source: Arirang TV 'SHOW K-POP'",
+  "caption": "ILLIT have taken a triple crown on Arirang TV's 'SHOW K-POP' with 'You're Under Arrest'!\n\nThe group topped the Nov 23 episode with 8,064 points, beating A2O LITE's 'NEON'. It's the song's third win on the show and its fourth music show trophy overall. 'You're Under Arrest' is the title track of ILLIT's 5th mini album 'BREAK EVEN', released Oct 26.\n\n📌 Source: Arirang TV 'SHOW K-POP', Soompi\n#ILLIT #아일릿 #YoureUnderArrest #BREAKEVEN #SHOWKPOP #triplecrown #kpop #kpopnews",
+  "sources": [
+    "https://www.soompi.com/article/1889930wpp/watch-illit-takes-3rd-win-for-youre-under-arrest-on-show-k-pop-2",
+    "https://shiningawards.com/illit-wins-third-show-k-pop-crown-scores-8064-points-for-youre-under-arrest/",
+    "https://bbs.ruliweb.com/news/board/1005/read/3830122"
+  ],
+  "sensitivity": "normal",
+  "hook": 7,
+  "song": {
+    "title": "You're Under Arrest",
+    "artist": "ILLIT"
+  },
+  "candidate_ids": [
+    "5a66d5dd2c09"
+  ],
+  "status": "draft"
+}

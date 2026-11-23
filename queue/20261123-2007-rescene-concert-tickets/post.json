@@ -1,0 +1,69 @@
+{
+  "id": "20261123-2007-rescene-concert-tickets",
+  "created_at": "2026-11-23T11:07:31Z",
+  "news_key": "rescene-notes-blooming-first-solo-concert-ticketing",
+  "group": "RESCENE",
+  "category": "CONCERT",
+  "headline": "RESCENE's first solo concert tickets open Dec 10",
+  "highlight": "RESCENE",
+  "sub": "'NOTES : BLOOMING' runs Feb 19–21, 2027 at Olympic Hall in Seoul",
+  "photo": "https://cdn.topstarnews.net/news/photo/202611/16283549_2096534_3852.jpg",
+  "photo_alternates": [
+    "https://cdn.slist.kr/news/photo/202611/784054_1197098_635.jpg",
+    "https://image.zdnet.co.kr/2026/11/23/d0ec411b57bd2ebd8b3e6468a26f3844.jpg"
+  ],
+  "focus": "50% 30%",
+  "credit": "Photo: Coupang Play",
+  "info": {
+    "title": "Ticket details",
+    "rows": [
+      [
+        "Dates",
+        "Feb 19–21, 2027"
+      ],
+      [
+        "Venue",
+        "Olympic Hall, Seoul"
+      ],
+      [
+        "Presale",
+        "Dec 10, 8 PM KST (fan club)"
+      ],
+      [
+        "General",
+        "Dec 11, 8 PM KST"
+      ],
+      [
+        "Tickets",
+        "Coupang Play app only"
+      ]
+    ]
+  },
+  "points": {
+    "title": "What to know",
+    "items": [
+      "Fan club presale is for REMINE members",
+      "Up to 2 tickets per person per show",
+      "One device per Coupang WOW account",
+      "Photo ID check and non-transferable wristbands"
+    ]
+  },
+  "source": "Source: Coupang Play via Korean media",
+  "caption": "Tickets for RESCENE's first-ever solo concert open on Dec 10!\n\n'2027 RESCENE CONCERT IN SEOUL <NOTES : BLOOMING>' runs Feb 19–21, 2027 at Olympic Hall in Seoul. The fan club presale opens Dec 10 at 8 PM KST, followed by general sale on Dec 11 at 8 PM KST, only on the Coupang Play app. To stop scalpers, each person can buy up to 2 tickets per show, and fans will need photo ID and a non-transferable wristband to get in.\n\n📌 Source: Coupang Play, via Korean media (ZDNet Korea, Top Star News)\n#RESCENE #리센느 #NOTESBLOOMING #RESCENEconcert #REMINE #kpopconcert #kpop #kpopnews",
+  "sources": [
+    "https://zdnet.co.kr/view/?no=20261123153152",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16283549",
+    "https://www.joynews24.com/view/2029437",
+    "https://www.slist.kr/news/articleView.html?idxno=784054"
+  ],
+  "sensitivity": "normal",
+  "hook": 4,
+  "song": {
+    "title": "With",
+    "artist": "RESCENE"
+  },
+  "candidate_ids": [
+    "0d528d746305"
+  ],
+  "status": "draft"
+}

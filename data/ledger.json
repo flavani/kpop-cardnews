@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-23T06:06:00Z",
+ "last_run": "2026-11-23T11:07:31Z",
  "processed": {
   "811a88d7d126": {
    "at": "2026-11-19T09:10:00Z",
@@ -2239,6 +2239,122 @@
   },
   "1ebaa9fe8711": {
    "at": "2026-11-23T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "5a66d5dd2c09": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "20261123-2007-illit-showkpop-triple-crown"
+  },
+  "d680b8c0a420": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "20261123-2007-kimjiwoong-noise-in-blue"
+  },
+  "0d528d746305": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "20261123-2007-rescene-concert-tickets"
+  },
+  "bf1f9c9685ac": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:excluded"
+  },
+  "58664b43a0bd": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:excluded"
+  },
+  "37f030c987f3": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:excluded"
+  },
+  "a200ef966758": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:excluded"
+  },
+  "47415c8fa998": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "aa406bc60f5a": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "95ee82924493": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "3143cdd3ca8c": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "6ecf2623b1ad": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "8fae341ec882": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "7ac1fe5970f3": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "cc138c79e878": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "cdff6dcab768": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "f848bcdce0af": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "0c6fe1f784de": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "e676c159c8c0": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "fa84c53d3afb": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "3983eaab096f": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "eb537da8e547": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "6a52919aad49": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "1fc71afeec2e": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "474fc218e8fc": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "6ca0ed9b5eaa": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "1047a0a99851": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "c2c3bd944fba": {
+   "at": "2026-11-23T11:07:31Z",
+   "result": "skip:not-kpop"
+  },
+  "483b35472db6": {
+   "at": "2026-11-23T11:07:31Z",
    "result": "skip:not-kpop"
   }
  },
