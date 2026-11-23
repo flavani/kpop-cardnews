@@ -103,6 +103,16 @@ def norm(s):
     return re.sub(r"[^0-9a-z가-힣]", "", (s or "").lower())
 
 
+def artist_matches(artist, display_artist):
+    """Exact artist match on normalized names, or one of the credited artists
+    ("IU, SUGA" / "IU feat. X") — never a substring ('IU' must not match 'Global Genius')."""
+    na = norm(artist)
+    if not na or not display_artist:
+        return False
+    parts = re.split(r",|&|\band\b|\bfeat\.?|\bft\.?|\bx\b|\bwith\b|\(|\)", display_artist, flags=re.I)
+    return any(norm(p) == na for p in parts + [display_artist])
+
+
 def song_hint(post):
     """(title or None, artist) the reel music should come from."""
     if "song" in post and not post["song"]:      # editor said: no song for this story
@@ -140,8 +150,7 @@ def pick_music(ig, uid, posts, log):
             log.append({"query": q, "results": [{k: a.get(k) for k in ("audio_id", "title", "display_artist")}
                                                 for a in res[:5]]})
             for a in res:
-                da = norm(a.get("display_artist"))
-                if not da or not (na in da or da in na):
+                if not artist_matches(artist, a.get("display_artist")):
                     continue
                 if title and norm(title) and norm(title) in norm(a.get("title")):
                     return a, post, "named song" if rank == 0 else f"named song of story {rank + 1}"
