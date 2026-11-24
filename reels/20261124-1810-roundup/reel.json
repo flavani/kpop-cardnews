@@ -1,0 +1,108 @@
+{
+  "id": "20261124-1810-roundup",
+  "covers": [
+    "20261124-1505-txt-oricon-15th",
+    "20261124-1505-jeonghan-yamada-afterglow",
+    "20261124-1505-jeongyeon-film-debut"
+  ],
+  "order_hooks": [
+    8.0,
+    7.0,
+    6.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "TOMORROW X TOGETHER Angel Bite",
+      "results": []
+    },
+    {
+      "query": "TOMORROW X TOGETHER",
+      "results": []
+    },
+    {
+      "query": "JEONGHAN Better Half (feat. Omoinotake)",
+      "results": []
+    },
+    {
+      "query": "JEONGHAN",
+      "results": []
+    },
+    {
+      "query": "TWICE THIS IS FOR",
+      "results": []
+    },
+    {
+      "query": "TWICE",
+      "results": [
+        {
+          "audio_id": "2120570715052169",
+          "title": "Shibuya (Instrumental)",
+          "display_artist": "Sugartapes"
+        },
+        {
+          "audio_id": "359619438592783",
+          "title": "Money",
+          "display_artist": "Mika Lett"
+        },
+        {
+          "audio_id": "988333355589920",
+          "title": "Stay Out",
+          "display_artist": "half.cool"
+        },
+        {
+          "audio_id": "284879392655385",
+          "title": "Loved You Better (feat. Kianna)",
+          "display_artist": "Giulio Cercato"
+        },
+        {
+          "audio_id": "1890086947747170",
+          "title": "Morning Date",
+          "display_artist": "The Poison Oaks"
+        }
+      ]
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1089503399371323",
+          "title": "Lifetime",
+          "display_artist": "Beni Haze"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        },
+        {
+          "audio_id": "2120570715052169",
+          "title": "Shibuya (Instrumental)",
+          "display_artist": "Sugartapes"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 24 — TXT score 15th straight No. 1 on Oricon album chart\n\n1️⃣ TXT score 15th straight No. 1 on Oricon album chart\n2️⃣ SEVENTEEN's Jeonghan teams up with Yamada Ryosuke\n3️⃣ TWICE's Jeongyeon makes film debut as a military nurse\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#TOMORROWXTOGETHER #SEVENTEEN #TWICE #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "18114078767081395",
+  "permalink": "https://www.instagram.com/reel/DgHmnHnjyS3/",
+  "published_at": "2026-11-24T09:12:03Z"
+}
