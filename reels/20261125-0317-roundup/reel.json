@@ -1,0 +1,102 @@
+{
+  "id": "20261125-0317-roundup",
+  "covers": [
+    "20261125-0010-jisoo-bogum-magical2",
+    "20261125-0010-kpop-the-debut-trailer",
+    "20261125-0010-kyuhyun-limousine-service",
+    "20261125-0010-onf-lightstick-v2"
+  ],
+  "order_hooks": [
+    8.0,
+    7.0,
+    5.0,
+    4.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "JISOO earthquake",
+      "results": []
+    },
+    {
+      "query": "JISOO",
+      "results": [
+        {
+          "audio_id": "616730204688587",
+          "title": "Play Time",
+          "display_artist": "Giulio Cercato"
+        },
+        {
+          "audio_id": "3922337224671285",
+          "title": "Okay Now",
+          "display_artist": "half.cool"
+        },
+        {
+          "audio_id": "981668388991404",
+          "title": "Soothing Slumber",
+          "display_artist": "Brent Bourgeois"
+        },
+        {
+          "audio_id": "2262670303989428",
+          "title": "Chili Pepper",
+          "display_artist": "Jumbo"
+        },
+        {
+          "audio_id": "732714254017468",
+          "title": "Lost In A Field of Dreams",
+          "display_artist": "Jonathan Buch"
+        }
+      ]
+    },
+    {
+      "query": "KYUHYUN At Gwanghwamun",
+      "results": []
+    },
+    {
+      "query": "KYUHYUN",
+      "results": []
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1089503399371323",
+          "title": "Lifetime",
+          "display_artist": "Beni Haze"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        },
+        {
+          "audio_id": "2120570715052169",
+          "title": "Shibuya (Instrumental)",
+          "display_artist": "Sugartapes"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 25 — BLACKPINK's Jisoo pitches in at Park Bo Gum's barbershop\n\n1️⃣ BLACKPINK's Jisoo pitches in at Park Bo Gum's barbershop\n2️⃣ KATSEYE, ENHYPEN, Joshua cameo in 'K-Pop: The Debut' trailer\n3️⃣ SUPER JUNIOR's Kyuhyun brings winter ballads to 'Limousine Service'\n4️⃣ ONF reveal Version 2 of official light stick\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#BLACKPINK #KATSEYE #SUPERJUNIOR #ONF #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "18117465763844013",
+  "permalink": "https://www.instagram.com/reel/DgIrVlXiAWG/",
+  "published_at": "2026-11-24T19:12:34Z"
+}
