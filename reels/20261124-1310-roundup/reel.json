@@ -1,0 +1,129 @@
+{
+  "id": "20261124-1310-roundup",
+  "covers": [
+    "20261124-1005-suzy-hyeonhok-jan6",
+    "20261124-1005-kimmyungsoo-joint-guarantee",
+    "20261124-0505-kassy-it-hurts-mv",
+    "20261124-1005-verbaljint-listening-party"
+  ],
+  "order_hooks": [
+    7.0,
+    5.0,
+    3.0,
+    3.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "SUZY Satellite",
+      "results": []
+    },
+    {
+      "query": "SUZY",
+      "results": [
+        {
+          "audio_id": "1443861633499303",
+          "title": "The Best Day (Instrumental)",
+          "display_artist": "Ruby Amanfu"
+        },
+        {
+          "audio_id": "797409967260874",
+          "title": "Suzy Said",
+          "display_artist": "Trout Recording"
+        }
+      ]
+    },
+    {
+      "query": "INFINITE Our Season",
+      "results": []
+    },
+    {
+      "query": "INFINITE",
+      "results": [
+        {
+          "audio_id": "6317656768339349",
+          "title": "Infinite Blue (feat. Ali Tolga)",
+          "display_artist": "Loga Ramin Torkian"
+        },
+        {
+          "audio_id": "1130032688375935",
+          "title": "Apples",
+          "display_artist": "HME"
+        },
+        {
+          "audio_id": "829418687435770",
+          "title": "Edge Of The Universe",
+          "display_artist": "Global Genius"
+        },
+        {
+          "audio_id": "1115219953133778",
+          "title": "Low Blood Pressure (feat. Dj Glen)",
+          "display_artist": "Swell Sound"
+        },
+        {
+          "audio_id": "1987760018138387",
+          "title": "Dragon Claw Style",
+          "display_artist": "Jumbo"
+        }
+      ]
+    },
+    {
+      "query": "Kassy It Hurts",
+      "results": []
+    },
+    {
+      "query": "Kassy",
+      "results": []
+    },
+    {
+      "query": "Verbal Jint SUPERDRY",
+      "results": []
+    },
+    {
+      "query": "Verbal Jint",
+      "results": []
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "229596876055188",
+          "title": "Good Thing",
+          "display_artist": "Faver"
+        },
+        {
+          "audio_id": "515270235014707",
+          "title": "Twilight Walk",
+          "display_artist": "Phury"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 24 — Suzy turns vampire in Disney+ series 'Hyeonhok', out Jan 6\n\n1️⃣ Suzy turns vampire in Disney+ series 'Hyeonhok', out Jan 6\n2️⃣ INFINITE's Kim Myung Soo leads Wavve rom-com in January\n3️⃣ Kassy releases 'It Hurts' MV from EP 'ODYSSEY'\n4️⃣ Verbal Jint hosts beer listening party for new album\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#Suzy #KimMyungSoo #Kassy #VerbalJint #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "17969161520984780",
+  "permalink": "https://www.instagram.com/reel/DgHKioqgkoU/",
+  "published_at": "2026-11-24T05:06:42Z"
+}
