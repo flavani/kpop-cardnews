@@ -1,0 +1,90 @@
+{
+  "id": "20261124-0810-roundup",
+  "covers": [
+    "20261123-2007-kimjiwoong-noise-in-blue",
+    "20261123-2007-rescene-concert-tickets",
+    "20261124-0007-hanhae-moonseyoon-zena-love-again",
+    "20261124-0007-jungseunghwan-leaves-antenna"
+  ],
+  "order_hooks": [
+    5.0,
+    4.0,
+    4.0,
+    3.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "RESCENE With",
+      "results": []
+    },
+    {
+      "query": "RESCENE",
+      "results": [
+        {
+          "audio_id": "495510031793530",
+          "title": "Empty Spaces",
+          "display_artist": "Adam Griffith"
+        }
+      ]
+    },
+    {
+      "query": "HANHAE Love Again",
+      "results": []
+    },
+    {
+      "query": "HANHAE",
+      "results": []
+    },
+    {
+      "query": "Jung Seung Hwan If It Is You",
+      "results": []
+    },
+    {
+      "query": "Jung Seung Hwan",
+      "results": []
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "229596876055188",
+          "title": "Good Thing",
+          "display_artist": "Faver"
+        },
+        {
+          "audio_id": "515270235014707",
+          "title": "Twilight Walk",
+          "display_artist": "Phury"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 24 — Kim Ji Woong sets Dec 14 for first EP 'NOISE IN BLUE'\n\n1️⃣ Kim Ji Woong sets Dec 14 for first EP 'NOISE IN BLUE'\n2️⃣ RESCENE's first solo concert tickets open Dec 10\n3️⃣ RESCENE's Zena joins HANHAE and Moon Se-yoon on 'Love Again'\n4️⃣ Jung Seung Hwan to part ways with Antenna after 11 years\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#KIMJIWOONG #RESCENE #JungSeungHwan #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "18094823312704496",
+  "permalink": "https://www.instagram.com/reel/DgGoHX0gQkn/",
+  "published_at": "2026-11-24T00:05:56Z"
+}
