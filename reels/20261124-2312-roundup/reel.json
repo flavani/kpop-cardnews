@@ -1,0 +1,108 @@
+{
+  "id": "20261124-2312-roundup",
+  "covers": [
+    "20261124-2006-jennie-legal-action-ai",
+    "20261124-2006-yooksungjae-injury-ninetosix",
+    "20261124-2006-kiiras-over-u-teaser"
+  ],
+  "order_hooks": [
+    9.0,
+    6.0,
+    4.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "JENNIE Less Than a Lover",
+      "results": []
+    },
+    {
+      "query": "JENNIE",
+      "results": [
+        {
+          "audio_id": "1277541923560144",
+          "title": "She's In Love (But Ooh)",
+          "display_artist": "GEEZ"
+        },
+        {
+          "audio_id": "254744998559329",
+          "title": "Summer",
+          "display_artist": "Scary Potter"
+        },
+        {
+          "audio_id": "908369400924600",
+          "title": "Melt",
+          "display_artist": "YUNGDAN"
+        },
+        {
+          "audio_id": "229596876055188",
+          "title": "Good Thing",
+          "display_artist": "Faver"
+        },
+        {
+          "audio_id": "1142191894080060",
+          "title": "You Give (feat. Latoya Lewis)",
+          "display_artist": "Phury"
+        }
+      ]
+    },
+    {
+      "query": "BTOB We Together",
+      "results": []
+    },
+    {
+      "query": "BTOB",
+      "results": []
+    },
+    {
+      "query": "KIIRAS OVER U",
+      "results": []
+    },
+    {
+      "query": "KIIRAS",
+      "results": []
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1089503399371323",
+          "title": "Lifetime",
+          "display_artist": "Beni Haze"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        },
+        {
+          "audio_id": "2120570715052169",
+          "title": "Shibuya (Instrumental)",
+          "display_artist": "Sugartapes"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 24 — JENNIE's agency files criminal complaints over AI fakes\n\n1️⃣ JENNIE's agency files criminal complaints over AI fakes\n2️⃣ BTOB's Yook Sungjae injures chin ahead of drama premiere\n3️⃣ KIIRAS drop 'OVER U' teaser ahead of Nov 26 return\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#JENNIE #BTOB #KIIRAS #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "17943918072401688",
+  "permalink": "https://www.instagram.com/reel/DgIJMkaEoyF/",
+  "published_at": "2026-11-24T14:14:08Z"
+}
