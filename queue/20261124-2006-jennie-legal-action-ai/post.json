@@ -1,0 +1,51 @@
+{
+  "id": "20261124-2006-jennie-legal-action-ai",
+  "created_at": "2026-11-24T11:06:00Z",
+  "news_key": "jennie-oa-criminal-complaint-ai-deepfake-malicious-posts",
+  "group": "JENNIE",
+  "category": "OFFICIAL",
+  "headline": "JENNIE's agency files criminal complaints over AI fakes",
+  "highlight": "JENNIE",
+  "sub": "OA Entertainment targets multiple accounts behind deepfakes and defamation",
+  "photo": "https://isp.edailystatic.com/data/isp/image/2026/08/27/isp20260827000072.1280x.0.jpg",
+  "photo_alternates": [],
+  "focus": "50% 30%",
+  "credit": "Photo: OA Entertainment",
+  "info": {
+    "title": "At a glance",
+    "rows": [
+      [
+        "Action",
+        "Criminal complaints filed"
+      ],
+      [
+        "Targets",
+        "Multiple accounts"
+      ],
+      [
+        "Content",
+        "AI fakes, edits, defamation"
+      ],
+      [
+        "Status",
+        "Police investigation ongoing"
+      ]
+    ]
+  },
+  "source": "Source: Official statement from OA Entertainment",
+  "caption": "JENNIE's agency OA Entertainment has filed criminal complaints against multiple accounts that made or spread AI-generated fake videos of her.\n\nIn an update on Nov 24 KST, following its notice in August, the agency said the complaints also cover maliciously edited videos, sexualizing posts and defamatory content, and that an investigation is underway. It warned that even possessing, saving or watching illegal AI fake videos can carry legal liability, and thanked fans for sending in tips.\n\n📌 Source: Official statement from OA Entertainment, via Korean media (Star News, Tenasia)\n#JENNIE #제니 #BLACKPINK #OAEntertainment #kpop #kpopnews",
+  "sources": [
+    "https://www.starnewskorea.com/star/2026/11/24/2026112416423819996",
+    "https://www.tenasia.co.kr/article/2026112471994"
+  ],
+  "sensitivity": "official_statement",
+  "hook": 9,
+  "song": {
+    "title": "Less Than a Lover",
+    "artist": "JENNIE"
+  },
+  "candidate_ids": [
+    "44e857a0c250"
+  ],
+  "status": "draft"
+}
