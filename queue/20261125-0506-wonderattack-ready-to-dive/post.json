@@ -55,5 +55,8 @@
   "candidate_ids": [
     "1ff54cf793ba"
   ],
-  "status": "draft"
+  "status": "approved",
+  "rendered": 3,
+  "photo_used": true,
+  "approved": true
 }
