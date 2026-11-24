@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-23T20:05:00Z",
+ "last_run": "2026-11-24T01:05:00Z",
  "processed": {
   "811a88d7d126": {
    "at": "2026-11-19T09:10:00Z",
@@ -2488,6 +2488,22 @@
   "68b464fae2db": {
    "at": "2026-11-23T20:05:00Z",
    "result": "skip:excluded"
+  },
+  "175f93f6f0d6": {
+   "at": "2026-11-24T01:05:00Z",
+   "result": "20261124-1005-suzy-hyeonhok-jan6"
+  },
+  "2b8efec54f09": {
+   "at": "2026-11-24T01:05:00Z",
+   "result": "20261124-1005-kimmyungsoo-joint-guarantee"
+  },
+  "5a42fc80fba7": {
+   "at": "2026-11-24T01:05:00Z",
+   "result": "20261124-1005-verbaljint-listening-party"
+  },
+  "fa2c2854d8e5": {
+   "at": "2026-11-24T01:05:00Z",
+   "result": "skip:not-kpop"
   }
  },
  "publish_kick_at": "2026-11-22T13:18:33Z"
