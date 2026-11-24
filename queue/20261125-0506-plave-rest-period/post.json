@@ -1,0 +1,54 @@
+{
+  "id": "20261125-0506-plave-rest-period",
+  "created_at": "2026-11-24T20:06:00Z",
+  "news_key": "plave-3week-rest-period-resume-dec14",
+  "group": "PLAVE",
+  "category": "OFFICIAL",
+  "headline": "PLAVE take 3-week break, back Dec 14",
+  "highlight": "PLAVE",
+  "sub": "Members will rest and work on their next album",
+  "photo": "https://img.tenasia.co.kr/photo/202611/BF.46523904.1.jpg",
+  "photo_alternates": [
+    "https://cdn.topcelev.co.kr/news/photo/202611/4303_4109_5710.jpg"
+  ],
+  "focus": "50% 40%",
+  "credit": "Photo: VLAST",
+  "info": {
+    "title": "At a glance",
+    "rows": [
+      [
+        "Break",
+        "Nov 23 – Dec 13 (3 weeks)"
+      ],
+      [
+        "Return",
+        "Dec 14, regular lives resume"
+      ],
+      [
+        "Fan contact",
+        "'Live with Members' continues"
+      ],
+      [
+        "Next",
+        "Working on new songs"
+      ]
+    ]
+  },
+  "source": "Source: Official notice from VLAST via Korean media",
+  "caption": "PLAVE are taking a three-week break and will be back on Dec 14.\n\nVLAST announced on the official fan platform that after wrapping the 2026 world tour 'KEEP IT MANIC' and 'HYPERDRIVE' promotions, Yejun, Noah, Bamby, Eunho and Hamin will rest while preparing their next album. Regular live streams and content return Dec 14, and 'Live with Members' will continue during the break. The agency said they'll come back \"healthier and looking great.\"\n\n📌 Source: VLAST official notice, via Korean media (TenAsia, iMBC)\n#PLAVE #플레이브 #PLLI #HYPERDRIVE #VLAST #kpop #kpopnews",
+  "sources": [
+    "https://www.tenasia.co.kr/article/2026112457074",
+    "https://www.topcelev.co.kr/news/articleView.html?idxno=4303",
+    "https://supple.kr/news/cmwt0me9n3m7akwp8awiih6yw"
+  ],
+  "sensitivity": "normal",
+  "hook": 7,
+  "song": {
+    "title": "Star Trace",
+    "artist": "PLAVE"
+  },
+  "candidate_ids": [
+    "f974c2064520"
+  ],
+  "status": "draft"
+}

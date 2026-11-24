@@ -1,0 +1,59 @@
+{
+  "id": "20261125-0506-lngshot-bb200-debut",
+  "created_at": "2026-11-24T20:06:00Z",
+  "news_key": "lngshot-swish-billboard200-first-entry-118",
+  "group": "LNGSHOT",
+  "category": "CHART",
+  "headline": "LNGSHOT land first Billboard 200 entry with 'S.W.I.S.H.'",
+  "highlight": "LNGSHOT",
+  "sub": "Jay Park's boy group debuts at No. 118 just 10 months in",
+  "photo": "https://img.tenasia.co.kr/photo/202611/BF.46369764.1.jpg",
+  "photo_alternates": [
+    "https://img.tenasia.co.kr/photo/202611/BF.46369765.1.jpg",
+    "https://img.tenasia.co.kr/photo/202611/BF.46369773.1.jpg"
+  ],
+  "focus": "50% 40%",
+  "credit": "Photo: MORE VISION",
+  "info": {
+    "title": "Chart week ending Nov 28",
+    "rows": [
+      [
+        "Billboard 200",
+        "No. 118 (first entry)"
+      ],
+      [
+        "World Albums",
+        "No. 3"
+      ],
+      [
+        "Top Album Sales",
+        "No. 7"
+      ],
+      [
+        "EP",
+        "'S.W.I.S.H.' (out Nov 10)"
+      ],
+      [
+        "Title",
+        "'Bananas'"
+      ]
+    ]
+  },
+  "source": "Source: Billboard charts, via Soompi",
+  "caption": "LNGSHOT have entered the Billboard 200 for the first time.\n\nTheir EP 'S.W.I.S.H.', released Nov 10 with title track 'Bananas', debuted at No. 118 on the Billboard 200 for the week ending Nov 28. It also ranked No. 3 on World Albums and No. 7 on Top Album Sales. 'S.W.I.S.H.' is their first release since debuting in January with 'SHOT CALLERS'.\n\n📌 Source: Billboard charts (via Soompi, TenAsia)\n#LNGSHOT #롱샷 #SWISH #Bananas #MOREVISION #Billboard200 #kpop #kpopnews",
+  "sources": [
+    "https://www.soompi.com/article/1890406wpp/lngshot-scores-1st-ever-entry-on-billboard-200-with-s-w-i-s-h",
+    "https://shiningawards.com/lngshot-scores-first-billboard-200-entry-as-s-w-i-s-h-debuts-at-no-118/",
+    "https://www.tenasia.co.kr/article/2026111064254"
+  ],
+  "sensitivity": "normal",
+  "hook": 6,
+  "song": {
+    "title": "Bananas",
+    "artist": "LNGSHOT"
+  },
+  "candidate_ids": [
+    "c32bcebee8bb"
+  ],
+  "status": "draft"
+}
