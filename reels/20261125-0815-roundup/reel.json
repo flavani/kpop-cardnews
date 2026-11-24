@@ -1,0 +1,124 @@
+{
+  "id": "20261125-0815-roundup",
+  "covers": [
+    "20261125-0506-plave-rest-period",
+    "20261125-0506-lngshot-bb200-debut",
+    "20261125-0506-wonderattack-ready-to-dive"
+  ],
+  "order_hooks": [
+    7.0,
+    6.0,
+    3.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "PLAVE Star Trace",
+      "results": []
+    },
+    {
+      "query": "PLAVE",
+      "results": [
+        {
+          "audio_id": "2697378737086947",
+          "title": "Floods",
+          "display_artist": "Trout Recording"
+        },
+        {
+          "audio_id": "1007985500675299",
+          "title": "Mira",
+          "display_artist": "Flow Loris"
+        },
+        {
+          "audio_id": "811408122543043",
+          "title": "Sunny Day",
+          "display_artist": "Jonny Houlihan"
+        },
+        {
+          "audio_id": "1822151564904328",
+          "title": "Murder Mystery",
+          "display_artist": "Sam Marshall"
+        },
+        {
+          "audio_id": "602718820299323",
+          "title": "Welcome Home",
+          "display_artist": "Jennah Bell"
+        }
+      ]
+    },
+    {
+      "query": "LNGSHOT Bananas",
+      "results": []
+    },
+    {
+      "query": "LNGSHOT",
+      "results": []
+    },
+    {
+      "query": "WONDER ATTACK Ready To Dive",
+      "results": []
+    },
+    {
+      "query": "WONDER ATTACK",
+      "results": [
+        {
+          "audio_id": "1283788913238327",
+          "title": "Inceptum (Instrumental)",
+          "display_artist": "Tony Dark Eyes"
+        },
+        {
+          "audio_id": "358629299632134",
+          "title": "The Funk Prevails",
+          "display_artist": "Otis McDonald"
+        },
+        {
+          "audio_id": "1280055162530217",
+          "title": "Right Now",
+          "display_artist": "Alan Avry"
+        }
+      ]
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1089503399371323",
+          "title": "Lifetime",
+          "display_artist": "Beni Haze"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        },
+        {
+          "audio_id": "2120570715052169",
+          "title": "Shibuya (Instrumental)",
+          "display_artist": "Sugartapes"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 25 — PLAVE take 3-week break, back Dec 14\n\n1️⃣ PLAVE take 3-week break, back Dec 14\n2️⃣ LNGSHOT land first Billboard 200 entry with 'S.W.I.S.H.'\n3️⃣ WONDER ATTACK drop pre-debut MV 'Ready To Dive'\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#PLAVE #LNGSHOT #WONDERATTACK #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "18141482908639093",
+  "permalink": "https://www.instagram.com/reel/DgJHVI-DSar/",
+  "published_at": "2026-11-24T23:17:09Z"
+}
