@@ -1,0 +1,55 @@
+{
+  "id": "20261125-0010-kyuhyun-limousine-service",
+  "news_key": "super-junior-kyuhyun-limousine-service-ep244",
+  "group": "SUPER JUNIOR",
+  "category": "TV",
+  "headline": "SUPER JUNIOR's Kyuhyun brings winter ballads to 'Limousine Service'",
+  "highlight": "SUPER JUNIOR's Kyuhyun",
+  "sub": "Four-song live set with host Lee Mujin on KBS Kpop",
+  "photo": "https://i.ytimg.com/vi/U5x2w5PvB10/maxresdefault.jpg",
+  "photo_alternates": [
+    "https://i.ytimg.com/vi/79X0vhMseKY/maxresdefault.jpg"
+  ],
+  "focus": "50% 35%",
+  "credit": "Photo: KBS Kpop",
+  "info": {
+    "title": "Setlist",
+    "rows": [
+      [
+        "1",
+        "'Promise'"
+      ],
+      [
+        "2",
+        "'A Kind of Confession' (cover)"
+      ],
+      [
+        "3",
+        "'Last Love' (cover)"
+      ],
+      [
+        "4",
+        "'Winter Child' with Lee Mujin"
+      ]
+    ]
+  },
+  "source": "Source: KBS Kpop official YouTube",
+  "caption": "SUPER JUNIOR's Kyuhyun is the guest on episode 244 of Lee Mujin's live show 'Limousine Service'.\n\nOn the KBS Kpop channel, he sings 'Promise', covers Lee Young Hoon's 'A Kind of Confession' and Park Ki Young's 'Last Love', then closes with a duet of 'Winter Child' alongside host Lee Mujin. A cozy winter set from one of K-pop's top vocalists.\n\n📌 Source: KBS Kpop official YouTube\n#KYUHYUN #SUPERJUNIOR #규현 #LeeMujin #LimousineService #kpoplive #kpop #kpopnews",
+  "sources": [
+    "https://www.youtube.com/watch?v=U5x2w5PvB10"
+  ],
+  "sensitivity": "normal",
+  "hook": 5,
+  "song": {
+    "title": "At Gwanghwamun",
+    "artist": "KYUHYUN"
+  },
+  "candidate_ids": [
+    "e8f667c68c4e",
+    "f846bd60f167",
+    "0266438471a8",
+    "d3f0477044ad"
+  ],
+  "created_at": "2026-11-24T15:07:40Z",
+  "status": "draft"
+}
