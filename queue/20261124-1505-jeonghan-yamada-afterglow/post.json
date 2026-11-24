@@ -7,7 +7,7 @@
   "headline": "SEVENTEEN's Jeonghan teams up with Yamada Ryosuke",
   "highlight": "SEVENTEEN's Jeonghan",
   "sub": "Their duet 'Afterglow' drops Dec 14",
-  "photo": "https://img.sportsworldi.com/content/image/2026/11/24/20261124504596.jpg",
+  "photo": "https://photo.newsen.com/news_photo/2026/11/24/202611241136376310_1.jpg",
   "photo_alternates": [
     "https://photo.newsen.com/news_photo/2026/11/24/202611241136376310_1.jpg",
     "https://photo.newsen.com/news_photo/2026/11/24/202611241136376310_2.jpg"
@@ -58,5 +58,8 @@
   "candidate_ids": [
     "9007052dca3e"
   ],
-  "status": "draft"
+  "status": "approved",
+  "rendered": 4,
+  "photo_used": true,
+  "approved": true
 }
