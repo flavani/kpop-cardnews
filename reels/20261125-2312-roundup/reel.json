@@ -1,0 +1,162 @@
+{
+  "id": "20261125-2312-roundup",
+  "covers": [
+    "20261125-2006-txt-angel-bite-showchampion",
+    "20261125-2006-kissoflife-greedy-release",
+    "20261125-2006-golden-disc-41-nominees",
+    "20261125-2006-heoyoungji-dsp-return"
+  ],
+  "order_hooks": [
+    8.0,
+    7.0,
+    6.0,
+    5.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "TOMORROW X TOGETHER Angel Bite",
+      "results": []
+    },
+    {
+      "query": "TOMORROW X TOGETHER",
+      "results": []
+    },
+    {
+      "query": "KISS OF LIFE Greedy",
+      "results": []
+    },
+    {
+      "query": "KISS OF LIFE",
+      "results": [
+        {
+          "audio_id": "4209504865938640",
+          "title": "Enjoy Yourself",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1852688158814799",
+          "title": "Hypnotized (Instrumental)",
+          "display_artist": "Company Money"
+        },
+        {
+          "audio_id": "868723031349314",
+          "title": "I Got You (Instrumental)",
+          "display_artist": "Maile"
+        },
+        {
+          "audio_id": "1668470370259395",
+          "title": "Echoes Of Us",
+          "display_artist": "Giulio Cercato"
+        },
+        {
+          "audio_id": "1781482885196088",
+          "title": "Gotta Go Faster",
+          "display_artist": "Kolektivo"
+        }
+      ]
+    },
+    {
+      "query": "KARA I Do I Do",
+      "results": [
+        {
+          "audio_id": "1060743318649873",
+          "title": "Climb",
+          "display_artist": "Maxsickboy"
+        },
+        {
+          "audio_id": "817146166626812",
+          "title": "A Story Born In Wonderland",
+          "display_artist": "Daria Novo"
+        },
+        {
+          "audio_id": "569387684026512",
+          "title": "Groupie Love",
+          "display_artist": "Gihon The Lion"
+        },
+        {
+          "audio_id": "379066836598359",
+          "title": "Dangerous",
+          "display_artist": "Kolektivo"
+        },
+        {
+          "audio_id": "1142191894080060",
+          "title": "You Give (feat. Latoya Lewis)",
+          "display_artist": "Phury"
+        }
+      ]
+    },
+    {
+      "query": "KARA",
+      "results": [
+        {
+          "audio_id": "375454166415596",
+          "title": "Al Son Del Canalete",
+          "display_artist": "Julian Mendihuaca"
+        },
+        {
+          "audio_id": "749803293315589",
+          "title": "Gold",
+          "display_artist": "Dhruv Goel"
+        },
+        {
+          "audio_id": "899799444422991",
+          "title": "Wacky Sax 10s",
+          "display_artist": "Global Genius"
+        },
+        {
+          "audio_id": "1058899686627997",
+          "title": "Universe",
+          "display_artist": "Summer Islands"
+        },
+        {
+          "audio_id": "1171509820372648",
+          "title": "Akpabuyo (feat. R Mixy)",
+          "display_artist": "Afro Sound Machine"
+        }
+      ]
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1089503399371323",
+          "title": "Lifetime",
+          "display_artist": "Beni Haze"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        },
+        {
+          "audio_id": "2120570715052169",
+          "title": "Shibuya (Instrumental)",
+          "display_artist": "Sugartapes"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 25 — TXT take first 'Angel Bite' win on 'Show Champion'\n\n1️⃣ TXT take first 'Angel Bite' win on 'Show Champion'\n2️⃣ KISS OF LIFE release first winter single 'Greedy'\n3️⃣ Golden Disc Awards reveal 41st nominees\n4️⃣ KARA's Heo Young Ji returns to DSP Media\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#TOMORROWXTOGETHER #KISSOFLIFE #GoldenDiscAwards #KARA #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "18655369441008491",
+  "permalink": "https://www.instagram.com/reel/DgK0H0-FSEK/",
+  "published_at": "2026-11-25T15:07:52Z"
+}
