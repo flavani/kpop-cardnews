@@ -64,5 +64,8 @@
   "candidate_ids": [
     "cadd1c403749"
   ],
-  "status": "draft"
+  "status": "approved",
+  "rendered": 4,
+  "photo_used": true,
+  "approved": true
 }
