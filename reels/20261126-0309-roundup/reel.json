@@ -1,0 +1,90 @@
+{
+  "id": "20261126-0309-roundup",
+  "covers": [
+    "20261126-0008-oftheblue-first-concept-photos",
+    "20261126-0008-hyukoh-33-full-album",
+    "20261126-0008-paulkim-my-only-one"
+  ],
+  "order_hooks": [
+    7.0,
+    6.0,
+    4.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "HYUKOH 아님의 무게",
+      "results": []
+    },
+    {
+      "query": "HYUKOH",
+      "results": []
+    },
+    {
+      "query": "Paul Kim My Only One",
+      "results": []
+    },
+    {
+      "query": "Paul Kim",
+      "results": [
+        {
+          "audio_id": "255992537058149",
+          "title": "Silently Waiting",
+          "display_artist": "Marshall Watson"
+        },
+        {
+          "audio_id": "694643819824550",
+          "title": "Beauty Calls",
+          "display_artist": "Ross Lara"
+        },
+        {
+          "audio_id": "483874714174540",
+          "title": "One Life (Let's Party) (feat. Krizah)",
+          "display_artist": "Afro Sound Machine"
+        }
+      ]
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1089503399371323",
+          "title": "Lifetime",
+          "display_artist": "Beni Haze"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        },
+        {
+          "audio_id": "2120570715052169",
+          "title": "Shibuya (Instrumental)",
+          "display_artist": "Sugartapes"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 26 — oftheblue drop first concept photos for debut\n\n1️⃣ oftheblue drop first concept photos for debut\n2️⃣ HYUKOH release '33', first full album in 6 years\n3️⃣ Paul Kim drops Christmas single 'My Only One' Nov 27\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#oftheblue #HYUKOH #PaulKim #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "18109268732343253",
+  "permalink": "https://www.instagram.com/reel/DgLPIO5F396/",
+  "published_at": "2026-11-25T19:03:49Z"
+}
