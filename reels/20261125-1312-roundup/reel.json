@@ -1,0 +1,204 @@
+{
+  "id": "20261125-1312-roundup",
+  "covers": [
+    "20261125-1005-ateez-up-hot100-3rd-entry",
+    "20261125-1005-riize-palnorte-2027",
+    "20261125-1005-illit-breakeven-bb200-3weeks",
+    "20261125-1005-ampersone-pathfinder-career-high"
+  ],
+  "order_hooks": [
+    8.0,
+    7.0,
+    6.0,
+    4.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "ATEEZ UP",
+      "results": [
+        {
+          "audio_id": "526481210037048",
+          "title": "Koreatown",
+          "display_artist": "Sugartapes"
+        },
+        {
+          "audio_id": "192200826896731",
+          "title": "Lady Sunshine",
+          "display_artist": "Giulio Cercato"
+        },
+        {
+          "audio_id": "1105478964958211",
+          "title": "Seoul Vibes (Instrumental)",
+          "display_artist": "Sugartapes"
+        }
+      ]
+    },
+    {
+      "query": "ATEEZ",
+      "results": [
+        {
+          "audio_id": "908369400924600",
+          "title": "Melt",
+          "display_artist": "YUNGDAN"
+        },
+        {
+          "audio_id": "526481210037048",
+          "title": "Koreatown",
+          "display_artist": "Sugartapes"
+        },
+        {
+          "audio_id": "192200826896731",
+          "title": "Lady Sunshine",
+          "display_artist": "Giulio Cercato"
+        },
+        {
+          "audio_id": "1105478964958211",
+          "title": "Seoul Vibes (Instrumental)",
+          "display_artist": "Sugartapes"
+        },
+        {
+          "audio_id": "1385666725964277",
+          "title": "Drip (Instrumental)",
+          "display_artist": "Sugartapes"
+        }
+      ]
+    },
+    {
+      "query": "RIIZE Insomnia",
+      "results": [
+        {
+          "audio_id": "3188463141456618",
+          "title": "Sentimental Motion (feat. ZAB)",
+          "display_artist": "half.cool"
+        }
+      ]
+    },
+    {
+      "query": "RIIZE",
+      "results": [
+        {
+          "audio_id": "483869933712364",
+          "title": "Disco Love",
+          "display_artist": "Chela Rivas"
+        },
+        {
+          "audio_id": "1654540342871209",
+          "title": "Rise (Instrumental)",
+          "display_artist": "Beni Haze"
+        },
+        {
+          "audio_id": "488642401698583",
+          "title": "Nani Nani Oy",
+          "display_artist": "Mike Block"
+        },
+        {
+          "audio_id": "1956430398339686",
+          "title": "Moving On",
+          "display_artist": "Summer Islands"
+        },
+        {
+          "audio_id": "2141021946761599",
+          "title": "I Wanna Dance",
+          "display_artist": "cloud cover"
+        }
+      ]
+    },
+    {
+      "query": "ILLIT You're Under Arrest",
+      "results": [
+        {
+          "audio_id": "384565393627690",
+          "title": "Cosmic Boy Charm",
+          "display_artist": "Cosmic Boy"
+        }
+      ]
+    },
+    {
+      "query": "ILLIT",
+      "results": [
+        {
+          "audio_id": "2120570715052169",
+          "title": "Shibuya (Instrumental)",
+          "display_artist": "Sugartapes"
+        },
+        {
+          "audio_id": "1389826223113868",
+          "title": "The Puppy Song",
+          "display_artist": "Company Money"
+        },
+        {
+          "audio_id": "204635329143577",
+          "title": "Superhot",
+          "display_artist": "Giulio Cercato"
+        },
+        {
+          "audio_id": "988333355589920",
+          "title": "Stay Out",
+          "display_artist": "half.cool"
+        },
+        {
+          "audio_id": "806487351156254",
+          "title": "Forever",
+          "display_artist": "Giulio Cercato"
+        }
+      ]
+    },
+    {
+      "query": "AMPERS&ONE King's Way",
+      "results": []
+    },
+    {
+      "query": "AMPERS&ONE",
+      "results": [
+        {
+          "audio_id": "30260842216836881",
+          "title": "King’s Way",
+          "display_artist": "앰퍼샌드원 (AMPERS&ONE)"
+        }
+      ]
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1089503399371323",
+          "title": "Lifetime",
+          "display_artist": "Beni Haze"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        },
+        {
+          "audio_id": "2120570715052169",
+          "title": "Shibuya (Instrumental)",
+          "display_artist": "Sugartapes"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 25 — ATEEZ's 'UP' enters Billboard Hot 100 at No. 90\n\n1️⃣ ATEEZ's 'UP' enters Billboard Hot 100 at No. 90\n2️⃣ RIIZE join Mexico's Tecate Pa'l Norte 2027\n3️⃣ ILLIT's 'BREAK EVEN' logs 3rd week on Billboard 200\n4️⃣ AMPERS&ONE hit career-high first-week sales\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#ATEEZ #RIIZE #ILLIT #AMPERSONE #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "17897149707436819",
+  "permalink": "https://www.instagram.com/reel/DgJvZhGAZwa/",
+  "published_at": "2026-11-25T05:07:16Z"
+}
