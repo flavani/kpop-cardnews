@@ -1,0 +1,202 @@
+{
+  "id": "20261125-1813-roundup",
+  "covers": [
+    "20261125-1510-straykids-run-it-seoul-special",
+    "20261125-1512-ive-pubg-the-squad-renegade",
+    "20261125-1511-katseye-edinburgh-summer-sessions",
+    "20261125-1513-kickflip-keiju-thumb-injury"
+  ],
+  "order_hooks": [
+    9.0,
+    8.0,
+    7.0,
+    5.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "Stray Kids This & That",
+      "results": [
+        {
+          "audio_id": "1296207915590828",
+          "title": "Look At Me Now (feat. Q The Music) (Instrumental)",
+          "display_artist": "ill Think in ink"
+        }
+      ]
+    },
+    {
+      "query": "Stray Kids",
+      "results": [
+        {
+          "audio_id": "111592121784382",
+          "title": "You (Instrumental)",
+          "display_artist": "Tash"
+        },
+        {
+          "audio_id": "908369400924600",
+          "title": "Melt",
+          "display_artist": "YUNGDAN"
+        },
+        {
+          "audio_id": "495510031793530",
+          "title": "Empty Spaces",
+          "display_artist": "Adam Griffith"
+        },
+        {
+          "audio_id": "673375162060014",
+          "title": "Bailando Contigo (Dancing With You) (Instrumental)",
+          "display_artist": "Bryan Todd"
+        },
+        {
+          "audio_id": "1296207915590828",
+          "title": "Look At Me Now (feat. Q The Music) (Instrumental)",
+          "display_artist": "ill Think in ink"
+        }
+      ]
+    },
+    {
+      "query": "IVE Renegade",
+      "results": []
+    },
+    {
+      "query": "IVE",
+      "results": [
+        {
+          "audio_id": "1078605698407475",
+          "title": "Christmas in November",
+          "display_artist": "Daisey Harper, The Christmas Collective"
+        },
+        {
+          "audio_id": "849424053492247",
+          "title": "I Can't Get You Off My Mind",
+          "display_artist": "half.cool"
+        },
+        {
+          "audio_id": "1211414204067053",
+          "title": "Drift Away (Instrumental)",
+          "display_artist": "Giulio Cercato"
+        },
+        {
+          "audio_id": "897193789954241",
+          "title": "Carnaval (Instrumental)",
+          "display_artist": "Sara Jaramillo"
+        },
+        {
+          "audio_id": "569387684026512",
+          "title": "Groupie Love",
+          "display_artist": "Gihon The Lion"
+        }
+      ]
+    },
+    {
+      "query": "KATSEYE Animal",
+      "results": [
+        {
+          "audio_id": "1521900551730982",
+          "title": "Party In The Jungle",
+          "display_artist": "Chela Rivas"
+        },
+        {
+          "audio_id": "1228368409328767",
+          "title": "The World Is Mine (Instrumental)",
+          "display_artist": "Chela Rivas"
+        },
+        {
+          "audio_id": "3906782642922048",
+          "title": "Rhythm Of The Casbah",
+          "display_artist": "Loga Ramin Torkian"
+        },
+        {
+          "audio_id": "891427316174222",
+          "title": "Mothership (Japanese) (Reels Sound - Reveal)",
+          "display_artist": "Adam Griffith"
+        },
+        {
+          "audio_id": "1369111258607723",
+          "title": "Animal (Instrumental)",
+          "display_artist": "Baegod"
+        }
+      ]
+    },
+    {
+      "query": "KATSEYE",
+      "results": [
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        },
+        {
+          "audio_id": "204635329143577",
+          "title": "Superhot",
+          "display_artist": "Giulio Cercato"
+        },
+        {
+          "audio_id": "988333355589920",
+          "title": "Stay Out",
+          "display_artist": "half.cool"
+        },
+        {
+          "audio_id": "2767633380287899",
+          "title": "Flow State",
+          "display_artist": "Lightbox Music"
+        },
+        {
+          "audio_id": "1521900551730982",
+          "title": "Party In The Jungle",
+          "display_artist": "Chela Rivas"
+        }
+      ]
+    },
+    {
+      "query": "KickFlip Kick Off The Wall (Feat. iann dior)",
+      "results": []
+    },
+    {
+      "query": "KickFlip",
+      "results": []
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1089503399371323",
+          "title": "Lifetime",
+          "display_artist": "Beni Haze"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        },
+        {
+          "audio_id": "2120570715052169",
+          "title": "Shibuya (Instrumental)",
+          "display_artist": "Sugartapes"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 25 — Stray Kids ring in 2027 with Gocheok Sky Dome shows\n\n1️⃣ Stray Kids ring in 2027 with Gocheok Sky Dome shows\n2️⃣ IVE open PUBG's new music project with 'Renegade'\n3️⃣ KATSEYE to headline Edinburgh Summer Sessions 2027\n4️⃣ KickFlip's Keiju injures right thumb, JYP says\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#StrayKids #IVE #KATSEYE #KickFlip #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "17918397894518430",
+  "permalink": "https://www.instagram.com/reel/DgKR75BFa5c/",
+  "published_at": "2026-11-25T10:09:18Z"
+}
