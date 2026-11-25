@@ -56,3 +56,4 @@
 {"at": "2026-11-25T15:29:42Z", "run": "45641882183", "attempt": 5, "posted": 0, "outcome": "gap", "msg": "interval limit: last post 22 min ago, need 55 min"}
 {"at": "2026-11-25T15:34:44Z", "run": "45641882183", "attempt": 6, "posted": 0, "outcome": "gap", "msg": "interval limit: last post 27 min ago, need 55 min"}
 {"at": "2026-11-25T15:39:46Z", "run": "45641882183", "attempt": 7, "posted": 0, "outcome": "gap", "msg": "interval limit: last post 32 min ago, need 55 min"}
+{"at": "2026-11-25T15:44:48Z", "run": "45641882183", "attempt": 8, "posted": 0, "outcome": "gap", "msg": "interval limit: last post 37 min ago, need 55 min"}
