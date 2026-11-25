@@ -1,0 +1,55 @@
+{
+  "id": "20261125-1005-illit-breakeven-bb200-3weeks",
+  "created_at": "2026-11-25T01:06:00Z",
+  "news_key": "illit-break-even-billboard200-3rd-week",
+  "group": "ILLIT",
+  "category": "CHART",
+  "headline": "ILLIT's 'BREAK EVEN' logs 3rd week on Billboard 200",
+  "highlight": "ILLIT",
+  "sub": "Only K-pop girl group on this week's chart, at No. 153",
+  "photo": "https://i.ytimg.com/vi/V2V9-9VhYJo/maxresdefault.jpg",
+  "photo_alternates": [
+    "https://i.ytimg.com/vi/V2V9-9VhYJo/sddefault.jpg",
+    "https://img.mydaily.co.kr/photos/2026/11/25/2026112509085124230_l.jpg"
+  ],
+  "focus": "50% 35%",
+  "credit": "Photo: HYBE LABELS",
+  "info": {
+    "title": "At a glance",
+    "rows": [
+      [
+        "Album",
+        "5th mini 'BREAK EVEN'"
+      ],
+      [
+        "BB200",
+        "No. 153, 3rd straight week"
+      ],
+      [
+        "Debut",
+        "No. 6 (Nov 14 chart)"
+      ],
+      [
+        "World Albums",
+        "No. 5"
+      ]
+    ]
+  },
+  "source": "Source: Billboard via Korean media",
+  "caption": "ILLIT's 'BREAK EVEN' is still going strong on the Billboard 200!\n\nThe 5th mini album placed No. 153 on the chart dated Nov 28, its third week in a row — the first ILLIT album to chart that long. ILLIT were the only K-pop girl group on this week's Billboard 200. The album also sits at No. 5 on World Albums, and title track 'You're Under Arrest' climbed to No. 4 on Melon's weekly chart.\n\n📌 Source: Billboard, via Korean media (News1, My Daily)\n#ILLIT #아일릿 #BREAKEVEN #YoureUnderArrest #Billboard200 #Billboard #kpop #kpopnews",
+  "sources": [
+    "https://www.news1.kr/entertain/music/6365008",
+    "https://www.mydaily.co.kr/page/view/2026112508550255281",
+    "https://www.slist.kr/news/articleView.html?idxno=784545"
+  ],
+  "sensitivity": "normal",
+  "hook": 6,
+  "song": {
+    "title": "You're Under Arrest",
+    "artist": "ILLIT"
+  },
+  "candidate_ids": [
+    "8ac5aa922b91"
+  ],
+  "status": "draft"
+}

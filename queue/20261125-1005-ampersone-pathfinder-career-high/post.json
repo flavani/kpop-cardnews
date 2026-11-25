@@ -1,0 +1,54 @@
+{
+  "id": "20261125-1005-ampersone-pathfinder-career-high",
+  "created_at": "2026-11-25T01:06:00Z",
+  "news_key": "ampersone-pathfinder-first-week-career-high",
+  "group": "AMPERS&ONE",
+  "category": "CHART",
+  "headline": "AMPERS&ONE hit career-high first-week sales",
+  "highlight": "AMPERS&ONE",
+  "sub": "1st full album 'PATHFINDER' sells 181,698 copies in week one",
+  "photo": "https://cdnimage.dailian.co.kr/news/202611/news_1795485645112_1718936_m_1.jpg",
+  "photo_alternates": [
+    "https://www.cbci.co.kr/news/photo/202611/630169_433238_478.jpg"
+  ],
+  "focus": "50% 40%",
+  "credit": "Photo: FNC Entertainment",
+  "info": {
+    "title": "At a glance",
+    "rows": [
+      [
+        "Album",
+        "1st full 'PATHFINDER'"
+      ],
+      [
+        "Release",
+        "Nov 17"
+      ],
+      [
+        "Title",
+        "'King's Way'"
+      ],
+      [
+        "Week one",
+        "181,698 copies (Hanteo)"
+      ]
+    ]
+  },
+  "source": "Source: Hanteo Chart via Korean media",
+  "caption": "AMPERS&ONE just set a new personal record!\n\nTheir first full-length album 'PATHFINDER', released Nov 17, sold 181,698 copies in its first week according to Hanteo Chart — the group's best first-week figure yet. The 'King's Way' MV also reached No. 10 on YouTube Korea's daily popular music video chart, and the group continues promotions on music shows.\n\n📌 Source: Hanteo Chart, via Korean media (Joy News 24, Dailian)\n#AMPERSANDONE #앰퍼샌드원 #PATHFINDER #KingsWay #Hanteo #kpop #kpopnews",
+  "sources": [
+    "https://www.joynews24.com/view/2029660",
+    "https://www.dailian.co.kr/news/view/1718936",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=630169"
+  ],
+  "sensitivity": "normal",
+  "hook": 4,
+  "song": {
+    "title": "King's Way",
+    "artist": "AMPERS&ONE"
+  },
+  "candidate_ids": [
+    "0786df1faed1"
+  ],
+  "status": "draft"
+}
