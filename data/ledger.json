@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-25T06:10:00Z",
+ "last_run": "2026-11-25T11:06:00Z",
  "processed": {
   "811a88d7d126": {
    "at": "2026-11-19T09:10:00Z",
@@ -3055,6 +3055,218 @@
   },
   "c0d9f9499dcf": {
    "at": "2026-11-25T06:10:00Z",
+   "result": "skip:not-kpop"
+  },
+  "1e661388d757": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "20261125-2006-txt-angel-bite-showchampion"
+  },
+  "ff8b6b3b4ef5": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "20261125-2006-kissoflife-greedy-release"
+  },
+  "211cf2a57589": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "20261125-2006-golden-disc-41-nominees"
+  },
+  "5532e5a43159": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "20261125-2006-heoyoungji-dsp-return"
+  },
+  "6d3cbe26d1a1": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "ae62f543bb4e": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "a3f588107bc4": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "27cb1f89cd1c": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "e94cd4298a01": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "dbd89fdacfc4": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "bf28411c1baa": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "fc8d9c6b5abc": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "1df93d526fb1": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "b8e201b025ca": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "34137d32d631": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "f0829789f69d": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "a04edbab98c6": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "c1d3cf3831be": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "3c88b611d56a": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "0d24c692427d": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "cd463d1349a6": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "a2544c5a9694": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "e263b98a0084": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "f37f2929a06e": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "79899fdfceda": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "76451213a16a": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "585d4d4f8966": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "00f6b8cc001b": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "410b955a6373": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "d0f42563f95b": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "606133f435db": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "85213b647424": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "6f0eb1e10022": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "e42230062d47": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "d92932e08feb": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "f84a58066f3a": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:excluded"
+  },
+  "d5f8a4a6f6b4": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "4c9439070ce9": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "2eedc0590d5d": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "8f7cc363d6ce": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "ab546fee5ddd": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "4e566024ba56": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "e89fd18082fc": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d7d3eca0748a": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "361ab170342f": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "3fcae95c07a3": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "8003efa05816": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "0d45018793dd": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "65e23c7c6fd4": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "32b9da25deb4": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "66b383a28505": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "0a0690a12253": {
+   "at": "2026-11-25T11:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "cbe5a3315bf4": {
+   "at": "2026-11-25T11:06:00Z",
    "result": "skip:not-kpop"
   }
  },
