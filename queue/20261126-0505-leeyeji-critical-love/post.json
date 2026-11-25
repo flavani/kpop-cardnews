@@ -17,10 +17,22 @@
   "info": {
     "title": "At a glance",
     "rows": [
-      ["Release", "Nov 24, 6 PM KST"],
-      ["Single", "'Critical Love'"],
-      ["Sound", "Band-driven rock vocals"],
-      ["Theme", "Self-love"]
+      [
+        "Release",
+        "Nov 24, 6 PM KST"
+      ],
+      [
+        "Single",
+        "'Critical Love'"
+      ],
+      [
+        "Sound",
+        "Band-driven rock vocals"
+      ],
+      [
+        "Theme",
+        "Self-love"
+      ]
     ]
   },
   "source": "Source: Newsen, SPOTV News, Sports Kyunghyang (Korean media)",
@@ -33,7 +45,15 @@
   ],
   "sensitivity": "normal",
   "hook": 3,
-  "song": {"title": "Critical Love", "artist": "Lee Ye Ji"},
-  "candidate_ids": ["9233a2e9dcb4"],
-  "status": "draft"
+  "song": {
+    "title": "Critical Love",
+    "artist": "Lee Ye Ji"
+  },
+  "candidate_ids": [
+    "9233a2e9dcb4"
+  ],
+  "status": "approved",
+  "rendered": 3,
+  "photo_used": true,
+  "approved": true
 }
