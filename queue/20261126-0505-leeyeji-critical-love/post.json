@@ -1,0 +1,39 @@
+{
+  "id": "20261126-0505-leeyeji-critical-love",
+  "created_at": "2026-11-25T20:05:00Z",
+  "news_key": "lee-yeji-critical-love-single-release",
+  "group": "Lee Ye Ji",
+  "category": "RELEASE",
+  "headline": "Lee Ye Ji goes rock with new single 'Critical Love'",
+  "highlight": "Lee Ye Ji",
+  "sub": "The 'Our Ballads' winner trades ballads for a band sound",
+  "photo": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202611/1021360_2045393_464.jpg",
+  "photo_alternates": [
+    "https://photo.newsen.com/news_photo/2026/11/23/202611231544292410_1.png",
+    "https://i.ytimg.com/vi/MaCjeHDuRGc/maxresdefault.jpg"
+  ],
+  "focus": "50% 35%",
+  "credit": "Photo: SM C&C",
+  "info": {
+    "title": "At a glance",
+    "rows": [
+      ["Release", "Nov 24, 6 PM KST"],
+      ["Single", "'Critical Love'"],
+      ["Sound", "Band-driven rock vocals"],
+      ["Theme", "Self-love"]
+    ]
+  },
+  "source": "Source: Newsen, SPOTV News, Sports Kyunghyang (Korean media)",
+  "caption": "Lee Ye Ji just dropped 'Critical Love', and it's a whole new side of her.\n\nThe winner of SBS audition show 'Our Ballads' steps away from ballads with a band-sound track built on powerful rock vocals, all about learning to love yourself. The single and its music video came out Nov 24 at 6 PM KST, the same day she appeared on KBS1's 'Morning Forum' to introduce the song.\n\n📌 Source: Newsen, SPOTV News, Sports Kyunghyang (via Korean media)\n#LeeYeJi #이예지 #CriticalLove #OurBallads #newrelease #kpop #kpopnews",
+  "sources": [
+    "https://www.newsen.com/news_view.php?uid=202611231544292410",
+    "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021360",
+    "https://sports.khan.co.kr/article/202611241557003/",
+    "https://www.youtube.com/watch?v=MaCjeHDuRGc"
+  ],
+  "sensitivity": "normal",
+  "hook": 3,
+  "song": {"title": "Critical Love", "artist": "Lee Ye Ji"},
+  "candidate_ids": ["9233a2e9dcb4"],
+  "status": "draft"
+}
