@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-25T11:06:00Z",
+ "last_run": "2026-11-25T15:08:00Z",
  "processed": {
   "811a88d7d126": {
    "at": "2026-11-19T09:10:00Z",
@@ -3268,6 +3268,106 @@
   "cbe5a3315bf4": {
    "at": "2026-11-25T11:06:00Z",
    "result": "skip:not-kpop"
+  },
+  "dd7860c23a1b": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "20261126-0008-oftheblue-first-concept-photos"
+  },
+  "abceac1d50d7": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "20261126-0008-hyukoh-33-full-album"
+  },
+  "341f9e4ce56e": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "20261126-0008-paulkim-my-only-one"
+  },
+  "9766ba25a0b8": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "20261126-0008-winkx-halo-debut"
+  },
+  "ab8387493b91": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:not-kpop"
+  },
+  "b3a56f56eeb8": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:not-kpop"
+  },
+  "79127eecf73c": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "6412759f935f": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "fa9c217a0853": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "2ae15d68bd90": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "8e4fa5d57574": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "cdc00306f7a0": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "ea38531d31ac": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "0888fd234217": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "1020f8a0efd9": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "ede3ee6f0320": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "75f094e8eec5": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "20c45a49c15c": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "ffa20b80b915": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "0027eef767c9": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "66711b508a73": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "7d1e61f8ff62": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "bab683bb6842": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "2c2cc4bda228": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
+  },
+  "4bc131435b88": {
+   "at": "2026-11-25T15:08:00Z",
+   "result": "skip:excluded"
   }
  },
  "publish_kick_at": "2026-11-22T13:18:33Z"

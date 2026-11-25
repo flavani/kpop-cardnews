@@ -1,0 +1,55 @@
+{
+  "id": "20261126-0008-winkx-halo-debut",
+  "created_at": "2026-11-25T15:08:00Z",
+  "news_key": "winkx-virtual-boy-group-debut-showcase-halo",
+  "group": "WINKX",
+  "category": "DEBUT",
+  "headline": "Virtual boy group WINKX debut with 'HALO' Nov 27",
+  "highlight": "WINKX",
+  "sub": "Ex-SM CEO Han Se-min's Titan Contents launches its first virtual act",
+  "photo": "https://img.etoday.co.kr/pto_db/2026/11/20261125145157_2423603_1200_800.jpg",
+  "photo_alternates": [
+    "https://img.etoday.co.kr/pto_db/2026/11/20261125145155_2423601_1199_767.png",
+    "https://images.khan.co.kr/article/2026/11/18/news-p.v1.20261118.e3a006e67ec34ff7b34a839cf75d66cc_P1.png"
+  ],
+  "focus": "50% 40%",
+  "credit": "Photo: Titan Contents",
+  "info": {
+    "title": "Debut details",
+    "rows": [
+      [
+        "Single",
+        "1st digital single 'HALO'"
+      ],
+      [
+        "Release",
+        "Nov 27, 6 PM KST"
+      ],
+      [
+        "Members",
+        "Cha Jion, Mir, Sihoo, Leo"
+      ],
+      [
+        "Agency",
+        "Titan Contents"
+      ]
+    ]
+  },
+  "source": "Source: WINKX debut showcase, via Korean media",
+  "caption": "Meet WINKX, a new four-member virtual boy group set to debut with the digital single 'HALO' on November 27 at 6 PM KST.\n\nThey held their debut showcase in Seoul on November 25. Titan Contents, led by former SM Entertainment CEO Han Se-min, said it worked to set WINKX apart from PLAVE. Member Mir compared the group's charm to Pyongyang naengmyeon: subtle at first, then hard to stop.\n\n📌 Source: WINKX debut showcase, via Korean media (Etoday, Hankyung)\n#WINKX #윙스 #HALO #virtualidol #kpopdebut #kpop #kpopnews",
+  "sources": [
+    "https://www.etoday.co.kr/news/view/2652873",
+    "https://www.hankyung.com/article/202611259421H",
+    "https://sports.khan.co.kr/en/article/202611180942007"
+  ],
+  "sensitivity": "normal",
+  "hook": 3,
+  "song": {
+    "title": "HALO",
+    "artist": "WINKX"
+  },
+  "candidate_ids": [
+    "9766ba25a0b8"
+  ],
+  "status": "draft"
+}

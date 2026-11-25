@@ -1,0 +1,52 @@
+{
+  "id": "20261126-0008-hyukoh-33-full-album",
+  "created_at": "2026-11-25T15:08:00Z",
+  "news_key": "hyukoh-33-full-album-release",
+  "group": "HYUKOH",
+  "category": "RELEASE",
+  "headline": "HYUKOH release '33', first full album in 6 years",
+  "highlight": "HYUKOH",
+  "sub": "14 tracks and 73 minutes of music, out now",
+  "photo": "https://cdn.ppss.kr/news/photo/202611/322900_146871_5041.jpg",
+  "photo_alternates": [],
+  "focus": "50% 40%",
+  "credit": "Photo: Dooroo Dooroo Artist Company",
+  "info": {
+    "title": "At a glance",
+    "rows": [
+      [
+        "Album",
+        "Full-length album '33'"
+      ],
+      [
+        "Release",
+        "Nov 25, 6 PM KST"
+      ],
+      [
+        "Tracks",
+        "14 songs, 73 minutes"
+      ],
+      [
+        "Gap",
+        "First full album since 2020"
+      ]
+    ]
+  },
+  "source": "Source: Dooroo Dooroo Artist Company via Korean media",
+  "caption": "HYUKOH are back with '33', their first full-length album in six years.\n\nThe band released the 14-track, 73-minute record on November 25 at 6 PM KST. Their agency says the album looks at the love that remains after loss and anxiety.\n\n📌 Source: Dooroo Dooroo Artist Company, via Korean media (Yonhap News, PPSS, Joy News 24)\n#HYUKOH #혁오 #OHHYUK #33 #kband #kindie #newalbum #kpop #kpopnews",
+  "sources": [
+    "https://www.ppss.kr/news/articleView.html?idxno=322900",
+    "https://www.joynews24.com/view/2022837",
+    "https://www.kukinews.com/article/view/kuk202611250137"
+  ],
+  "sensitivity": "normal",
+  "hook": 6,
+  "song": {
+    "title": "아님의 무게",
+    "artist": "HYUKOH"
+  },
+  "candidate_ids": [
+    "abceac1d50d7"
+  ],
+  "status": "draft"
+}
