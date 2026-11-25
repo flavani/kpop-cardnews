@@ -50,5 +50,8 @@
     "5532e5a43159"
   ],
   "sensitivity": "normal",
-  "status": "draft"
+  "status": "approved",
+  "rendered": 3,
+  "photo_used": true,
+  "approved": true
 }

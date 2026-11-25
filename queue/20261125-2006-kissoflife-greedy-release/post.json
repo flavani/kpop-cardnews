@@ -51,5 +51,8 @@
     "ff8b6b3b4ef5"
   ],
   "sensitivity": "normal",
-  "status": "draft"
+  "status": "approved",
+  "rendered": 3,
+  "photo_used": true,
+  "approved": true
 }

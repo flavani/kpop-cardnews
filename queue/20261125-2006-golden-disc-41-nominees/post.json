@@ -55,5 +55,8 @@
     "211cf2a57589"
   ],
   "sensitivity": "normal",
-  "status": "draft"
+  "status": "approved",
+  "rendered": 4,
+  "photo_used": true,
+  "approved": true
 }
