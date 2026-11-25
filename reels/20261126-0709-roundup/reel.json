@@ -1,0 +1,98 @@
+{
+  "id": "20261126-0709-roundup",
+  "covers": [
+    "20261126-0008-winkx-halo-debut",
+    "20261126-0505-leeyeji-critical-love"
+  ],
+  "order_hooks": [
+    3.0,
+    3.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "WINKX HALO",
+      "results": []
+    },
+    {
+      "query": "WINKX",
+      "results": []
+    },
+    {
+      "query": "Lee Ye Ji Critical Love",
+      "results": []
+    },
+    {
+      "query": "Lee Ye Ji",
+      "results": [
+        {
+          "audio_id": "495510031793530",
+          "title": "Empty Spaces",
+          "display_artist": "Adam Griffith"
+        },
+        {
+          "audio_id": "550290115557998",
+          "title": "Niruddesh Hote Chai",
+          "display_artist": "Rik Basu"
+        },
+        {
+          "audio_id": "678622549587599",
+          "title": "The Hideout",
+          "display_artist": "Trout Recording"
+        },
+        {
+          "audio_id": "1280055162530217",
+          "title": "Right Now",
+          "display_artist": "Alan Avry"
+        },
+        {
+          "audio_id": "6238547932827492",
+          "title": "Mardi Gras Memories (feat. Wild Iris Brass Band)",
+          "display_artist": "Global Genius"
+        }
+      ]
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1089503399371323",
+          "title": "Lifetime",
+          "display_artist": "Beni Haze"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        },
+        {
+          "audio_id": "2120570715052169",
+          "title": "Shibuya (Instrumental)",
+          "display_artist": "Sugartapes"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 26 — Virtual boy group WINKX debut with 'HALO' Nov 27\n\n1️⃣ Virtual boy group WINKX debut with 'HALO' Nov 27\n2️⃣ Lee Ye Ji goes rock with new single 'Critical Love'\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#WINKX #LeeYeJi #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "18092615837267680",
+  "permalink": "https://www.instagram.com/reel/DgLklnWjPGn/",
+  "published_at": "2026-11-25T22:11:20Z"
+}
