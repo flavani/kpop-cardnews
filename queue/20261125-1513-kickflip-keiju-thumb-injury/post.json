@@ -1,0 +1,54 @@
+{
+  "id": "20261125-1513-kickflip-keiju-thumb-injury",
+  "created_at": "2026-11-25T06:10:00Z",
+  "news_key": "kickflip-keiju-right-thumb-ligament-injury",
+  "group": "KickFlip",
+  "category": "OFFICIAL",
+  "headline": "KickFlip's Keiju injures right thumb, JYP says",
+  "highlight": "KickFlip",
+  "sub": "He'll stay on all schedules but limit right-hand use",
+  "photo": "https://images.khan.co.kr/article/2026/10/01/news-p.v1.20261001.b2b4889d44fc4ae0aefde62c3578f678_P1.jpg",
+  "photo_alternates": [
+    "https://images.khan.co.kr/article/2026/09/29/news-p.v1.20260929.eecfffc1b38d4de69e44dd5a0930cd3a_P1.jpg",
+    "https://image.starnewskorea.com/21/2026/10/2026101010592763750_1.jpg"
+  ],
+  "focus": "50% 40%",
+  "credit": "Photo: JYP Entertainment",
+  "info": {
+    "title": "Official notice",
+    "rows": [
+      [
+        "Injury",
+        "Right thumb ligament"
+      ],
+      [
+        "Cause",
+        "Dance practice"
+      ],
+      [
+        "Plan",
+        "Attends all schedules"
+      ],
+      [
+        "Stages",
+        "Minimal right-hand use"
+      ]
+    ]
+  },
+  "source": "Source: Official notice from JYP Entertainment",
+  "caption": "KickFlip's Keiju has injured his right thumb, JYP Entertainment announced on Nov 25.\n\nAccording to the agency, Keiju hurt his hand during dance practice and was diagnosed with a ligament injury. He will wear a brace and is expected to attend all upcoming schedules, but will keep right-hand use to a minimum, including at year-end broadcast and award show stages. Fan sign winners will be contacted separately about autographs. Wishing Keiju a speedy recovery!\n\n📌 Source: Official notice from JYP Entertainment\n#KickFlip #킥플립 #Keiju #JYP #kpop #kpopnews",
+  "sources": [
+    "https://www.soompi.com/article/1890536wpp/kickflips-keiju-injures-hand-to-adjust-participation-in-upcoming-activities",
+    "https://shiningawards.com/kickflips-keiju-suffers-ligament-injury-to-right-thumb-will-limit-hand-use/"
+  ],
+  "sensitivity": "official_statement",
+  "hook": 5,
+  "song": {
+    "title": "Kick Off The Wall (Feat. iann dior)",
+    "artist": "KickFlip"
+  },
+  "candidate_ids": [
+    "5092fb78e8dd"
+  ],
+  "status": "draft"
+}

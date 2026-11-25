@@ -1,0 +1,66 @@
+{
+  "id": "20261125-1512-ive-pubg-the-squad-renegade",
+  "created_at": "2026-11-25T06:10:00Z",
+  "news_key": "ive-pubg-the-squad-renegade-announce",
+  "group": "IVE",
+  "category": "RELEASE",
+  "headline": "IVE open PUBG's new music project with 'Renegade'",
+  "highlight": "IVE",
+  "sub": "An original song made for the game, MV out Dec 2",
+  "photo": "https://cdn.gamemeca.com/data_center/349/002/20261125094306.webp",
+  "photo_alternates": [
+    "https://img.mydaily.co.kr/photos/2026/11/25/2026112513541300374_l.jpg"
+  ],
+  "focus": "50% 35%",
+  "credit": "Photo: KRAFTON",
+  "info": {
+    "title": "At a glance",
+    "rows": [
+      [
+        "Project",
+        "PUBG 'THE SQUAD'"
+      ],
+      [
+        "Song",
+        "'Renegade'"
+      ],
+      [
+        "MV",
+        "Dec 2"
+      ],
+      [
+        "Items",
+        "PC Dec 2 · Mobile Dec 7"
+      ],
+      [
+        "Console",
+        "Dec 10"
+      ]
+    ]
+  },
+  "points": {
+    "title": "What to know",
+    "items": [
+      "IVE are the first artist of the seasonal project",
+      "Brand-new song themed on BATTLEGROUNDS",
+      "MV teaser is out on PUBG's YouTube",
+      "Pop-up and listening party at PUBG Seongsu Dec 2"
+    ]
+  },
+  "source": "Source: KRAFTON announcement, via Korean media",
+  "caption": "IVE are the first artist on PUBG's new seasonal music project, 'THE SQUAD'!\n\nKRAFTON announced that IVE will release 'Renegade,' an original song made for BATTLEGROUNDS, with the full MV dropping Dec 2. Matching collab items arrive on PC on Dec 2, mobile on Dec 7 and console on Dec 10, and IVE will attend a pop-up and listening party at PUBG Seongsu in Seoul.\n\n📌 Source: KRAFTON, via Korean media (MyDaily, Gamemeca)\n#IVE #아이브 #Renegade #PUBG #THESQUAD #BATTLEGROUNDS #kpop #kpopnews",
+  "sources": [
+    "https://www.mydaily.co.kr/page/view/2026112513561881571",
+    "https://www.gamemeca.com/view.php?gid=1784136"
+  ],
+  "sensitivity": "normal",
+  "hook": 8,
+  "song": {
+    "title": "Renegade",
+    "artist": "IVE"
+  },
+  "candidate_ids": [
+    "e77e7375fa10"
+  ],
+  "status": "draft"
+}

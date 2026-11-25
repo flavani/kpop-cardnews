@@ -1,0 +1,68 @@
+{
+  "id": "20261125-1510-straykids-run-it-seoul-special",
+  "created_at": "2026-11-25T06:10:00Z",
+  "news_key": "stray-kids-run-it-seoul-special-gocheok-jan2027",
+  "group": "Stray Kids",
+  "category": "CONCERT",
+  "headline": "Stray Kids ring in 2027 with Gocheok Sky Dome shows",
+  "highlight": "Stray Kids",
+  "sub": "'RUN IT SEOUL SPECIAL' set for Jan 1–2 in Seoul",
+  "photo": "https://wimg.mk.co.kr/news/cms/202611/25/news-p.v1.20261125.5ed7d79b96c04969b45bba8e60436677_P1.png",
+  "photo_alternates": [
+    "https://img.etoday.co.kr/pto_db/2026/11/20261125081000_2423194_1199_846.jpg",
+    "https://cdn.stardailynews.co.kr/news/photo/202611/602972_603318_2556.jpg"
+  ],
+  "focus": "50% 30%",
+  "credit": "Photo: JYP Entertainment",
+  "info": {
+    "title": "Show details",
+    "rows": [
+      [
+        "Show",
+        "RUN IT SEOUL SPECIAL"
+      ],
+      [
+        "Dates",
+        "Jan 1–2, 2027"
+      ],
+      [
+        "Venue",
+        "Gocheok Sky Dome, Seoul"
+      ],
+      [
+        "Presale",
+        "Fan club: Dec 7–8"
+      ],
+      [
+        "General",
+        "Dec 9"
+      ]
+    ]
+  },
+  "points": {
+    "title": "What to know",
+    "items": [
+      "A special stop on the 'RUN IT' world tour",
+      "Their July–Aug KSPO DOME shows all sold out",
+      "Poster revealed on official SNS on Nov 24",
+      "More ticket details coming via official SNS"
+    ]
+  },
+  "source": "Source: Stray Kids official SNS, via Korean media",
+  "caption": "Stray Kids will kick off 2027 with STAY at Seoul's Gocheok Sky Dome!\n\nThe group announced 'RUN IT SEOUL SPECIAL,' a special show of their 'RUN IT' world tour, set for Jan 1 and 2, 2027. Fan club presale runs Dec 7–8, with general sale on Dec 9. Their five KSPO DOME shows in July and August sold out, so get ready.\n\n📌 Source: Stray Kids official SNS, via Korean media (Etoday, MK Sports)\n#StrayKids #스트레이키즈 #SKZ #RUNIT #RUNITSEOULSPECIAL #STAY #kpopconcert #kpop #kpopnews",
+  "sources": [
+    "https://www.etoday.co.kr/news/view/2652538",
+    "https://www.mksports.co.kr/news/entertain/12217749",
+    "https://www.stardailynews.co.kr/news/articleView.html?idxno=602972"
+  ],
+  "sensitivity": "normal",
+  "hook": 9,
+  "song": {
+    "title": "DIVINE",
+    "artist": "Stray Kids"
+  },
+  "candidate_ids": [
+    "cadd1c403749"
+  ],
+  "status": "draft"
+}
