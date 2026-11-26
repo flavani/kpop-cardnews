@@ -52,5 +52,8 @@
     "0048e55c9b9c",
     "26e33bc6212c"
   ],
-  "status": "draft"
+  "status": "approved",
+  "rendered": 3,
+  "photo_used": true,
+  "approved": true
 }
