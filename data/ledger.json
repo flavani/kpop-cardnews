@@ -1,190 +1,6 @@
 {
- "last_run": "2026-11-26T11:07:00Z",
+ "last_run": "2026-11-26T15:05:55Z",
  "processed": {
-  "a9388e4b941d": {
-   "at": "2026-11-19T11:20:00Z",
-   "result": "20261119-2020-highlight-gikwang-kpopcon-mc"
-  },
-  "bc47ab04f1e0": {
-   "at": "2026-11-19T11:20:00Z",
-   "result": "20261119-2020-illit-traffic-police"
-  },
-  "0b0be1213d33": {
-   "at": "2026-11-19T11:20:00Z",
-   "result": "20261119-2020-ftisland-hongki-band-king"
-  },
-  "78e775eca210": {
-   "at": "2026-11-19T11:20:00Z",
-   "result": "20261119-2020-ntake-mirage-debut"
-  },
-  "7ac9be909e58": {
-   "at": "2026-11-19T11:20:00Z",
-   "result": "skip:not-kpop"
-  },
-  "0f71a73de784": {
-   "at": "2026-11-19T11:20:00Z",
-   "result": "skip:not-kpop"
-  },
-  "867c67e6b82e": {
-   "at": "2026-11-19T11:20:00Z",
-   "result": "skip:not-kpop"
-  },
-  "0087ed917a0a": {
-   "at": "2026-11-19T11:20:00Z",
-   "result": "skip:not-kpop"
-  },
-  "46b3680018bc": {
-   "at": "2026-11-19T11:20:00Z",
-   "result": "skip:not-kpop"
-  },
-  "ac1ffd175bb5": {
-   "at": "2026-11-19T11:20:00Z",
-   "result": "skip:not-kpop"
-  },
-  "3f9f1600392c": {
-   "at": "2026-11-19T11:20:00Z",
-   "result": "skip:excluded"
-  },
-  "5cd0ecdcfed9": {
-   "at": "2026-11-19T11:20:00Z",
-   "result": "skip:excluded"
-  },
-  "c2f098292a06": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:excluded"
-  },
-  "8633eba5bacf": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:excluded"
-  },
-  "6622a1a9a58a": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:excluded"
-  },
-  "418ae244f86d": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:excluded"
-  },
-  "532a9146f784": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:excluded"
-  },
-  "e525946c49f3": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:excluded"
-  },
-  "4fd7e53b952d": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:excluded"
-  },
-  "f0fc299ec78b": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:excluded"
-  },
-  "d352104d170e": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:excluded"
-  },
-  "0010c75e6fb1": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:excluded"
-  },
-  "a3763734d65b": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:excluded"
-  },
-  "8f77aeac30ce": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:excluded"
-  },
-  "5bfe5df0c37a": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:excluded"
-  },
-  "87c758d3abba": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:excluded"
-  },
-  "acedea3df16c": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:not-kpop"
-  },
-  "691d7d56b2d7": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:not-kpop"
-  },
-  "5ed0786ee268": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:not-kpop"
-  },
-  "34690020b704": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:not-kpop"
-  },
-  "623ebae66849": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:not-kpop"
-  },
-  "ee84e9493c36": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:not-kpop"
-  },
-  "6b2913ac9768": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:not-kpop"
-  },
-  "a76523641b70": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:not-kpop"
-  },
-  "5794496d6071": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:not-kpop"
-  },
-  "fe2beb1225b7": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:not-kpop"
-  },
-  "c5e64d9bacee": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:not-kpop"
-  },
-  "b9b402b893e1": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "skip:not-kpop"
-  },
-  "5e3d1da02b02": {
-   "at": "2026-11-19T12:05:00Z",
-   "result": "20261119-2104-wego6-six-hearts"
-  },
-  "f8aaec53f161": {
-   "at": "2026-11-19T13:04:42Z",
-   "result": "20261119-2205-straykids-this-that-bb200-rebound"
-  },
-  "7d28b1be77a9": {
-   "at": "2026-11-19T14:05:14Z",
-   "result": "20261119-2305-nayeon-baby-angel-mv-teaser2"
-  },
-  "b996735993c7": {
-   "at": "2026-11-19T14:05:14Z",
-   "result": "20261119-2305-nayeon-baby-angel-mv-teaser2"
-  },
-  "8193f7f66594": {
-   "at": "2026-11-19T14:05:14Z",
-   "result": "20261119-2305-nayeon-baby-angel-mv-teaser2"
-  },
-  "02f2a711b154": {
-   "at": "2026-11-19T14:05:14Z",
-   "result": "20261119-2305-joohoney-jeongyeon-just-friends"
-  },
-  "249596da9464": {
-   "at": "2026-11-19T14:05:14Z",
-   "result": "skip:excluded"
-  },
-  "49a9c4884972": {
-   "at": "2026-11-19T15:04:15Z",
-   "result": "skip:excluded"
-  },
   "c3297ea9381e": {
    "at": "2026-11-19T17:09:38Z",
    "result": "20261120-0209-bigbang-surprise-digital-single"
@@ -3256,6 +3072,126 @@
   "43ac80a0a20a": {
    "at": "2026-11-26T11:07:00Z",
    "result": "20261126-2007-kiiras-over-u-mv-release"
+  },
+  "06f80dee5f24": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "20261127-0005-nayeon-boy-mv"
+  },
+  "cee7df71f7b3": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "20261127-0005-nayeon-boy-mv"
+  },
+  "b9b56410a369": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "f91c815e3c80": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "ddbb84108f2e": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "85d760e2bff6": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "e6a08fc7786e": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "5f5d8585426c": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "235a650100f4": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "49fac3be6019": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "349a18a78888": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "5a3e26083d26": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "8c6525a3f032": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "ea8a07bb8744": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "a4767dd3d61a": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "e368a8f1a9ff": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "363325d10de3": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "4853eeabc592": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "003e6f8a680a": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "7b51ba2168d4": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "071ffca57c55": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "c3881869da7b": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "bc171a81534c": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "6d2efa84ecae": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "c5a1c843b552": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "f285703e7379": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "ac8a7a6e778c": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "31578b321301": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "5c71cde33b8c": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "52697e07caf4": {
+   "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
   }
  },
  "publish_kick_at": "2026-11-22T13:18:33Z"
