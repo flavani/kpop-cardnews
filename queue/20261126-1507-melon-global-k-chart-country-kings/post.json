@@ -1,0 +1,62 @@
+{
+  "id": "20261126-1507-melon-global-k-chart-country-kings",
+  "created_at": "2026-11-26T06:06:00Z",
+  "news_key": "melon-global-k-chart-2026-country-top-artists",
+  "group": "BTS",
+  "category": "CHART",
+  "headline": "BTS rule Japan, aespa China, RESCENE Korea on Melon chart",
+  "highlight": "BTS",
+  "sub": "Melon's Global-K chart reveals each country's No. 1 K-pop act",
+  "photo": "https://img.khan.co.kr/news/2026/11/26/news-p.v1.20261126.14580182b00944a8bb2f52cee9c62f2c_P1.png",
+  "photo_alternates": [
+    "https://img.khan.co.kr/news/2026/11/26/news-p.v1.20261126.c2abd3fd2c30406384c0adf18cebd932_P1.png"
+  ],
+  "focus": "50% 40%",
+  "credit": "Photo: BIGHIT MUSIC",
+  "info": {
+    "title": "Top act by country",
+    "rows": [
+      [
+        "Korea",
+        "RESCENE (Melon)"
+      ],
+      [
+        "China",
+        "aespa (Tencent Music)"
+      ],
+      [
+        "Japan",
+        "BTS (LINE MUSIC)"
+      ],
+      [
+        "Period",
+        "May 11 – Sep 30 (143 days)"
+      ]
+    ]
+  },
+  "points": {
+    "title": "Key points",
+    "items": [
+      "BTS No. 1 on the combined chart 59 of 143 days",
+      "BTS: only act to top all three platforms",
+      "RESCENE's 'LOVE ATTACK' led Melon for 61 days",
+      "BTS, aespa stayed in the Top 10 all 143 days"
+    ]
+  },
+  "source": "Source: Melon via Korean media",
+  "caption": "BTS in Japan, aespa in China, RESCENE in Korea — Melon just revealed who ruled K-pop in each country this year.\n\nMelon's new Global-K chart combines Melon (Korea), Tencent Music (China) and LINE MUSIC (Japan). From May 11 to Sep 30, BTS topped the combined chart on 59 of 143 days and were the only act to hit No. 1 on all three platforms. In Korea, RESCENE's chart-climbing 'LOVE ATTACK' spent 61 days at No. 1.\n\n📌 Source: Melon report (via Korean media)\n#BTS #aespa #RESCENE #LOVEATTACK #Melon #리센느 #kpopchart #kpop #kpopnews",
+  "sources": [
+    "https://www.khan.co.kr/article/202611261411001/",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=566547"
+  ],
+  "sensitivity": "normal",
+  "hook": 7,
+  "song": {
+    "title": "LOVE ATTACK",
+    "artist": "RESCENE"
+  },
+  "candidate_ids": [
+    "7ecf8e0764c6"
+  ],
+  "status": "draft"
+}

@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-26T01:07:00Z",
+ "last_run": "2026-11-26T06:06:00Z",
  "processed": {
   "811a88d7d126": {
    "at": "2026-11-19T09:10:00Z",
@@ -3480,6 +3480,114 @@
   "db927cd7fa27": {
    "at": "2026-11-26T01:07:00Z",
    "result": "skip:not-kpop"
+  },
+  "59a757d584c9": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "20261126-1506-code-kunst-prankstar-jungkook"
+  },
+  "7ecf8e0764c6": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "20261126-1507-melon-global-k-chart-country-kings"
+  },
+  "e8d446d73b1c": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "20261126-1508-ireh-so-good-getting-better-mv"
+  },
+  "7b895460ae26": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d70dc9545c78": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "0e353c141f3c": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "4415173d181b": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "bd06c9e65620": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "475a1a84c5de": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "44db72c0d5f7": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "bbec276c046b": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "157ce5cd6e86": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "1a81eca3e1a9": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "5a23f80bd123": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "a810af0f1bb5": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "cd9c3b928287": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "b1b4d069cf41": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "eeb2527b8102": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "f07f33355fff": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "18a4a01e60c0": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "284efcdb5ef1": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "8c97cb351c79": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "ae170a221504": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "517bb8fa669f": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:excluded"
+  },
+  "a8eb39291d91": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:excluded"
+  },
+  "ebd729f2ae73": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:excluded"
+  },
+  "3eca86c6c31a": {
+   "at": "2026-11-26T06:06:00Z",
+   "result": "skip:excluded"
   }
  },
  "publish_kick_at": "2026-11-22T13:18:33Z"
