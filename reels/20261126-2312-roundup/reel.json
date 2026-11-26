@@ -1,0 +1,74 @@
+{
+  "id": "20261126-2312-roundup",
+  "covers": [
+    "20261126-2007-boynextdoor-knock-on-vol2-north-america-finale",
+    "20261126-2007-golden-disc-awards-41st-first-lineup-hanoi",
+    "20261126-2007-kiiras-over-u-mv-release"
+  ],
+  "order_hooks": [
+    7.0,
+    6.0,
+    3.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "BOYNEXTDOOR VIRAL",
+      "results": []
+    },
+    {
+      "query": "BOYNEXTDOOR",
+      "results": []
+    },
+    {
+      "query": "KIIRAS OVER U",
+      "results": []
+    },
+    {
+      "query": "KIIRAS",
+      "results": []
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "887314389758766",
+          "title": "La La La",
+          "display_artist": "Julia Gartha"
+        },
+        {
+          "audio_id": "229596876055188",
+          "title": "Good Thing",
+          "display_artist": "Faver"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 26 — BOYNEXTDOOR wrap first North America tour, all sold out\n\n1️⃣ BOYNEXTDOOR wrap first North America tour, all sold out\n2️⃣ Golden Disc Awards name first 12 acts for Hanoi show\n3️⃣ KIIRAS cheer on youth with new single 'OVER U'\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#BOYNEXTDOOR #GoldenDiscAwards #KIIRAS #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "18122334895967193",
+  "permalink": "https://www.instagram.com/reel/DgNS299gKXM/",
+  "published_at": "2026-11-26T14:14:55Z"
+}
