@@ -1,0 +1,99 @@
+{
+  "id": "20261126-1812-roundup",
+  "covers": [
+    "20261126-1506-code-kunst-prankstar-jungkook",
+    "20261126-1507-melon-global-k-chart-country-kings",
+    "20261126-1508-ireh-so-good-getting-better-mv"
+  ],
+  "order_hooks": [
+    9.0,
+    7.0,
+    3.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "Jung Kook Seven (feat. Latto)",
+      "results": []
+    },
+    {
+      "query": "Jung Kook",
+      "results": [
+        {
+          "audio_id": "2131694873689651",
+          "title": "Nogedede (feat. 31 Ronin, Sweech)",
+          "display_artist": "Afro Sound Machine"
+        },
+        {
+          "audio_id": "551305128680904",
+          "title": "I Must Be Dreaming",
+          "display_artist": "Global Genius"
+        }
+      ]
+    },
+    {
+      "query": "RESCENE LOVE ATTACK",
+      "results": []
+    },
+    {
+      "query": "RESCENE",
+      "results": [
+        {
+          "audio_id": "495510031793530",
+          "title": "Empty Spaces",
+          "display_artist": "Adam Griffith"
+        }
+      ]
+    },
+    {
+      "query": "Ireh So Good, Getting Better",
+      "results": []
+    },
+    {
+      "query": "Ireh",
+      "results": []
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "887314389758766",
+          "title": "La La La",
+          "display_artist": "Julia Gartha"
+        },
+        {
+          "audio_id": "229596876055188",
+          "title": "Good Thing",
+          "display_artist": "Faver"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 26 — Code Kunst taps BTS's Jung Kook for 6th album 'Prankstar'\n\n1️⃣ Code Kunst taps BTS's Jung Kook for 6th album 'Prankstar'\n2️⃣ BTS rule Japan, aespa China, RESCENE Korea on Melon chart\n3️⃣ Ireh drops MV for 'So Good, Getting Better'\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#CodeKunst #BTS #Ireh #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "18099970670691681",
+  "permalink": "https://www.instagram.com/reel/DgMwdMCFzvN/",
+  "published_at": "2026-11-26T09:14:19Z"
+}
