@@ -58,8 +58,13 @@
   "candidate_ids": [
     "7ecf8e0764c6"
   ],
-  "status": "approved",
+  "status": "published",
   "rendered": 4,
   "photo_used": true,
-  "approved": true
+  "approved": true,
+  "attempts": 1,
+  "last_error": "{\"message\": \"Application request limit reached\", \"code\": 4, \"type\": \"OAuthException\", \"error_subcode\": 2207051, \"is_transient\": false, \"error_user_msg\": \"Instagram은 커뮤니티를 보호하기 위해 특정 활동을 제한합니다. 이 조치가 실수라고 생각하는 경우 저희에게 알려주세요.\", \"error_user_title\": \"행동이 차단되었습니다\", \"fbtrace_id\": \"AqM4cxSkgj4JMrjerJb3z-u\"}",
+  "media_id": "18292667209288590",
+  "permalink": "https://www.instagram.com/p/DgMiRmooCP-/",
+  "published_at": "2026-11-26T07:10:11Z"
 }
