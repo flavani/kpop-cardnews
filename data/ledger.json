@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-25T20:05:00Z",
+ "last_run": "2026-11-26T01:07:00Z",
  "processed": {
   "811a88d7d126": {
    "at": "2026-11-19T09:10:00Z",
@@ -3407,6 +3407,78 @@
   },
   "e549c9e59657": {
    "at": "2026-11-25T20:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "6b304efbc7d4": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "20261126-1007-txt-perfectstorm-circle-album"
+  },
+  "0048e55c9b9c": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "20261126-1007-yooksungjae-ninetosix-premiere"
+  },
+  "26e33bc6212c": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "20261126-1007-yooksungjae-ninetosix-premiere"
+  },
+  "e4ac51c92e0e": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "skip:excluded"
+  },
+  "f55b80a4f5cc": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "skip:excluded"
+  },
+  "87f54ab9ab08": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "skip:excluded"
+  },
+  "4bee3b1f7a79": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "skip:excluded"
+  },
+  "3dd60ed74fc7": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "skip:excluded"
+  },
+  "b48e0b807341": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "8ff405ee9532": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "738987151da1": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "1cee2ce01d20": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "58d841b3dcf5": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d245398408f5": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "e6cb326e10a5": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "9a1f40610436": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "43ed1c45cae6": {
+   "at": "2026-11-26T01:07:00Z",
+   "result": "skip:not-kpop"
+  },
+  "db927cd7fa27": {
+   "at": "2026-11-26T01:07:00Z",
    "result": "skip:not-kpop"
   }
  },

@@ -1,0 +1,63 @@
+{
+  "id": "20261126-1007-txt-perfectstorm-circle-album",
+  "created_at": "2026-11-26T01:07:00Z",
+  "news_key": "txt-perfect-storm-circle-weekly-album-chart-1st-week47",
+  "group": "TXT",
+  "category": "CHART",
+  "headline": "TXT top Circle album chart with 'PERFECT STORM'",
+  "highlight": "TXT",
+  "sub": "1.46 million copies in week one, plus a download chart No. 1",
+  "photo": "https://cdn.nc.press/news/photo/202611/631936_872720_316.jpg",
+  "photo_alternates": [
+    "https://img.etoday.co.kr/pto_db/2026/11/20261124080110_2422396_1200_800.jpg"
+  ],
+  "focus": "50% 40%",
+  "credit": "Photo: BIGHIT MUSIC",
+  "info": {
+    "title": "Circle Chart week 47",
+    "rows": [
+      [
+        "Week",
+        "Nov 15–21"
+      ],
+      [
+        "Album",
+        "No. 1 'PERFECT STORM'"
+      ],
+      [
+        "Sales",
+        "1,463,034 copies"
+      ],
+      [
+        "Download",
+        "No. 1 'Angel Bite'"
+      ]
+    ]
+  },
+  "points": {
+    "title": "Also on the chart",
+    "items": [
+      "Combined sales incl. Weverse/SMC: 1.77M",
+      "'Angel Bite' debuts at No. 11 on Global K-pop",
+      "ATEEZ lead retail album chart 2 weeks running",
+      "BESTie's 2013 'Love Options' tops Global K-pop"
+    ]
+  },
+  "source": "Source: Circle Chart, via Korean media",
+  "caption": "TXT have topped Korea's Circle weekly album chart with their 9th mini album 'PERFECT STORM'!\n\nFor the week of Nov 15–21, 'PERFECT STORM' sold 1,463,034 copies on the album chart, and 1,766,818 including Weverse and SMC versions. Title track 'Angel Bite' also took No. 1 on the download chart, giving TXT a double crown. Elsewhere, ATEEZ's 'GOLDEN HOUR : Part.6' led the retail album chart for a 2nd week, and BESTie's 2013 song 'Love Options' hit No. 1 on the Global K-pop chart after going viral on short-form video.\n\n📌 Source: Circle Chart, via Korean media (News Culture, GP Korea)\n#TXT #TOMORROW_X_TOGETHER #투모로우바이투게더 #PERFECTSTORM #AngelBite #CircleChart #kpop #kpopnews",
+  "sources": [
+    "https://www.nc.press/news/articleView.html?idxno=631936",
+    "https://www.gpkorea.com/news/articleView.html?idxno=149046",
+    "https://www.slist.kr/news/articleView.html?idxno=784933"
+  ],
+  "sensitivity": "normal",
+  "hook": 7,
+  "song": {
+    "title": "Angel Bite",
+    "artist": "TOMORROW X TOGETHER"
+  },
+  "candidate_ids": [
+    "6b304efbc7d4"
+  ],
+  "status": "draft"
+}
