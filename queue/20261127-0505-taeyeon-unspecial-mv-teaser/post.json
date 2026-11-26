@@ -1,0 +1,64 @@
+{
+  "id": "20261127-0505-taeyeon-unspecial-mv-teaser",
+  "created_at": "2026-11-26T20:06:00Z",
+  "news_key": "taeyeon-unspecial-4th-album-mv-teaser",
+  "group": "TAEYEON",
+  "category": "TEASER",
+  "headline": "TAEYEON drops 'Unspecial' MV teaser ahead of Nov 30 return",
+  "highlight": "TAEYEON",
+  "sub": "Her first full-length album in nearly five years",
+  "photo": "https://i.ytimg.com/vi/eLr6PadNa-0/maxresdefault.jpg",
+  "photo_alternates": [
+    "https://newsimg.koreatimes.co.kr/2026/11/09/e94af7d7-e2fc-4e46-84a2-0e303198a655.png",
+    "https://cdn.specialtimes.co.kr/news/photo/202611/487519_473729_2951.jpg"
+  ],
+  "focus": "50% 35%",
+  "credit": "Photo: SMTOWN",
+  "info": {
+    "title": "Comeback details",
+    "rows": [
+      [
+        "Release",
+        "Nov 30 (Mon), 6 PM KST"
+      ],
+      [
+        "Album",
+        "4th studio album 'Unspecial'"
+      ],
+      [
+        "Title",
+        "'Unspecial'"
+      ],
+      [
+        "Tracks",
+        "12 songs"
+      ]
+    ]
+  },
+  "points": {
+    "title": "What to know",
+    "items": [
+      "First studio album since 'INVU' (Feb 2022)",
+      "Title track shares the album's name",
+      "Solo concert 'F.L.Y.' at KSPO DOME Jan 15-17"
+    ]
+  },
+  "source": "Source: SMTOWN official YouTube, via Korean media",
+  "caption": "TAEYEON has released the music video teaser for 'Unspecial', the title track of her 4th studio album.\n\nThe 12-track album drops Nov 30 at 6 PM KST — her first full-length release since 'INVU' in February 2022. Next up: her solo concert 'F.L.Y.' at KSPO DOME in Seoul, Jan 15-17.\n\n📌 Source: SMTOWN official YouTube, via Korean media (Specialtimes, Korea Times)\n#TAEYEON #태연 #Unspecial #GirlsGeneration #SNSD #kpopcomeback #kpop #kpopnews",
+  "sources": [
+    "https://www.youtube.com/watch?v=eLr6PadNa-0",
+    "https://www.specialtimes.co.kr/news/articleView.html?idxno=487519",
+    "https://www.koreatimes.co.kr/entertainment/k-pop/20261109/taeyeon-to-release-4th-studio-album-unspecial-on-nov-30",
+    "https://sports.khan.co.kr/en/article/202611170943007"
+  ],
+  "sensitivity": "normal",
+  "hook": 8,
+  "song": {
+    "title": "Unspecial",
+    "artist": "TAEYEON"
+  },
+  "candidate_ids": [
+    "b6b8d126a8d7"
+  ],
+  "status": "draft"
+}

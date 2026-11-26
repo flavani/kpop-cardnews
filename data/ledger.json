@@ -1,42 +1,6 @@
 {
- "last_run": "2026-11-26T15:05:55Z",
+ "last_run": "2026-11-26T20:06:00Z",
  "processed": {
-  "c3297ea9381e": {
-   "at": "2026-11-19T17:09:38Z",
-   "result": "20261120-0209-bigbang-surprise-digital-single"
-  },
-  "85a81e195b26": {
-   "at": "2026-11-19T17:09:38Z",
-   "result": "skip:not-kpop"
-  },
-  "02d34135c348": {
-   "at": "2026-11-19T17:09:38Z",
-   "result": "skip:excluded"
-  },
-  "95244a0a42b5": {
-   "at": "2026-11-19T17:09:38Z",
-   "result": "skip:not-kpop"
-  },
-  "e31db19ba62b": {
-   "at": "2026-11-19T18:09:54Z",
-   "result": "skip:excluded"
-  },
-  "31edfc4a0b00": {
-   "at": "2026-11-19T18:09:54Z",
-   "result": "skip:excluded"
-  },
-  "f7c24ed8e930": {
-   "at": "2026-11-19T18:09:54Z",
-   "result": "skip:excluded"
-  },
-  "bb4432c785f9": {
-   "at": "2026-11-19T18:09:54Z",
-   "result": "skip:not-kpop"
-  },
-  "b72a6ce2c10a": {
-   "at": "2026-11-19T19:09:18Z",
-   "result": "skip:not-kpop"
-  },
   "bcf8ec8a4c3a": {
    "at": "2026-11-19T22:10:26Z",
    "result": "skip:not-kpop"
@@ -3191,6 +3155,38 @@
   },
   "52697e07caf4": {
    "at": "2026-11-26T15:05:55Z",
+   "result": "skip:excluded"
+  },
+  "b6b8d126a8d7": {
+   "at": "2026-11-26T20:06:00Z",
+   "result": "20261127-0505-taeyeon-unspecial-mv-teaser"
+  },
+  "b923fc1fc4ff": {
+   "at": "2026-11-26T20:06:00Z",
+   "result": "20261127-0505-niziu-jolly-jolly-teaser2"
+  },
+  "b9b26a0072f6": {
+   "at": "2026-11-26T20:06:00Z",
+   "result": "skip:excluded"
+  },
+  "50418686ea9f": {
+   "at": "2026-11-26T20:06:00Z",
+   "result": "skip:excluded"
+  },
+  "8eaac1bef299": {
+   "at": "2026-11-26T20:06:00Z",
+   "result": "skip:excluded"
+  },
+  "7e04f3a378a4": {
+   "at": "2026-11-26T20:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "173934627d4f": {
+   "at": "2026-11-26T20:06:00Z",
+   "result": "skip:excluded"
+  },
+  "14e6b0ed87dc": {
+   "at": "2026-11-26T20:06:00Z",
    "result": "skip:excluded"
   }
  },
