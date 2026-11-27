@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-27T06:25:00Z",
+ "last_run": "2026-11-27T11:05:00Z",
  "processed": {
   "94ea00cf2d3d": {
    "at": "2026-11-20T11:10:14Z",
@@ -3240,6 +3240,182 @@
   "bd0e6968ba3a": {
    "at": "2026-11-27T06:25:00Z",
    "result": "skip:excluded"
+  },
+  "522a74c016a8": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "79f1901d22eb": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "4fb17f5c8554": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "b88eeed18c6f": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "9bb484e820ea": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "28f307bfd462": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "2a72be6e666c": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "a922a7b7ffdc": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "276c91b26e3a": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "5ae039b21852": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "443521d6740b": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "6255553af5f7": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "4ac5f5ee50e6": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "f5714f635f1e": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "3cf3fd6446b1": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "3b2599ea8045": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "d1459b6694fb": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "746728a54ea5": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "f9ec16911451": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:duplicate"
+  },
+  "badf0012e2e4": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "f9b860cdf0e7": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "a1b05f3faa2a": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "1faa8904e2e3": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d0ff96003bd3": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "ad382abffbe7": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "8f0900fe2906": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "f0e605e16c12": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "ac2bf46da936": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "06abf505ff19": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "9d137b8cf6a9": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "5a4c9af234ad": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "20261127-2005-exo-kase-mv-teaser"
+  },
+  "c5495ffa0523": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "16e9b0921f82": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:duplicate"
+  },
+  "aab9c9a31940": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "843cd49effd6": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "d53c595c9064": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "4ebe639454c4": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "57eb72db4c68": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "bd0dfebadb05": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "1f3e3334cd3b": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "ee94fd398b60": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:not-kpop"
+  },
+  "6425e337197a": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "0b0f8a999d4f": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:excluded"
+  },
+  "dd6d0196573c": {
+   "at": "2026-11-27T11:05:00Z",
+   "result": "skip:not-kpop"
   }
  }
 }

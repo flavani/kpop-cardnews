@@ -1,0 +1,47 @@
+{
+  "id": "20261127-2005-exo-kase-mv-teaser",
+  "created_at": "2026-11-27T11:05:00Z",
+  "news_key": "exo-kase-waking-up-the-city-mv-teaser",
+  "group": "EXO-KASE",
+  "category": "TEASER",
+  "headline": "EXO-KASE drops 'Waking Up The City' MV teaser",
+  "highlight": "EXO-KASE",
+  "sub": "Kai and Sehun's debut as a duo lands Dec 1 at 6 PM KST",
+  "photo": "https://i.ytimg.com/vi/GiJia0NC7uY/maxresdefault.jpg",
+  "photo_alternates": [
+    "https://newsimg.koreatimes.co.kr/2026/11/11/98c96e9f-0b0a-4b83-aff7-4e1e4c47dadf.jpg",
+    "https://cdn.specialtimes.co.kr/news/photo/202611/487492_473709_5128.jpg"
+  ],
+  "focus": "50% 35%",
+  "credit": "Photo: SM Entertainment",
+  "info": {
+    "title": "Comeback details",
+    "rows": [
+      ["Release", "Dec 1 (Tue), 6 PM KST"],
+      ["Album", "1st mini 'Waking Up The City'"],
+      ["Title", "'Waking Up The City'"],
+      ["Tracks", "7, incl. one solo each"]
+    ]
+  },
+  "points": {
+    "title": "What to know",
+    "items": [
+      "EXO's newest unit after EXO-CBX and EXO-SC",
+      "SM calls it a 'visual performance unit'",
+      "Pre-orders are open now"
+    ]
+  },
+  "source": "Source: SM Entertainment (SMTOWN), via Korean media",
+  "caption": "EXO-KASE has dropped the MV teaser for 'Waking Up The City' ahead of their debut next week.\n\nKai and Sehun, EXO's 1994-born duo, release their 1st mini album 'Waking Up The City' on Dec 1 at 6 PM KST. The 7-track EP is led by the title track of the same name and includes one solo song from each member. SM Entertainment describes the pair as a 'visual performance unit', following EXO-CBX and EXO-SC.\n\n📌 Source: SM Entertainment (SMTOWN) via Korean media\n#EXOKASE #EXO #엑소 #KAI #SEHUN #WakingUpTheCity #kpop #kpopnews #kpopcomeback",
+  "sources": [
+    "https://www.youtube.com/watch?v=GiJia0NC7uY",
+    "https://www.koreatimes.co.kr/entertainment/k-pop/20261111/exos-kai-sehun-to-debut-as-duo-exo-kase-on-dec-1",
+    "https://www.koreaherald.com/article/10933633",
+    "https://www.specialtimes.co.kr/news/articleView.html?idxno=487492"
+  ],
+  "sensitivity": "normal",
+  "hook": 8,
+  "song": {"title": "Waking Up The City", "artist": "EXO-KASE"},
+  "candidate_ids": ["5a4c9af234ad"],
+  "status": "draft"
+}
