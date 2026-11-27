@@ -17,10 +17,22 @@
   "info": {
     "title": "Comeback details",
     "rows": [
-      ["Release", "Dec 1 (Tue), 6 PM KST"],
-      ["Album", "1st mini 'Waking Up The City'"],
-      ["Title", "'Waking Up The City'"],
-      ["Tracks", "7, incl. one solo each"]
+      [
+        "Release",
+        "Dec 1 (Tue), 6 PM KST"
+      ],
+      [
+        "Album",
+        "1st mini 'Waking Up The City'"
+      ],
+      [
+        "Title",
+        "'Waking Up The City'"
+      ],
+      [
+        "Tracks",
+        "7, incl. one solo each"
+      ]
     ]
   },
   "points": {
@@ -41,7 +53,15 @@
   ],
   "sensitivity": "normal",
   "hook": 8,
-  "song": {"title": "Waking Up The City", "artist": "EXO-KASE"},
-  "candidate_ids": ["5a4c9af234ad"],
-  "status": "draft"
+  "song": {
+    "title": "Waking Up The City",
+    "artist": "EXO-KASE"
+  },
+  "candidate_ids": [
+    "5a4c9af234ad"
+  ],
+  "status": "approved",
+  "rendered": 4,
+  "photo_used": true,
+  "approved": true
 }
