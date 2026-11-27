@@ -51,5 +51,6 @@
   ],
   "status": "approved",
   "photo_used": true,
-  "approved": true
+  "approved": true,
+  "rendered": 3
 }
