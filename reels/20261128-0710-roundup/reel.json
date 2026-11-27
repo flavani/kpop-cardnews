@@ -1,0 +1,98 @@
+{
+  "id": "20261128-0710-roundup",
+  "covers": [
+    "20261128-0506-wendy-the-seasons-before-sunrise",
+    "20261128-0506-yejan-home-mv"
+  ],
+  "order_hooks": [
+    6.0,
+    3.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "WENDY Before Sunrise",
+      "results": []
+    },
+    {
+      "query": "WENDY",
+      "results": [
+        {
+          "audio_id": "738539871004290",
+          "title": "Proud",
+          "display_artist": "d.higgs"
+        },
+        {
+          "audio_id": "1467446783775860",
+          "title": "Changes",
+          "display_artist": "Doje"
+        },
+        {
+          "audio_id": "494809401069633",
+          "title": "On God",
+          "display_artist": "AR"
+        },
+        {
+          "audio_id": "1542616659125491",
+          "title": "Game Face",
+          "display_artist": "Jumbo"
+        },
+        {
+          "audio_id": "353460502001313",
+          "title": "Across the Sea",
+          "display_artist": "Fire and Grace"
+        }
+      ]
+    },
+    {
+      "query": "YEJAN HOME",
+      "results": []
+    },
+    {
+      "query": "YEJAN",
+      "results": []
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "887314389758766",
+          "title": "La La La",
+          "display_artist": "Julia Gartha"
+        },
+        {
+          "audio_id": "229596876055188",
+          "title": "Good Thing",
+          "display_artist": "Faver"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 28 — WENDY sings 'Before Sunrise' on KBS 'The Seasons'\n\n1️⃣ WENDY sings 'Before Sunrise' on KBS 'The Seasons'\n2️⃣ Gavy NJ's YEJAN drops MV for ballad 'HOME'\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#WENDY #GavyNJ #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "18115549700169403",
+  "permalink": "https://www.instagram.com/reel/DgQuPt4FbgZ/",
+  "published_at": "2026-11-27T22:11:55Z"
+}
