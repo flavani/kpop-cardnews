@@ -2,55 +2,52 @@
   "연합뉴스 연예": {
     "ok": true,
     "items": 120,
-    "new": 42,
-    "checked": "2026-11-27T06:03:34Z"
+    "new": 41,
+    "checked": "2026-11-27T06:07:43Z"
   },
   "Soompi": {
     "ok": true,
     "items": 60,
-    "new": 6,
-    "checked": "2026-11-27T06:03:34Z"
+    "new": 0,
+    "checked": "2026-11-27T06:07:43Z"
   },
   "Koreaboo": {
     "ok": true,
     "items": 10,
-    "new": 10,
-    "checked": "2026-11-27T06:03:34Z"
+    "new": 0,
+    "checked": "2026-11-27T06:07:43Z"
   },
   "HYBE LABELS": {
-    "ok": true,
-    "items": 15,
-    "new": 14,
-    "checked": "2026-11-27T06:03:34Z"
+    "ok": false,
+    "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA",
+    "checked": "2026-11-27T06:07:43Z"
   },
   "SMTOWN": {
     "ok": true,
     "items": 15,
-    "new": 13,
-    "checked": "2026-11-27T06:03:35Z"
+    "new": 14,
+    "checked": "2026-11-27T06:07:43Z"
   },
   "JYP Entertainment": {
-    "ok": true,
-    "items": 15,
-    "new": 8,
-    "checked": "2026-11-27T06:03:35Z"
+    "ok": false,
+    "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg",
+    "checked": "2026-11-27T06:07:44Z"
   },
   "1theK": {
     "ok": true,
     "items": 15,
     "new": 1,
-    "checked": "2026-11-27T06:03:35Z"
+    "checked": "2026-11-27T06:07:44Z"
   },
   "Mnet K-POP": {
-    "ok": true,
-    "items": 15,
-    "new": 0,
-    "checked": "2026-11-27T06:03:35Z"
+    "ok": false,
+    "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbD8EppRX3ZwJSou-TVo90A",
+    "checked": "2026-11-27T06:07:44Z"
   },
   "KBS Kpop": {
     "ok": true,
     "items": 15,
-    "new": 2,
-    "checked": "2026-11-27T06:03:35Z"
+    "new": 0,
+    "checked": "2026-11-27T06:07:44Z"
   }
 }
