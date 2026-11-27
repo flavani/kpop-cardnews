@@ -52,5 +52,8 @@
     "67770017e41e",
     "c770c3a77cdb"
   ],
-  "status": "draft"
+  "status": "approved",
+  "rendered": 3,
+  "photo_used": true,
+  "approved": true
 }
