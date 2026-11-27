@@ -1,0 +1,82 @@
+{
+  "id": "20261127-1316-roundup",
+  "covers": [
+    "20261127-1010-enhypen-mad-cool-2027",
+    "20261127-1010-mnet-bandai-namco-virtual-survival",
+    "20261127-1010-ftisland-ftsode-asia-2027"
+  ],
+  "order_hooks": [
+    8.0,
+    5.0,
+    4.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "ENHYPEN I Want You",
+      "results": []
+    },
+    {
+      "query": "ENHYPEN",
+      "results": [
+        {
+          "audio_id": "908369400924600",
+          "title": "Melt",
+          "display_artist": "YUNGDAN"
+        },
+        {
+          "audio_id": "1219110289684060",
+          "title": "Catch 22 (Instrumental)",
+          "display_artist": "Danie"
+        },
+        {
+          "audio_id": "829923997613850",
+          "title": "Country to the Bone",
+          "display_artist": "Jonny Houlihan"
+        }
+      ]
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "887314389758766",
+          "title": "La La La",
+          "display_artist": "Julia Gartha"
+        },
+        {
+          "audio_id": "229596876055188",
+          "title": "Good Thing",
+          "display_artist": "Faver"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 27 — ENHYPEN to headline Madrid's Mad Cool 2027\n\n1️⃣ ENHYPEN to headline Madrid's Mad Cool 2027\n2️⃣ Mnet, Bandai Namco team up for virtual idol survival show\n3️⃣ FTISLAND take 'FTSODE' to 3 Asian cities in January\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#ENHYPEN #Mnet #FTISLAND #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "18121471853515970",
+  "permalink": "https://www.instagram.com/reel/DgOzTOzlTvH/",
+  "published_at": "2026-11-27T04:17:36Z"
+}
