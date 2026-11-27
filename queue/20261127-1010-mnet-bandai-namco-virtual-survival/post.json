@@ -50,5 +50,8 @@
     "4ced14072317",
     "87cbd62076e1"
   ],
-  "status": "draft"
+  "status": "approved",
+  "rendered": 3,
+  "photo_used": true,
+  "approved": true
 }
