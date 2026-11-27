@@ -1,0 +1,34 @@
+{
+  "id": "20261128-0006-txt-angel-bite-music-bank",
+  "created_at": "2026-11-27T15:06:00Z",
+  "news_key": "txt-angel-bite-music-bank-second-win",
+  "group": "TXT",
+  "category": "MUSIC SHOW",
+  "headline": "TXT take 2nd 'Angel Bite' win on 'Music Bank'",
+  "highlight": "TXT",
+  "sub": "Beat TWICE's NAYEON with 9,898 points on Nov 27",
+  "photo": "https://img.etoday.co.kr/pto_db/2026/11/20261123111021_2421914_1066_1600.jpg",
+  "photo_alternates": [
+    "https://photo.newsen.com/news_photo/2026/11/27/202611271042190410_1.jpg"
+  ],
+  "focus": "50% 30%",
+  "credit": "Photo: BIGHIT MUSIC",
+  "source": "Source: KBS 2TV 'Music Bank', via Korean media",
+  "caption": "TXT have picked up their second music show trophy for 'Angel Bite', winning on KBS 2TV's 'Music Bank'.\n\nOn the Nov 27 broadcast, TXT topped TWICE's NAYEON ('BABY ANGEL') with 9,898 points. The win follows their first trophy on 'Show Champion' earlier this week, as 'Angel Bite' keeps climbing Korean charts — Melon daily listeners are up about 60% since release. TXT continue promotions on 'Show! Music Core' (Nov 28) and 'Inkigayo' (Nov 29).\n\n📌 Source: KBS 2TV 'Music Bank' via Korean media\n#TXT #TOMORROW_X_TOGETHER #투모로우바이투게더 #AngelBite #PERFECTSTORM #MusicBank #kpop #kpopnews",
+  "sources": [
+    "https://www.soompi.com/article/1891451wpp/watch-txt-takes-2nd-win-for-angel-bite-on-music-bank-performances-by-nayeon-enhypen-and-more",
+    "https://m.news.nate.com/view/20261127n27184",
+    "https://www.newsen.com/news_view.php?uid=202611271042190410",
+    "https://www.etoday.co.kr/news/view/2651626"
+  ],
+  "sensitivity": "normal",
+  "hook": 7,
+  "song": {
+    "title": "Angel Bite",
+    "artist": "TOMORROW X TOGETHER"
+  },
+  "candidate_ids": [
+    "398dbf65387d"
+  ],
+  "status": "draft"
+}
