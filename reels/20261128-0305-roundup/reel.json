@@ -1,0 +1,78 @@
+{
+  "id": "20261128-0305-roundup",
+  "covers": [
+    "20261127-2005-exo-kase-mv-teaser",
+    "20261128-0006-txt-angel-bite-music-bank"
+  ],
+  "order_hooks": [
+    8.0,
+    7.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "EXO-KASE Waking Up The City",
+      "results": []
+    },
+    {
+      "query": "EXO-KASE",
+      "results": [
+        {
+          "audio_id": "2410580608981431",
+          "title": "An Encounter With Silence",
+          "display_artist": "Loga Ramin Torkian, Azam Ali"
+        }
+      ]
+    },
+    {
+      "query": "TOMORROW X TOGETHER Angel Bite",
+      "results": []
+    },
+    {
+      "query": "TOMORROW X TOGETHER",
+      "results": []
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "887314389758766",
+          "title": "La La La",
+          "display_artist": "Julia Gartha"
+        },
+        {
+          "audio_id": "229596876055188",
+          "title": "Good Thing",
+          "display_artist": "Faver"
+        },
+        {
+          "audio_id": "1730743721475993",
+          "title": "Colors",
+          "display_artist": "LAVLO"
+        },
+        {
+          "audio_id": "1415057302854519",
+          "title": "Favorite",
+          "display_artist": "Tash"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 28 — EXO-KASE drops 'Waking Up The City' MV teaser\n\n1️⃣ EXO-KASE drops 'Waking Up The City' MV teaser\n2️⃣ TXT take 2nd 'Angel Bite' win on 'Music Bank'\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#EXOKASE #TXT #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "18183152038447038",
+  "permalink": "https://www.instagram.com/reel/DgQSLD-jlKk/",
+  "published_at": "2026-11-27T18:06:24Z"
+}
