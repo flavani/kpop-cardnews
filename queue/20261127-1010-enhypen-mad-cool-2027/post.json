@@ -1,0 +1,63 @@
+{
+  "id": "20261127-1010-enhypen-mad-cool-2027",
+  "created_at": "2026-11-27T01:10:00Z",
+  "news_key": "enhypen-mad-cool-by-zurich-2027-headline",
+  "group": "ENHYPEN",
+  "category": "CONCERT",
+  "headline": "ENHYPEN to headline Madrid's Mad Cool 2027",
+  "highlight": "ENHYPEN",
+  "sub": "Friday headliner alongside The Neighbourhood and Jungle",
+  "photo": "https://images.khan.co.kr/article/2026/11/17/news-p.v1.20261117.dd975e1751b5438c9b63afa3fd3cf0a7_P1.jpg",
+  "photo_alternates": [
+    "https://images.khan.co.kr/article/2026/11/17/news-p.v1.20261117.8c78fa27ac2647f68841fdb59e5abca3_P1.jpg"
+  ],
+  "focus": "50% 40%",
+  "credit": "Photo: BELIFT LAB",
+  "info": {
+    "title": "At a glance",
+    "rows": [
+      [
+        "Festival",
+        "Mad Cool by Zurich 2027"
+      ],
+      [
+        "Date",
+        "Fri, Jul 9, 2027 (Day 3)"
+      ],
+      [
+        "Venue",
+        "Iberdrola Music, Madrid"
+      ],
+      [
+        "Lineup",
+        "The Strokes, RAYE, Tame Impala"
+      ]
+    ]
+  },
+  "points": {
+    "title": "What to know",
+    "items": [
+      "Mad Cool runs Jul 7–10 under its new name",
+      "ENHYPEN share Friday with The Neighbourhood",
+      "Latest release: 'I Want You' (Nov 2026)"
+    ]
+  },
+  "source": "Source: Mad Cool official lineup announcement",
+  "caption": "ENHYPEN are heading to Madrid as one of the headliners of Mad Cool 2027!\n\nThe festival, returning as Mad Cool by Zurich, revealed its full lineup on Nov 26 (local time). ENHYPEN take the stage on Day 3, Friday, July 9, sharing the day's top billing with The Neighbourhood, Jungle and Alex Warren. The Strokes, RAYE, Tame Impala, Faith No More and The xx also headline the four-day event (Jul 7–10).\n\n📌 Source: Mad Cool official lineup announcement\n#ENHYPEN #엔하이픈 #ENGENE #MadCool #MadCool2027 #kpopfestival #kpop #kpopnews",
+  "sources": [
+    "https://x.com/madcoolfestival/status/2126029163509239938",
+    "https://www.soompi.com/article/1891101wpp/enhypen-to-headline-mad-cool-2027-in-madrid",
+    "https://masdecibelios.es/mad-cool-2027-cartel/",
+    "https://jenesaispop.com/2026/11/26/534576/mad-cool-2027-cartel/"
+  ],
+  "sensitivity": "normal",
+  "hook": 8,
+  "song": {
+    "title": "I Want You",
+    "artist": "ENHYPEN"
+  },
+  "candidate_ids": [
+    "b35b64f67ad9"
+  ],
+  "status": "draft"
+}
