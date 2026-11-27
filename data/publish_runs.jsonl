@@ -110,3 +110,4 @@
 {"at": "2026-11-27T15:57:23Z", "run": "46021921856", "attempt": 11, "posted": 0, "outcome": "gap", "msg": "interval limit: last post 54 min ago, need 55 min"}
 {"at": "2026-11-27T16:03:19Z", "run": "46021921856", "attempt": 12, "posted": 1, "outcome": "posted", "msg": "published 20261127-2005-exo-kase-mv-teaser: https://www.instagram.com/p/DgQEFPwIZY5/"}
 {"at": "2026-11-27T17:04:07Z", "run": "46021921856", "attempt": 13, "posted": 2, "outcome": "posted", "msg": "published 20261128-0006-txt-angel-bite-music-bank: https://www.instagram.com/p/DgQLCeDnajb/"}
+{"at": "2026-11-27T18:04:10Z", "run": "46021921856", "attempt": 14, "posted": 2, "outcome": "empty", "msg": "connected as @kpop.quokka; no approved post waiting"}
