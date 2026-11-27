@@ -1,0 +1,56 @@
+{
+  "id": "20261127-1525-txt-see-you-tomorrow-spotify-100m",
+  "created_at": "2026-11-27T06:25:00Z",
+  "news_key": "txt-ill-see-you-there-tomorrow-spotify-100m",
+  "group": "TXT",
+  "category": "CHART",
+  "headline": "TXT's 'I'll See You There Tomorrow' hits 100M on Spotify",
+  "highlight": "TXT",
+  "sub": "A 2024 B-side becomes the group's 22nd song past 100M streams",
+  "photo": "https://img.tenasia.co.kr/photo/202611/BF.46564953.1.jpg",
+  "photo_alternates": [
+    "https://img.etoday.co.kr/pto_db/2026/11/20261127140514_2424965_1199_799.jpg",
+    "https://images.khan.co.kr/article/2026/11/27/news-p.v1.20261127.59423f42ab374462b47f7c7d0d3eb6d5_P1.jpg"
+  ],
+  "focus": "50% 40%",
+  "credit": "Photo: BIGHIT MUSIC",
+  "info": {
+    "title": "At a glance",
+    "rows": [
+      [
+        "Song",
+        "'I'll See You There Tomorrow'"
+      ],
+      [
+        "Album",
+        "'minisode 3: TOMORROW' (2024)"
+      ],
+      [
+        "Milestone",
+        "100M Spotify streams, Nov 25"
+      ],
+      [
+        "Count",
+        "TXT's 22nd song past 100M"
+      ]
+    ]
+  },
+  "source": "Source: BIGHIT MUSIC via Korean media (Tenasia, Sports Kyunghyang)",
+  "caption": "TXT's 'I'll See You There Tomorrow' has passed 100 million streams on Spotify.\n\nThe track, a B-side from the group's 2024 mini album 'minisode 3: TOMORROW', crossed the mark on Nov 25 after a fan-driven revival earlier this year. It's the 22nd TXT song to reach 100M on the platform. Meanwhile, the group keeps promoting new mini album 'PERFECT STORM' and its title track 'Angel Bite' on music shows this weekend.\n\n📌 Source: BIGHIT MUSIC, via Korean media\n#TXT #TOMORROW_X_TOGETHER #투모로우바이투게더 #IllSeeYouThereTomorrow #Spotify #MOA #kpop #kpopnews",
+  "sources": [
+    "https://www.tenasia.co.kr/article/2026112747394",
+    "https://sports.khan.co.kr/article/202611271437003/",
+    "https://www.etoday.co.kr/news/view/2653963",
+    "https://www.slist.kr/news/articleView.html?idxno=785349"
+  ],
+  "sensitivity": "normal",
+  "hook": 8,
+  "song": {
+    "title": "I'll See You There Tomorrow",
+    "artist": "TOMORROW X TOGETHER"
+  },
+  "candidate_ids": [
+    "6747dac68f66"
+  ],
+  "status": "draft"
+}
