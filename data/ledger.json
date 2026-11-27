@@ -1,266 +1,6 @@
 {
- "last_run": "2026-11-27T15:06:00Z",
+ "last_run": "2026-11-27T20:06:21Z",
  "processed": {
-  "af4e609d90cc": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "20261121-0011-mama-day1-bts-enhypen"
-  },
-  "e58cd6695e6c": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "20261121-0011-mama-day1-bts-enhypen"
-  },
-  "dda07781bec2": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "20261121-0011-mama-day1-bts-enhypen"
-  },
-  "64bd8b387cea": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "20261121-0011-mama-day1-bts-enhypen"
-  },
-  "76179d3a9558": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "20261121-0011-mama-day1-bts-enhypen"
-  },
-  "1c78a3c6a367": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "20261121-0011-mama-day1-bts-enhypen"
-  },
-  "93199f58632a": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "20261121-0011-mama-day1-bts-enhypen"
-  },
-  "a78e0b1564a7": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "20261121-0011-hyunjin-dior-ambassador"
-  },
-  "832e2dd0a437": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "20261121-0011-ive-show-what-i-am-encore"
-  },
-  "5ce034413dcc": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "20261121-0011-nctdream-musicbank-win"
-  },
-  "32eaf890fbd2": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "20261121-0011-nctdream-musicbank-win"
-  },
-  "19b5a03b751c": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "354ea5b5be42": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:excluded"
-  },
-  "f52d50ee8a40": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:excluded"
-  },
-  "863c0bf83939": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:excluded"
-  },
-  "4a10c5105686": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:excluded"
-  },
-  "ad2be30ca4af": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "b15392605803": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "3feee090f28c": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "323182bec06f": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "65c4dbed88e3": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "4a8ad1c29373": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "b7f73806595b": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "f58d799740d1": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "3e1bd896bc93": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "d3aaae6da947": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "d99cd8a09483": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "ce3991334c6d": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "330d1567d02f": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "e99005417cee": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "fc96c28686d3": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "81b3154ab241": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "f83affb86906": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "e377d166e0a0": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "7baa28a11ffc": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "d02f0e0a6703": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:not-kpop"
-  },
-  "7739086a9233": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "26f25c1c7af1": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "06fc868548ca": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "6bf4f12d5042": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "422066e92235": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "a7527b1f0547": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "aaa01f50824b": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "2544a1221194": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "3eb1c363a395": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "deb8453fe5a1": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "f00ee59f7ad0": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "221388a72d8a": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "389dff46276b": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "0f55d0f53991": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "b693c362f08c": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "655d59cf15de": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "447a328d0d70": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "9574aacd2f4a": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:excluded"
-  },
-  "cdd8f2c93181": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:excluded"
-  },
-  "a92b93307f48": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:excluded"
-  },
-  "b4f50478a610": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:excluded"
-  },
-  "b75c295f2a71": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:excluded"
-  },
-  "a7af90b71680": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:excluded"
-  },
-  "a57a026bbff8": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:excluded"
-  },
-  "9ba76507947e": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:excluded"
-  },
-  "72fe103dab9e": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:excluded"
-  },
-  "9b187986f052": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "c364e465bf0e": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:duplicate"
-  },
-  "f898be5c2322": {
-   "at": "2026-11-20T15:11:00Z",
-   "result": "skip:excluded"
-  },
   "626b70f21260": {
    "at": "2026-11-20T20:10:00Z",
    "result": "20261121-0510-niziu-jolly-jolly-teaser"
@@ -3356,6 +3096,70 @@
   "2a7ff8efcba1": {
    "at": "2026-11-27T15:06:00Z",
    "result": "skip:not-kpop"
+  },
+  "67770017e41e": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "20261128-0506-wendy-the-seasons-before-sunrise"
+  },
+  "c770c3a77cdb": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "20261128-0506-wendy-the-seasons-before-sunrise"
+  },
+  "c371a624512f": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "20261128-0506-yejan-home-mv"
+  },
+  "48b3d4035224": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "skip:not-kpop"
+  },
+  "117fada1243e": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "skip:not-kpop"
+  },
+  "6171b189f32d": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "skip:not-kpop"
+  },
+  "0f8ec0eccb0d": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "skip:not-kpop"
+  },
+  "f688e0e2166c": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "skip:not-kpop"
+  },
+  "ac0bf24e0111": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "skip:not-kpop"
+  },
+  "891cd5841284": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "skip:not-kpop"
+  },
+  "4da2e85b7a6e": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "skip:excluded"
+  },
+  "23b0513c8afa": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "skip:excluded"
+  },
+  "e1bc2369a0bd": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "skip:excluded"
+  },
+  "8fdd328539b8": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "skip:excluded"
+  },
+  "1171ade0e2d9": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "skip:excluded"
+  },
+  "fe18ce26e0e5": {
+   "at": "2026-11-27T20:06:21Z",
+   "result": "skip:excluded"
   }
  }
 }
