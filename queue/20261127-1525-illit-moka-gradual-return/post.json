@@ -7,10 +7,8 @@
   "headline": "ILLIT's Moka to gradually return after 5-month break",
   "highlight": "ILLIT",
   "sub": "\"I've been waiting for this day,\" she tells fans on Weverse",
-  "photo": "https://images.khan.co.kr/article/2026/10/28/news-p.v1.20261028.73062f484c0244e79d9df38f388db526_P1.jpg",
-  "photo_alternates": [
-    "https://images.khan.co.kr/article/2026/07/19/news-p.v1.20260719.d7679712741e45119e49eba79769530c_P1.jpg"
-  ],
+  "photo": "https://images.khan.co.kr/article/2026/07/19/news-p.v1.20260719.d7679712741e45119e49eba79769530c_P1.jpg",
+  "photo_alternates": [],
   "focus": "50% 40%",
   "credit": "Photo: BELIFT LAB",
   "info": {
@@ -52,7 +50,6 @@
     "0a9e96acde51"
   ],
   "status": "approved",
-  "rendered": 3,
   "photo_used": true,
   "approved": true
 }
