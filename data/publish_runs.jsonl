@@ -108,3 +108,4 @@
 {"at": "2026-11-27T15:47:18Z", "run": "46021921856", "attempt": 9, "posted": 0, "outcome": "gap", "msg": "interval limit: last post 44 min ago, need 55 min"}
 {"at": "2026-11-27T15:52:21Z", "run": "46021921856", "attempt": 10, "posted": 0, "outcome": "gap", "msg": "interval limit: last post 49 min ago, need 55 min"}
 {"at": "2026-11-27T15:57:23Z", "run": "46021921856", "attempt": 11, "posted": 0, "outcome": "gap", "msg": "interval limit: last post 54 min ago, need 55 min"}
+{"at": "2026-11-27T16:03:19Z", "run": "46021921856", "attempt": 12, "posted": 1, "outcome": "posted", "msg": "published 20261127-2005-exo-kase-mv-teaser: https://www.instagram.com/p/DgQEFPwIZY5/"}
