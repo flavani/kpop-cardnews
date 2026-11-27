@@ -1,0 +1,98 @@
+{
+  "id": "20261127-2307-roundup",
+  "covers": [
+    "20261127-1525-txt-see-you-tomorrow-spotify-100m",
+    "20261127-1525-illit-moka-gradual-return",
+    "20261127-1525-sjde-destival-2027-tour",
+    "20261127-1525-jeonwoong-solo-debut"
+  ],
+  "order_hooks": [
+    8.0,
+    7.0,
+    6.0,
+    4.0
+  ],
+  "music": {
+    "audio_id": "1418097553068030",
+    "title": "NOT CUTE ANYMORE (Holiday Night ver.)",
+    "display_artist": "ILLIT"
+  },
+  "music_reason": "artist's song of story 2",
+  "music_search": [
+    {
+      "query": "TOMORROW X TOGETHER I'll See You There Tomorrow",
+      "results": []
+    },
+    {
+      "query": "TOMORROW X TOGETHER",
+      "results": []
+    },
+    {
+      "query": "ILLIT It's Me",
+      "results": [
+        {
+          "audio_id": "1167636591306065",
+          "title": "Popz",
+          "display_artist": "half.cool"
+        },
+        {
+          "audio_id": "1893091314680556",
+          "title": "Chances",
+          "display_artist": "Company Money"
+        },
+        {
+          "audio_id": "417713159414469",
+          "title": "You",
+          "display_artist": "Kiri T"
+        },
+        {
+          "audio_id": "1121615626025944",
+          "title": "Do It Like Me (Reels Sound - Reaction)",
+          "display_artist": "Giulio Cercato"
+        },
+        {
+          "audio_id": "518136527817376",
+          "title": "Magnetic",
+          "display_artist": "Sugartapes"
+        }
+      ]
+    },
+    {
+      "query": "ILLIT",
+      "results": [
+        {
+          "audio_id": "1418097553068030",
+          "title": "NOT CUTE ANYMORE (Holiday Night ver.)",
+          "display_artist": "ILLIT"
+        },
+        {
+          "audio_id": "229596876055188",
+          "title": "Good Thing",
+          "display_artist": "Faver"
+        },
+        {
+          "audio_id": "2120570715052169",
+          "title": "Shibuya (Instrumental)",
+          "display_artist": "Sugartapes"
+        },
+        {
+          "audio_id": "988333355589920",
+          "title": "Stay Out",
+          "display_artist": "half.cool"
+        },
+        {
+          "audio_id": "806487351156254",
+          "title": "Forever",
+          "display_artist": "Giulio Cercato"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 27 — TXT's 'I'll See You There Tomorrow' hits 100M on Spotify\n\n1️⃣ TXT's 'I'll See You There Tomorrow' hits 100M on Spotify\n2️⃣ ILLIT's Moka to gradually return after 5-month break\n3️⃣ SUPER JUNIOR-D&E announce 2027 tour 'D&ESTIVAL'\n4️⃣ Jeon Woong makes solo debut Nov 30\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#TXT #ILLIT #SUPERJUNIORDE #JeonWoong #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "18097247381178936",
+  "permalink": "https://www.instagram.com/reel/DgP9HukkjPD/",
+  "published_at": "2026-11-27T15:02:55Z"
+}
