@@ -1,0 +1,67 @@
+{
+  "id": "20261128-1505-ateez-zero-to-all-europe",
+  "news_key": "ateez-2027-zero-to-all-europe-dates",
+  "group": "ATEEZ",
+  "category": "TOUR",
+  "headline": "ATEEZ bring 'ZERO TO ALL' tour to 7 European arenas",
+  "highlight": "ATEEZ",
+  "sub": "Europe leg opens at London's The O2 on Mar 31, 2027",
+  "photo": "https://wimg.heraldcorp.com/news/cms/2026/11/28/news-p.v1.20261128.875081ac52f14d93a88705a9212d3525_P1.jpg",
+  "photo_alternates": [
+    "https://www.cbci.co.kr/news/photo/202611/631560_434289_1258.jpg"
+  ],
+  "focus": "50% 30%",
+  "credit": "Photo: KQ Entertainment",
+  "info": {
+    "title": "Tour dates",
+    "rows": [
+      [
+        "London",
+        "Mar 31 · The O2"
+      ],
+      [
+        "Lyon",
+        "Apr 4 · LDLC Arena"
+      ],
+      [
+        "Berlin",
+        "Apr 7 · Uber Arena"
+      ],
+      [
+        "Kraków",
+        "Apr 10 · Tauron Arena"
+      ],
+      [
+        "More",
+        "Amsterdam, Cologne, Antwerp"
+      ]
+    ]
+  },
+  "points": {
+    "title": "What to know",
+    "items": [
+      "6 countries, 7 cities, all 10,000+ arenas",
+      "First Poland show since 2019",
+      "World tour kicks off in Incheon Jan 22–24",
+      "Japan and the Americas legs to follow"
+    ]
+  },
+  "source": "Source: KQ Entertainment via Korean media",
+  "caption": "ATEEZ are taking their 2027 world tour 'ZERO TO ALL' across Europe.\n\nKQ Entertainment revealed the Europe leg: London's The O2 (Mar 31), Lyon (Apr 4), Berlin (Apr 7), Kraków (Apr 10), Amsterdam (Apr 12), Cologne (Apr 15) and Antwerp (Apr 17). That's 6 countries and 7 cities, all large arenas. The tour opens in Incheon Jan 22–24 before heading to Japan, Europe and the Americas.\n\n📌 Source: KQ Entertainment, via Korean media (Herald Muse, CBC News)\n#ATEEZ #에이티즈 #ZEROTOALL #ATEEZWorldTour #ATINY #kpoptour #kpop #kpopnews",
+  "sources": [
+    "https://www.heraldmuse.com/article/10952395",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=631560",
+    "https://www.slist.kr/news/articleView.html?idxno=785495"
+  ],
+  "sensitivity": "normal",
+  "hook": 8,
+  "song": {
+    "title": "UP",
+    "artist": "ATEEZ"
+  },
+  "candidate_ids": [
+    "f051a7933571"
+  ],
+  "created_at": "2026-11-28T06:05:58Z",
+  "status": "draft"
+}
