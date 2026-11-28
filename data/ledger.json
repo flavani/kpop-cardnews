@@ -1,138 +1,6 @@
 {
- "last_run": "2026-11-27T20:06:21Z",
+ "last_run": "2026-11-28T01:06:00Z",
  "processed": {
-  "626b70f21260": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "20261121-0510-niziu-jolly-jolly-teaser"
-  },
-  "c8b6a4c1ae2a": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "20261121-0510-izna-iwaly-special-single"
-  },
-  "5d5069bec3f3": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "20261121-0510-jx-busan-encore"
-  },
-  "f21a6e4c68c5": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:duplicate"
-  },
-  "53c5b0a94d7b": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:duplicate"
-  },
-  "a78235295b02": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:duplicate"
-  },
-  "f2caba4ae88c": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:duplicate"
-  },
-  "04561d6f5693": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:duplicate"
-  },
-  "60e11adb032c": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "a9f25f89c6af": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "2296087b8790": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "f2ce25700394": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "efc595879f76": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "d9f3234a5275": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "d583410d651d": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "87d2194a9539": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "533532fed84b": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "79eb39ba296e": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "23e3c792ecf1": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "ed92d404132c": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "325bf2d6e028": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "dcbe0459461f": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "a7105bf0e624": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "2930eca1f2db": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "d6acf3b18f5d": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "059c423dec70": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "fc44da2c8355": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "93d56e8fcf1e": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "f4af105b4b02": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:not-kpop"
-  },
-  "08b5657ebc2a": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:excluded"
-  },
-  "dd1a163f8dbf": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:excluded"
-  },
-  "9322011f071e": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:excluded"
-  },
-  "1d249c9d2f5b": {
-   "at": "2026-11-20T20:10:00Z",
-   "result": "skip:excluded"
-  },
   "bbb5c18050c6": {
    "at": "2026-11-21T01:09:32Z",
    "result": "skip:excluded"
@@ -3160,6 +3028,30 @@
   "fe18ce26e0e5": {
    "at": "2026-11-27T20:06:21Z",
    "result": "skip:excluded"
+  },
+  "bba5aa237046": {
+   "at": "2026-11-28T01:06:00Z",
+   "result": "20261128-1006-huntrx-golden-uk-75-weeks"
+  },
+  "1d4f4f75c36e": {
+   "at": "2026-11-28T01:06:00Z",
+   "result": "skip:unverified"
+  },
+  "44e8091e50b0": {
+   "at": "2026-11-28T01:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "97d4294eb266": {
+   "at": "2026-11-28T01:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "785dc6658acb": {
+   "at": "2026-11-28T01:06:00Z",
+   "result": "skip:not-kpop"
+  },
+  "d87a1e4496b3": {
+   "at": "2026-11-28T01:06:00Z",
+   "result": "skip:not-kpop"
   }
  }
 }

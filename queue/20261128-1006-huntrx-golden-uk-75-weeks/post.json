@@ -1,0 +1,55 @@
+{
+  "id": "20261128-1006-huntrx-golden-uk-75-weeks",
+  "created_at": "2026-11-28T01:06:00Z",
+  "news_key": "huntrx-golden-uk-official-singles-75-weeks",
+  "group": "HUNTR/X",
+  "category": "CHART",
+  "headline": "HUNTR/X's 'Golden' logs 75 straight weeks on UK chart",
+  "highlight": "HUNTR/X",
+  "sub": "The 'KPop Demon Hunters' hit sits at No. 90 this week",
+  "photo": "https://dnm.nflximg.net/api/v6/s0XAg4q_jvYbSSbLvySyUsliNSg/AAAAQX5lZF77eIpLgp-aWBwpSe00r8utGfkjZfng8LrtH7HqcrhaFo-ETZ9KFckatzQyYJS0HCuKBsHIZANQS2ekYpvwI-aBdAp3B8wELzmxSGNy-FUQlFroQD1hM4HVYGtVLXBgvm1ZgjKab1VV47l91fjmfcg.jpg?r=f68",
+  "photo_alternates": [
+    "https://dnm.nflximg.net/api/v6/s0XAg4q_jvYbSSbLvySyUsliNSg/AAAAQVNu31_LOLcIi84BHBVusf1PdHbiZJsfJc6AFP5J_X0fU4VybNIXGmkZGk817xiB_KzqO4ryq2LG0P3QCMI8bJ4uE8-87TQ16JFxd-J9lTOUh99vj01CVRKS9uZnbC6fQm70s9Of-Jtr3RwKAdnM19eN.jpg?r=f68",
+    "https://dnm.nflximg.net/api/v6/s0XAg4q_jvYbSSbLvySyUsliNSg/AAAAQU982jWgjfyvUmrX6f0nocu3bdTwSrIZaxnIm7TIFBr2FyM9JVMK6YC9U-otbmBs9_7ZVEmimCRGwPSzaAQxIORtbivW40wD2BGMLrpUfQsmq6CxHaT98j5gexXINZjcNjaK0yiH21NCADCGiDt3c5AiLcc.jpg?r=77d"
+  ],
+  "focus": "50% 40%",
+  "credit": "Photo: Netflix",
+  "info": {
+    "title": "At a glance",
+    "rows": [
+      [
+        "Chart",
+        "UK Official Singles Top 100"
+      ],
+      [
+        "Week",
+        "Nov 27 – Dec 3"
+      ],
+      [
+        "Rank",
+        "No. 90 (prev. No. 67)"
+      ],
+      [
+        "Streak",
+        "75 consecutive weeks"
+      ]
+    ]
+  },
+  "source": "Source: Yonhap News, Newsis",
+  "caption": "'Golden' from 'KPop Demon Hunters' just hit 75 consecutive weeks on the UK Official Singles Chart.\n\nHUNTR/X's global smash ranks No. 90 on the latest Top 100 (chart dated Nov 27 – Dec 3), down from No. 67 last week. That's roughly a year and a half without leaving one of the world's two biggest pop charts.\n\n📌 Source: Yonhap News, Newsis (via Korean media)\n#HUNTRX #Golden #KPopDemonHunters #UKCharts #OfficialCharts #kpop #kpopnews #케데헌",
+  "sources": [
+    "https://www.fnnews.com/news/202611280728043313",
+    "https://www.segye.com/newsView/20261128501846",
+    "https://www.newstong.co.kr/view3.aspx?seq=14846486"
+  ],
+  "sensitivity": "normal",
+  "hook": 7,
+  "song": {
+    "title": "Golden",
+    "artist": "HUNTR/X"
+  },
+  "candidate_ids": [
+    "bba5aa237046"
+  ],
+  "status": "draft"
+}
