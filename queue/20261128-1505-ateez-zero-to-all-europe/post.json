@@ -63,5 +63,8 @@
     "f051a7933571"
   ],
   "created_at": "2026-11-28T06:05:58Z",
-  "status": "draft"
+  "status": "approved",
+  "rendered": 4,
+  "photo_used": true,
+  "approved": true
 }
