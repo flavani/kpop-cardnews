@@ -2,55 +2,51 @@
   "연합뉴스 연예": {
     "ok": true,
     "items": 120,
-    "new": 45,
-    "checked": "2026-11-28T02:54:21Z"
+    "new": 53,
+    "checked": "2026-11-28T06:03:17Z"
   },
   "Soompi": {
     "ok": true,
     "items": 60,
-    "new": 3,
-    "checked": "2026-11-28T02:54:21Z"
+    "new": 5,
+    "checked": "2026-11-28T06:03:17Z"
   },
   "Koreaboo": {
     "ok": true,
     "items": 10,
-    "new": 0,
-    "checked": "2026-11-28T02:54:21Z"
+    "new": 2,
+    "checked": "2026-11-28T06:03:17Z"
   },
   "HYBE LABELS": {
     "ok": true,
     "items": 15,
     "new": 15,
-    "checked": "2026-11-28T02:54:21Z"
+    "checked": "2026-11-28T06:03:17Z"
   },
   "SMTOWN": {
     "ok": true,
     "items": 15,
     "new": 13,
-    "checked": "2026-11-28T02:54:21Z"
+    "checked": "2026-11-28T06:03:17Z"
   },
   "JYP Entertainment": {
-    "ok": true,
-    "items": 15,
-    "new": 12,
-    "checked": "2026-11-28T02:54:22Z"
+    "ok": false,
+    "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg",
+    "checked": "2026-11-28T06:03:18Z"
   },
   "1theK": {
-    "ok": true,
-    "items": 15,
-    "new": 5,
-    "checked": "2026-11-28T02:54:22Z"
+    "ok": false,
+    "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCweOkPb1wVVH0Q0Tlj4a5Pw",
+    "checked": "2026-11-28T06:03:18Z"
   },
   "Mnet K-POP": {
-    "ok": true,
-    "items": 15,
-    "new": 0,
-    "checked": "2026-11-28T02:54:22Z"
+    "ok": false,
+    "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbD8EppRX3ZwJSou-TVo90A",
+    "checked": "2026-11-28T06:03:18Z"
   },
   "KBS Kpop": {
-    "ok": true,
-    "items": 15,
-    "new": 5,
-    "checked": "2026-11-28T02:54:22Z"
+    "ok": false,
+    "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCeLPm9yH_a_QH8n6445G-Ow",
+    "checked": "2026-11-28T06:03:18Z"
   }
 }
