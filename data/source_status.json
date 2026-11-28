@@ -2,51 +2,50 @@
   "연합뉴스 연예": {
     "ok": true,
     "items": 120,
-    "new": 53,
-    "checked": "2026-11-28T06:03:17Z"
+    "new": 57,
+    "checked": "2026-11-28T06:06:20Z"
   },
   "Soompi": {
     "ok": true,
     "items": 60,
     "new": 5,
-    "checked": "2026-11-28T06:03:17Z"
+    "checked": "2026-11-28T06:06:21Z"
   },
   "Koreaboo": {
     "ok": true,
     "items": 10,
-    "new": 2,
-    "checked": "2026-11-28T06:03:17Z"
+    "new": 0,
+    "checked": "2026-11-28T06:06:21Z"
   },
   "HYBE LABELS": {
-    "ok": true,
-    "items": 15,
-    "new": 15,
-    "checked": "2026-11-28T06:03:17Z"
+    "ok": false,
+    "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA",
+    "checked": "2026-11-28T06:06:21Z"
   },
   "SMTOWN": {
-    "ok": true,
-    "items": 15,
-    "new": 13,
-    "checked": "2026-11-28T06:03:17Z"
+    "ok": false,
+    "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCEf_Bc-KVd7onSeifS3py9g",
+    "checked": "2026-11-28T06:06:21Z"
   },
   "JYP Entertainment": {
-    "ok": false,
-    "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg",
-    "checked": "2026-11-28T06:03:18Z"
+    "ok": true,
+    "items": 15,
+    "new": 12,
+    "checked": "2026-11-28T06:06:21Z"
   },
   "1theK": {
     "ok": false,
     "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCweOkPb1wVVH0Q0Tlj4a5Pw",
-    "checked": "2026-11-28T06:03:18Z"
+    "checked": "2026-11-28T06:06:21Z"
   },
   "Mnet K-POP": {
     "ok": false,
     "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbD8EppRX3ZwJSou-TVo90A",
-    "checked": "2026-11-28T06:03:18Z"
+    "checked": "2026-11-28T06:06:21Z"
   },
   "KBS Kpop": {
     "ok": false,
     "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCeLPm9yH_a_QH8n6445G-Ow",
-    "checked": "2026-11-28T06:03:18Z"
+    "checked": "2026-11-28T06:06:22Z"
   }
 }
