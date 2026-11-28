@@ -2,50 +2,55 @@
   "연합뉴스 연예": {
     "ok": true,
     "items": 120,
-    "new": 57,
-    "checked": "2026-11-28T06:06:20Z"
+    "new": 56,
+    "checked": "2026-11-28T11:03:28Z"
   },
   "Soompi": {
     "ok": true,
     "items": 60,
-    "new": 5,
-    "checked": "2026-11-28T06:06:21Z"
+    "new": 6,
+    "checked": "2026-11-28T11:03:28Z"
   },
   "Koreaboo": {
     "ok": true,
     "items": 10,
-    "new": 0,
-    "checked": "2026-11-28T06:06:21Z"
+    "new": 2,
+    "checked": "2026-11-28T11:03:28Z"
   },
   "HYBE LABELS": {
-    "ok": false,
-    "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA",
-    "checked": "2026-11-28T06:06:21Z"
+    "ok": true,
+    "items": 15,
+    "new": 15,
+    "checked": "2026-11-28T11:03:28Z"
   },
   "SMTOWN": {
-    "ok": false,
-    "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCEf_Bc-KVd7onSeifS3py9g",
-    "checked": "2026-11-28T06:06:21Z"
+    "ok": true,
+    "items": 15,
+    "new": 13,
+    "checked": "2026-11-28T11:03:28Z"
   },
   "JYP Entertainment": {
     "ok": true,
     "items": 15,
     "new": 12,
-    "checked": "2026-11-28T06:06:21Z"
+    "checked": "2026-11-28T11:03:28Z"
   },
   "1theK": {
-    "ok": false,
-    "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCweOkPb1wVVH0Q0Tlj4a5Pw",
-    "checked": "2026-11-28T06:06:21Z"
+    "ok": true,
+    "items": 15,
+    "new": 7,
+    "checked": "2026-11-28T11:03:29Z"
   },
   "Mnet K-POP": {
-    "ok": false,
-    "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbD8EppRX3ZwJSou-TVo90A",
-    "checked": "2026-11-28T06:06:21Z"
+    "ok": true,
+    "items": 15,
+    "new": 7,
+    "checked": "2026-11-28T11:03:29Z"
   },
   "KBS Kpop": {
-    "ok": false,
-    "error": "503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCeLPm9yH_a_QH8n6445G-Ow",
-    "checked": "2026-11-28T06:06:22Z"
+    "ok": true,
+    "items": 15,
+    "new": 15,
+    "checked": "2026-11-28T11:03:29Z"
   }
 }
