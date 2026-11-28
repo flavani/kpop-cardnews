@@ -1,0 +1,150 @@
+{
+  "id": "20261128-1811-roundup",
+  "covers": [
+    "20261128-1505-ateez-zero-to-all-europe",
+    "20261128-1006-huntrx-golden-uk-75-weeks",
+    "20261128-1505-hwangminhyun-leaves-pledis",
+    "20261128-1505-chaeryeong-flu-fansign-postponed"
+  ],
+  "order_hooks": [
+    8.0,
+    7.0,
+    6.0,
+    5.0
+  ],
+  "music": {
+    "audio_id": "622819303274042",
+    "title": "Good Time",
+    "display_artist": "Alex Blue"
+  },
+  "music_reason": "artist not in Instagram's API catalog; upbeat catalog track instead",
+  "music_search": [
+    {
+      "query": "ATEEZ UP",
+      "results": []
+    },
+    {
+      "query": "ATEEZ",
+      "results": [
+        {
+          "audio_id": "908369400924600",
+          "title": "Melt",
+          "display_artist": "YUNGDAN"
+        },
+        {
+          "audio_id": "926080048445661",
+          "title": "Lemon Drops 30s (feat. Stephan Sharp, Jacquire King)",
+          "display_artist": "The K Club"
+        },
+        {
+          "audio_id": "819875522116182",
+          "title": "Bad",
+          "display_artist": "Chela Rivas"
+        },
+        {
+          "audio_id": "718447071682799",
+          "title": "Earritating",
+          "display_artist": "Global Genius"
+        }
+      ]
+    },
+    {
+      "query": "HUNTR/X Golden",
+      "results": [
+        {
+          "audio_id": "1032171746983079",
+          "title": "Feel Goods",
+          "display_artist": "Tickwanya"
+        },
+        {
+          "audio_id": "5914193432001877",
+          "title": "Golden (feat. Jacquire King, Stephan Sharp)",
+          "display_artist": "The K Club"
+        }
+      ]
+    },
+    {
+      "query": "HUNTR/X",
+      "results": [
+        {
+          "audio_id": "1032171746983079",
+          "title": "Feel Goods",
+          "display_artist": "Tickwanya"
+        },
+        {
+          "audio_id": "5914193432001877",
+          "title": "Golden (feat. Jacquire King, Stephan Sharp)",
+          "display_artist": "The K Club"
+        },
+        {
+          "audio_id": "635461244441867",
+          "title": "Memory Lane (Loop)",
+          "display_artist": "Marshall Rogalski"
+        },
+        {
+          "audio_id": "853946358343143",
+          "title": "Nakama",
+          "display_artist": "Golden Braid Productions"
+        },
+        {
+          "audio_id": "1124659047670049",
+          "title": "Venom",
+          "display_artist": "Elevated Mind"
+        }
+      ]
+    },
+    {
+      "query": "HWANG MIN HYUN OUR",
+      "results": []
+    },
+    {
+      "query": "HWANG MIN HYUN",
+      "results": []
+    },
+    {
+      "query": "CHAERYEONG Lovesick",
+      "results": []
+    },
+    {
+      "query": "CHAERYEONG",
+      "results": []
+    },
+    {
+      "query": "kpop",
+      "results": [
+        {
+          "audio_id": "622819303274042",
+          "title": "Good Time",
+          "display_artist": "Alex Blue"
+        },
+        {
+          "audio_id": "476469597922928",
+          "title": "Rock It",
+          "display_artist": "Tony Dark Eyes"
+        },
+        {
+          "audio_id": "897193789954241",
+          "title": "Carnaval (Instrumental)",
+          "display_artist": "Sara Jaramillo"
+        },
+        {
+          "audio_id": "908369400924600",
+          "title": "Melt",
+          "display_artist": "YUNGDAN"
+        },
+        {
+          "audio_id": "2120570715052169",
+          "title": "Shibuya (Instrumental)",
+          "display_artist": "Sugartapes"
+        }
+      ]
+    }
+  ],
+  "caption": "📰 K-pop roundup · NOV 28 — ATEEZ bring 'ZERO TO ALL' tour to 7 European arenas\n\n1️⃣ ATEEZ bring 'ZERO TO ALL' tour to 7 European arenas\n2️⃣ HUNTR/X's 'Golden' logs 75 straight weeks on UK chart\n3️⃣ Hwang Minhyun to leave PLEDIS after his contract ends Dec 14\n4️⃣ ITZY's Chaeryeong postpones 3 fan signs after flu diagnosis\n\nFull story on each in our latest posts 👆 Follow for K-pop news straight from Korean sources.\n\n#ATEEZ #HUNTRX #HWANGMINHYUN #ITZY #kpop #kpopnews #kpoproundup",
+  "music_attached": true,
+  "video_sent_as": "video_url",
+  "status": "published",
+  "media_id": "18389835742237721",
+  "permalink": "https://www.instagram.com/reel/DgR55Vegkvs/",
+  "published_at": "2026-11-28T09:12:55Z"
+}
